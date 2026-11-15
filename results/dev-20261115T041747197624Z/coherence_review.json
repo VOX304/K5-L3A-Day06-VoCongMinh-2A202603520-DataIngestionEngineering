@@ -1,0 +1,782 @@
+[
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      1,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "39ff39e10bbd7d12b723def6b28226b1",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 1,
+      "text": "CHAPTER I.\nDown the Rabbit-Hole\n\nAlice was beginning to get very tired of sitting by her sister on the\nbank, and of having nothing to do: once or twice she had peeped into\nthe book her sister was reading, but it had no pictures or\nconversations in it, “and what is the use of a book,” thought Alice\n“without pictures or conversations?”\n\nSo she was considering in her own mind (as well as she could, for the\nhot day made her feel very sleepy and stupid), whether the pleasure of\nmaking a daisy-chain w",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1693,
+        "chapter_char_start": 0,
+        "chapter_char_end": 1693
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      2,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "27c00539eb4c0be717e3bd0412b0b244",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 2,
+      "text": "Either the well was very deep, or she fell very slowly, for she had\nplenty of time as she went down to look about her and to wonder what\nwas going to happen next. First, she tried to look down and make out\nwhat she was coming to, but it was too dark to see anything; then she\nlooked at the sides of the well, and noticed that they were filled with\ncupboards and book-shelves; here and there she saw maps and pictures\nhung upon pegs. She took down a jar from one of the shelves as she\npassed; it was l",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1680,
+        "chapter_char_start": 1695,
+        "chapter_char_end": 3375
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      3,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "26289774d876df322cb5d6e2034d582e",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 3,
+      "text": "Presently she began again. “I wonder if I shall fall right through\nthe earth! How funny it’ll seem to come out among the people that walk\nwith their heads downward! The Antipathies, I think—” (she was rather\nglad there was no one listening, this time, as it didn’t sound at all\nthe right word) “—but I shall have to ask them what the name of the\ncountry is, you know. Please, Ma’am, is this New Zealand or Australia?”\n(and she tried to curtsey as she spoke—fancy curtseying as you’re\nfalling through ",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1660,
+        "chapter_char_start": 3377,
+        "chapter_char_end": 5037
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      4,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "11d055fca5e7cac1ab292b844f28ce7e",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 4,
+      "text": "Alice was not a bit hurt, and she jumped up on to her feet in a moment:\nshe looked up, but it was all dark overhead; before her was another\nlong passage, and the White Rabbit was still in sight, hurrying down\nit. There was not a moment to be lost: away went Alice like the wind,\nand was just in time to hear it say, as it turned a corner, “Oh my ears\nand whiskers, how late it’s getting!” She was close behind it when she\nturned the corner, but the Rabbit was no longer to be seen: she found\nherself ",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 2089,
+        "chapter_char_start": 5039,
+        "chapter_char_end": 7128
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      5,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "35c496ae5c4cfd500fc3977792b99f98",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 5,
+      "text": "There seemed to be no use in waiting by the little door, so she went\nback to the table, half hoping she might find another key on it, or at\nany rate a book of rules for shutting people up like telescopes: this\ntime she found a little bottle on it, (“which certainly was not here\nbefore,” said Alice,) and round the neck of the bottle was a paper\nlabel, with the words “DRINK ME,” beautifully printed on it in large\nletters.\n\nIt was all very well to say “Drink me,” but the wise little Alice was\nnot g",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1503,
+        "chapter_char_start": 7130,
+        "chapter_char_end": 8633
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      6,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "4427cbe3875592dcddaed042ffba355d",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 6,
+      "text": "And so it was indeed: she was now only ten inches high, and her face\nbrightened up at the thought that she was now the right size for going\nthrough the little door into that lovely garden. First, however, she\nwaited for a few minutes to see if she was going to shrink any further:\nshe felt a little nervous about this; “for it might end, you know,”\nsaid Alice to herself, “in my going out altogether, like a candle. I\nwonder what I should be like then?” And she tried to fancy what the\nflame of a can",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 2708,
+        "chapter_char_start": 8635,
+        "chapter_char_end": 11343
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      7,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "ad5c1343a0ebe9e615c7cf7961a188ea",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 7,
+      "text": "CHAPTER II.\nThe Pool of Tears\n\n“Curiouser and curiouser!” cried Alice (she was so much surprised, that\nfor the moment she quite forgot how to speak good English); “now I’m\nopening out like the largest telescope that ever was! Good-bye, feet!”\n(for when she looked down at her feet, they seemed to be almost out of\nsight, they were getting so far off). “Oh, my poor little feet, I\nwonder who will put on your shoes and stockings for you now, dears? I’m\nsure I shan’t be able! I shall be a great deal t",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 1764,
+        "chapter_char_start": 0,
+        "chapter_char_end": 1764
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      8,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "71aa37fa352067720fdaedc2f477b76a",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 8,
+      "text": "After a time she heard a little pattering of feet in the distance, and\nshe hastily dried her eyes to see what was coming. It was the White\nRabbit returning, splendidly dressed, with a pair of white kid gloves\nin one hand and a large fan in the other: he came trotting along in a\ngreat hurry, muttering to himself as he came, “Oh! the Duchess, the\nDuchess! Oh! won’t she be savage if I’ve kept her waiting!” Alice felt\nso desperate that she was ready to ask help of any one; so, when the\nRabbit came n",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 2253,
+        "chapter_char_start": 1766,
+        "chapter_char_end": 4019
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      9,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "46707d2007fdf53d7a2d3dfdf75e4a6b",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 9,
+      "text": "“How doth the little crocodile\nImprove his shining tail,\nAnd pour the waters of the Nile\nOn every golden scale!\n\n“How cheerfully he seems to grin,\nHow neatly spread his claws,\nAnd welcome little fishes in\nWith gently smiling jaws!”\n\n“I’m sure those are not the right words,” said poor Alice, and her eyes\nfilled with tears again as she went on, “I must be Mabel after all, and\nI shall have to go and live in that poky little house, and have next to\nno toys to play with, and oh! ever so many lessons ",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 1533,
+        "chapter_char_start": 4021,
+        "chapter_char_end": 5554
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "A",
+    "source_position": [
+      "gutenberg-11",
+      10,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "75165cc4d36e666339ba9fd5c57d6276",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 10,
+      "text": "“That was a narrow escape!” said Alice, a good deal frightened at the\nsudden change, but very glad to find herself still in existence; “and\nnow for the garden!” and she ran with all speed back to the little\ndoor: but, alas! the little door was shut again, and the little golden\nkey was lying on the glass table as before, “and things are worse than\never,” thought the poor child, “for I never was so small as this\nbefore, never! And I declare it’s too bad, that it is!”\n\nAs she said these words her f",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 1678,
+        "chapter_char_start": 5556,
+        "chapter_char_end": 7234
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      1,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "303faf1838a18396045dab113dcae5fc",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 1,
+      "text": "CHAPTER I.\nDown the Rabbit-Hole\n\nAlice was beginning to get very tired of sitting by her sister on the\nbank, and of having nothing to do: once or twice she had peeped into\nthe book her sister was reading, but it had no pictures or\nconversations in it, “and what is the use of a book,” thought Alice\n“without pictures or conversations?”",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1693,
+        "chapter_char_start": 0,
+        "chapter_char_end": 1693
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      2,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "d602775e0f82b186c578aa94a09d0d0f",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 2,
+      "text": "Either the well was very deep, or she fell very slowly, for she had\nplenty of time as she went down to look about her and to wonder what\nwas going to happen next. First, she tried to look down and make out\nwhat she was coming to, but it was too dark to see anything; then she\nlooked at the sides of the well, and noticed that they were filled with\ncupboards and book-shelves; here and there she saw maps and pictures\nhung upon pegs. She took down a jar from one of the shelves as she\npassed; it was l",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1680,
+        "chapter_char_start": 1695,
+        "chapter_char_end": 3375
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      3,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "1e906fda7be288fb8ce1adb7b145b2f9",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 3,
+      "text": "Presently she began again. “I wonder if I shall fall right through\nthe earth! How funny it’ll seem to come out among the people that walk\nwith their heads downward! The Antipathies, I think—” (she was rather\nglad there was no one listening, this time, as it didn’t sound at all\nthe right word) “—but I shall have to ask them what the name of the\ncountry is, you know. Please, Ma’am, is this New Zealand or Australia?”\n(and she tried to curtsey as she spoke—fancy curtseying as you’re\nfalling through ",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1660,
+        "chapter_char_start": 3377,
+        "chapter_char_end": 5037
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      4,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "79b554f4671d85b530d3e35523d9ab82",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 4,
+      "text": "Alice was not a bit hurt, and she jumped up on to her feet in a moment:\nshe looked up, but it was all dark overhead; before her was another\nlong passage, and the White Rabbit was still in sight, hurrying down\nit. There was not a moment to be lost: away went Alice like the wind,\nand was just in time to hear it say, as it turned a corner, “Oh my ears\nand whiskers, how late it’s getting!” She was close behind it when she\nturned the corner, but the Rabbit was no longer to be seen: she found\nherself ",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 2089,
+        "chapter_char_start": 5039,
+        "chapter_char_end": 7128
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      5,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "6c653da7e400cb671a15e02444d9b951",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 5,
+      "text": "There seemed to be no use in waiting by the little door, so she went\nback to the table, half hoping she might find another key on it, or at\nany rate a book of rules for shutting people up like telescopes: this\ntime she found a little bottle on it, (“which certainly was not here\nbefore,” said Alice,) and round the neck of the bottle was a paper\nlabel, with the words “DRINK ME,” beautifully printed on it in large\nletters.",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1503,
+        "chapter_char_start": 7130,
+        "chapter_char_end": 8633
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      6,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "6f146052cb0409327fd30e51db246fd5",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 6,
+      "text": "And so it was indeed: she was now only ten inches high, and her face\nbrightened up at the thought that she was now the right size for going\nthrough the little door into that lovely garden. First, however, she\nwaited for a few minutes to see if she was going to shrink any further:\nshe felt a little nervous about this; “for it might end, you know,”\nsaid Alice to herself, “in my going out altogether, like a candle. I\nwonder what I should be like then?” And she tried to fancy what the\nflame of a can",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 2708,
+        "chapter_char_start": 8635,
+        "chapter_char_end": 11343
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      7,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "63c7e46648e064a20fa62fc2f3fb4b5e",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 7,
+      "text": "CHAPTER II.\nThe Pool of Tears",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 1764,
+        "chapter_char_start": 0,
+        "chapter_char_end": 1764
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      8,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "03086c0e00def0c0208a88299d96d839",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 8,
+      "text": "After a time she heard a little pattering of feet in the distance, and\nshe hastily dried her eyes to see what was coming. It was the White\nRabbit returning, splendidly dressed, with a pair of white kid gloves\nin one hand and a large fan in the other: he came trotting along in a\ngreat hurry, muttering to himself as he came, “Oh! the Duchess, the\nDuchess! Oh! won’t she be savage if I’ve kept her waiting!” Alice felt\nso desperate that she was ready to ask help of any one; so, when the\nRabbit came n",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 2253,
+        "chapter_char_start": 1766,
+        "chapter_char_end": 4019
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      9,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "6495d5a9b240c9a13aa55498ea921799",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 9,
+      "text": "“How doth the little crocodile\nImprove his shining tail,\nAnd pour the waters of the Nile\nOn every golden scale!\n\n“How cheerfully he seems to grin,\nHow neatly spread his claws,\nAnd welcome little fishes in\nWith gently smiling jaws!”",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 1533,
+        "chapter_char_start": 4021,
+        "chapter_char_end": 5554
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "B",
+    "source_position": [
+      "gutenberg-11",
+      10,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "cd291d551a6d3b3031aa8d592ad88c36",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 10,
+      "text": "“That was a narrow escape!” said Alice, a good deal frightened at the\nsudden change, but very glad to find herself still in existence; “and\nnow for the garden!” and she ran with all speed back to the little\ndoor: but, alas! the little door was shut again, and the little golden\nkey was lying on the glass table as before, “and things are worse than\never,” thought the poor child, “for I never was so small as this\nbefore, never! And I declare it’s too bad, that it is!”",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 1678,
+        "chapter_char_start": 5556,
+        "chapter_char_end": 7234
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      1,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "303faf1838a18396045dab113dcae5fc",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 1,
+      "text": "CHAPTER I.\nDown the Rabbit-Hole\n\nAlice was beginning to get very tired of sitting by her sister on the\nbank, and of having nothing to do: once or twice she had peeped into\nthe book her sister was reading, but it had no pictures or\nconversations in it, “and what is the use of a book,” thought Alice\n“without pictures or conversations?”",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1693,
+        "chapter_char_start": 0,
+        "chapter_char_end": 1693
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      2,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "d602775e0f82b186c578aa94a09d0d0f",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 2,
+      "text": "Either the well was very deep, or she fell very slowly, for she had\nplenty of time as she went down to look about her and to wonder what\nwas going to happen next. First, she tried to look down and make out\nwhat she was coming to, but it was too dark to see anything; then she\nlooked at the sides of the well, and noticed that they were filled with\ncupboards and book-shelves; here and there she saw maps and pictures\nhung upon pegs. She took down a jar from one of the shelves as she\npassed; it was l",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1680,
+        "chapter_char_start": 1695,
+        "chapter_char_end": 3375
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      3,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "1e906fda7be288fb8ce1adb7b145b2f9",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 3,
+      "text": "Presently she began again. “I wonder if I shall fall right through\nthe earth! How funny it’ll seem to come out among the people that walk\nwith their heads downward! The Antipathies, I think—” (she was rather\nglad there was no one listening, this time, as it didn’t sound at all\nthe right word) “—but I shall have to ask them what the name of the\ncountry is, you know. Please, Ma’am, is this New Zealand or Australia?”\n(and she tried to curtsey as she spoke—fancy curtseying as you’re\nfalling through ",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1660,
+        "chapter_char_start": 3377,
+        "chapter_char_end": 5037
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      4,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "79b554f4671d85b530d3e35523d9ab82",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 4,
+      "text": "Alice was not a bit hurt, and she jumped up on to her feet in a moment:\nshe looked up, but it was all dark overhead; before her was another\nlong passage, and the White Rabbit was still in sight, hurrying down\nit. There was not a moment to be lost: away went Alice like the wind,\nand was just in time to hear it say, as it turned a corner, “Oh my ears\nand whiskers, how late it’s getting!” She was close behind it when she\nturned the corner, but the Rabbit was no longer to be seen: she found\nherself ",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 2089,
+        "chapter_char_start": 5039,
+        "chapter_char_end": 7128
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      5,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "6c653da7e400cb671a15e02444d9b951",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 5,
+      "text": "There seemed to be no use in waiting by the little door, so she went\nback to the table, half hoping she might find another key on it, or at\nany rate a book of rules for shutting people up like telescopes: this\ntime she found a little bottle on it, (“which certainly was not here\nbefore,” said Alice,) and round the neck of the bottle was a paper\nlabel, with the words “DRINK ME,” beautifully printed on it in large\nletters.",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 1503,
+        "chapter_char_start": 7130,
+        "chapter_char_end": 8633
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      6,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "6f146052cb0409327fd30e51db246fd5",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 6,
+      "text": "And so it was indeed: she was now only ten inches high, and her face\nbrightened up at the thought that she was now the right size for going\nthrough the little door into that lovely garden. First, however, she\nwaited for a few minutes to see if she was going to shrink any further:\nshe felt a little nervous about this; “for it might end, you know,”\nsaid Alice to herself, “in my going out altogether, like a candle. I\nwonder what I should be like then?” And she tried to fancy what the\nflame of a can",
+      "metadata": {
+        "chapter_roman": "I",
+        "language": "en",
+        "unit_chars": 2708,
+        "chapter_char_start": 8635,
+        "chapter_char_end": 11343
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      7,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "63c7e46648e064a20fa62fc2f3fb4b5e",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 7,
+      "text": "CHAPTER II.\nThe Pool of Tears",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 1764,
+        "chapter_char_start": 0,
+        "chapter_char_end": 1764
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      8,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "03086c0e00def0c0208a88299d96d839",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 8,
+      "text": "After a time she heard a little pattering of feet in the distance, and\nshe hastily dried her eyes to see what was coming. It was the White\nRabbit returning, splendidly dressed, with a pair of white kid gloves\nin one hand and a large fan in the other: he came trotting along in a\ngreat hurry, muttering to himself as he came, “Oh! the Duchess, the\nDuchess! Oh! won’t she be savage if I’ve kept her waiting!” Alice felt\nso desperate that she was ready to ask help of any one; so, when the\nRabbit came n",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 2253,
+        "chapter_char_start": 1766,
+        "chapter_char_end": 4019
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      9,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "6495d5a9b240c9a13aa55498ea921799",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 9,
+      "text": "“How doth the little crocodile\nImprove his shining tail,\nAnd pour the waters of the Nile\nOn every golden scale!\n\n“How cheerfully he seems to grin,\nHow neatly spread his claws,\nAnd welcome little fishes in\nWith gently smiling jaws!”",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 1533,
+        "chapter_char_start": 4021,
+        "chapter_char_end": 5554
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  },
+  {
+    "strategy": "C",
+    "source_position": [
+      "gutenberg-11",
+      10,
+      0
+    ],
+    "chunk": {
+      "chunk_id": "cd291d551a6d3b3031aa8d592ad88c36",
+      "document_id": "gutenberg-11",
+      "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "page": 10,
+      "text": "“That was a narrow escape!” said Alice, a good deal frightened at the\nsudden change, but very glad to find herself still in existence; “and\nnow for the garden!” and she ran with all speed back to the little\ndoor: but, alas! the little door was shut again, and the little golden\nkey was lying on the glass table as before, “and things are worse than\never,” thought the poor child, “for I never was so small as this\nbefore, never! And I declare it’s too bad, that it is!”",
+      "metadata": {
+        "chapter_roman": "II",
+        "language": "en",
+        "unit_chars": 1678,
+        "chapter_char_start": 5556,
+        "chapter_char_end": 7234
+      }
+    },
+    "score": null,
+    "reason": "",
+    "reviewer": "",
+    "status": "pending-human-review"
+  }
+]

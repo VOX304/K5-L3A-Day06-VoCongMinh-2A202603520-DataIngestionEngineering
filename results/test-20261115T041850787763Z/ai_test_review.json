@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "q16",
+    "strategy": "A",
+    "hits": [
+      {
+        "chunk_id": "06f90bc76d0f5f7b484bef744798d167",
+        "text": "“The game’s going on rather better now,” she said, by way of keeping up\nthe conversation a little.\n\n“’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love,\n’tis love, that makes the world go round!’”\n\n“Somebody said,” Alice whispered, “that it’s done by everybody minding\ntheir own business!”\n\n“Ah, well! It means much the same thing,” said the Duchess, digging her\nsharp little chin into Alice’s shoulder as she added, “and the moral of\nthat is—‘Take care of the sense, and the sounds",
+        "score": 0.7173397370585488,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        }
+      },
+      {
+        "chunk_id": "09748104bbcc51c3d43475c2c2fce56c",
+        "text": "little of her knowledge. “Just\nthink of what work it would make with the day and night! You see the\nearth takes twenty-four hours to turn round on its axis—”\n\n“Talking of axes,” said the Duchess, “chop off her head!”\n\nAlice glanced rather anxiously at the cook, to see if she meant to take\nthe hint; but the cook was busily stirring the soup, and seemed not to\nbe listening, so she went on again: “Twenty-four hours, I think; or\nis it twelve? I—”\n\n“Oh, don’t bother me,” said the Duchess; “I never co",
+        "score": 0.7069948027758991,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 5447,
+          "chapter_char_end": 7053,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 36
+        }
+      },
+      {
+        "chunk_id": "5327eb4af200c6acd4208c572c7c6778",
+        "text": "as the question was\nevidently meant for her.\n\n“Yes!” shouted Alice.\n\n“Come on, then!” roared the Queen, and Alice joined the procession,\nwondering very much what would happen next.\n\n“It’s—it’s a very fine day!” said a timid voice at her side. She was\nwalking by the White Rabbit, who was peeping anxiously into her face.\n\n“Very,” said Alice: “—where’s the Duchess?”\n\n“Hush! Hush!” said the Rabbit in a low, hurried tone. He looked\nanxiously over his shoulder as he spoke, and then raised himself upon",
+        "score": 0.6781192645914491,
+        "metadata": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1908,
+          "chapter_char_start": 5021,
+          "chapter_char_end": 6929,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 51
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "06f90bc76d0f5f7b484bef744798d167",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "09748104bbcc51c3d43475c2c2fce56c",
+        "retrieved": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 5447,
+          "chapter_char_end": 7053,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 36
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 5447,
+          "chapter_char_end": 7053,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "5327eb4af200c6acd4208c572c7c6778",
+        "retrieved": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1908,
+          "chapter_char_start": 5021,
+          "chapter_char_end": 6929,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 51
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1908,
+          "chapter_char_start": 5021,
+          "chapter_char_end": 6929,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 1, unit 57, attributes the love moral directly to the Duchess; source and chapter are traceable.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q16",
+    "strategy": "B",
+    "hits": [
+      {
+        "chunk_id": "09a8be31f3e3718a39d7445ac5b065f4",
+        "text": "“Which would not be an advantage,” said Alice, who felt very glad to\nget an opportunity of showing off a little of her knowledge. “Just\nthink of what work it would make with the day and night! You see the\nearth takes twenty-four hours to turn round on its axis—”\n\n“Talking of axes,” said the Duchess, “chop off her head!”",
+        "score": 0.7095126539317766,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 5447,
+          "chapter_char_end": 7053,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 36
+        }
+      },
+      {
+        "chunk_id": "bbb72abfab617e8e58a7af63d42fdbfb",
+        "text": "“The game’s going on rather better now,” she said, by way of keeping up\nthe conversation a little.\n\n“’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love,\n’tis love, that makes the world go round!’”\n\n“Somebody said,” Alice whispered, “that it’s done by everybody minding\ntheir own business!”",
+        "score": 0.7021188577859553,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        }
+      },
+      {
+        "chunk_id": "d68fcec9beaf8839d13147461dd0258c",
+        "text": "“Ah, well! It means much the same thing,” said the Duchess, digging her\nsharp little chin into Alice’s shoulder as she added, “and the moral of\nthat is—‘Take care of the sense, and the sounds will take care of\nthemselves.’”\n\n“How fond she is of finding morals in things!” Alice thought to\nherself.\n\n“I dare say you’re wondering why I don’t put my arm round your waist,”\nthe Duchess said after a pause: “the reason is, that I’m doubtful about\nthe temper of your flamingo. Shall I try the experiment?”",
+        "score": 0.6670386124238683,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "09a8be31f3e3718a39d7445ac5b065f4",
+        "retrieved": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 5447,
+          "chapter_char_end": 7053,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 36
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 5447,
+          "chapter_char_end": 7053,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "bbb72abfab617e8e58a7af63d42fdbfb",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "d68fcec9beaf8839d13147461dd0258c",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 2, unit 57, includes the Duchess's explicit love moral despite a distracting chapter VI rank 1.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q16",
+    "strategy": "C",
+    "hits": [
+      {
+        "chunk_id": "bbb72abfab617e8e58a7af63d42fdbfb",
+        "text": "“The game’s going on rather better now,” she said, by way of keeping up\nthe conversation a little.\n\n“’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love,\n’tis love, that makes the world go round!’”\n\n“Somebody said,” Alice whispered, “that it’s done by everybody minding\ntheir own business!”",
+        "score": 0.7021188577859553,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        }
+      },
+      {
+        "chunk_id": "d68fcec9beaf8839d13147461dd0258c",
+        "text": "“Ah, well! It means much the same thing,” said the Duchess, digging her\nsharp little chin into Alice’s shoulder as she added, “and the moral of\nthat is—‘Take care of the sense, and the sounds will take care of\nthemselves.’”\n\n“How fond she is of finding morals in things!” Alice thought to\nherself.\n\n“I dare say you’re wondering why I don’t put my arm round your waist,”\nthe Duchess said after a pause: “the reason is, that I’m doubtful about\nthe temper of your flamingo. Shall I try the experiment?”",
+        "score": 0.6670386124238683,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        }
+      },
+      {
+        "chunk_id": "f42aa945dd2e74d0742d61695b517e69",
+        "text": "“That’s nothing to what I could say if I chose,” the Duchess replied,\nin a pleased tone.\n\n“Pray don’t trouble yourself to say it any longer than that,” said\nAlice.\n\n“Oh, don’t talk about trouble!” said the Duchess. “I make you a present\nof everything I’ve said as yet.”\n\n“A cheap sort of present!” thought Alice. “I’m glad they don’t give\nbirthday presents like that!” But she did not venture to say it out\nloud.\n\n“Thinking again?” the Duchess asked, with another dig of her sharp\nlittle chin.",
+        "score": 0.6516409768036471,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1510,
+          "chapter_char_start": 3252,
+          "chapter_char_end": 4762,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 58
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "bbb72abfab617e8e58a7af63d42fdbfb",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "d68fcec9beaf8839d13147461dd0258c",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "f42aa945dd2e74d0742d61695b517e69",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1510,
+          "chapter_char_start": 3252,
+          "chapter_char_end": 4762,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 58
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1510,
+          "chapter_char_start": 3252,
+          "chapter_char_end": 4762,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 1, unit 57, contains the complete Duchess attribution and love moral within chapter IX.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q17",
+    "strategy": "A",
+    "hits": [
+      {
+        "chunk_id": "21f2a70588a10c2bcf527556e6f69429",
+        "text": "ed much under the sea—” (“I haven’t,” said\nAlice)—“and perhaps you were never even introduced to a lobster—”\n(Alice began to say “I once tasted—” but checked herself hastily, and\nsaid “No, never”) “—so you can have no idea what a delightful thing a\nLobster Quadrille is!”\n\n“No, indeed,” said Alice. “What sort of a dance is it?”\n\n“Why,” said the Gryphon, “you first form into a line along the\nsea-shore—”\n\n“Two lines!” cried the Mock Turtle. “Seals, turtles, salmon, and so on;\nthen, when you’ve clea",
+        "score": 0.6735710168900607,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        }
+      },
+      {
+        "chunk_id": "8323d5e7506a4fddc6106371fd9cd27c",
+        "text": "“Change lobsters again!” yelled the Gryphon at the top of its voice.\n\n“Back to land again, and that’s all the first figure,” said the Mock\nTurtle, suddenly dropping his voice; and the two creatures, who had\nbeen jumping about like mad things all this time, sat down again very\nsadly and quietly, and looked at Alice.\n\n“It must be a very pretty dance,” said Alice timidly.\n\n“Would you like to see a little of it?” said the Mock Turtle.\n\n“Very much indeed,” said Alice.\n\n“Come, let’s try the first figu",
+        "score": 0.6365659996922521,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1674,
+          "chapter_char_start": 1551,
+          "chapter_char_end": 3225,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 64
+        }
+      },
+      {
+        "chunk_id": "e58876ffc0fc8142264b628ff9389e2a",
+        "text": "CHAPTER X.\nThe Lobster Quadrille\n\nThe Mock Turtle sighed deeply, and drew the back of one flapper across\nhis eyes. He looked at Alice, and tried to speak, but for a minute or\ntwo sobs choked his voice. “Same as if he had a bone in his throat,”\nsaid the Gryphon: and it set to work shaking him and punching him in\nthe back. At last the Mock Turtle recovered his voice, and, with tears\nrunning down his cheeks, he went on again:—\n\n“You may not have lived much under the sea—” (“I haven’t,” said\nAlice)—",
+        "score": 0.6200891230426262,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "21f2a70588a10c2bcf527556e6f69429",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "8323d5e7506a4fddc6106371fd9cd27c",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1674,
+          "chapter_char_start": 1551,
+          "chapter_char_end": 3225,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 64
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1674,
+          "chapter_char_start": 1551,
+          "chapter_char_end": 3225,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "e58876ffc0fc8142264b628ff9389e2a",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 2, unit 64, explicitly ends the first figure with returning to land; the Mock Turtle is identified.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q17",
+    "strategy": "B",
+    "hits": [
+      {
+        "chunk_id": "a54a000bc04a9f0d9180047f241e57a8",
+        "text": "“You may not have lived much under the sea—” (“I haven’t,” said\nAlice)—“and perhaps you were never even introduced to a lobster—”\n(Alice began to say “I once tasted—” but checked herself hastily, and\nsaid “No, never”) “—so you can have no idea what a delightful thing a\nLobster Quadrille is!”\n\n“No, indeed,” said Alice. “What sort of a dance is it?”\n\n“Why,” said the Gryphon, “you first form into a line along the\nsea-shore—”",
+        "score": 0.6740877928671238,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        }
+      },
+      {
+        "chunk_id": "a283c2b07d3872d617c41a9e9043cdfe",
+        "text": "“Two lines!” cried the Mock Turtle. “Seals, turtles, salmon, and so on;\nthen, when you’ve cleared all the jelly-fish out of the way—”\n\n“That generally takes some time,” interrupted the Gryphon.\n\n“—you advance twice—”\n\n“Each with a lobster as a partner!” cried the Gryphon.\n\n“Of course,” the Mock Turtle said: “advance twice, set to partners—”\n\n“—change lobsters, and retire in same order,” continued the Gryphon.\n\n“Then, you know,” the Mock Turtle went on, “you throw the—”",
+        "score": 0.630258118557456,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        }
+      },
+      {
+        "chunk_id": "dc5f14c8fae9050f11489df1d4e0020d",
+        "text": "“How the creatures order one about, and make one repeat lessons!”\nthought Alice; “I might as well be at school at once.” However, she got\nup, and began to repeat it, but her head was so full of the Lobster\nQuadrille, that she hardly knew what she was saying, and the words came\nvery queer indeed:—",
+        "score": 0.628561861529384,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1559,
+          "chapter_char_start": 6446,
+          "chapter_char_end": 8005,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 67
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "a54a000bc04a9f0d9180047f241e57a8",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "a283c2b07d3872d617c41a9e9043cdfe",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "dc5f14c8fae9050f11489df1d4e0020d",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1559,
+          "chapter_char_start": 6446,
+          "chapter_char_end": 8005,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 67
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1559,
+          "chapter_char_start": 6446,
+          "chapter_char_end": 8005,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 1,
+    "reason": "Ranks 1 and 2 describe the dance opening and early steps, but none of the top-3 contains the final return-to-land step.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q17",
+    "strategy": "C",
+    "hits": [
+      {
+        "chunk_id": "a54a000bc04a9f0d9180047f241e57a8",
+        "text": "“You may not have lived much under the sea—” (“I haven’t,” said\nAlice)—“and perhaps you were never even introduced to a lobster—”\n(Alice began to say “I once tasted—” but checked herself hastily, and\nsaid “No, never”) “—so you can have no idea what a delightful thing a\nLobster Quadrille is!”\n\n“No, indeed,” said Alice. “What sort of a dance is it?”\n\n“Why,” said the Gryphon, “you first form into a line along the\nsea-shore—”",
+        "score": 0.6740877928671238,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        }
+      },
+      {
+        "chunk_id": "a283c2b07d3872d617c41a9e9043cdfe",
+        "text": "“Two lines!” cried the Mock Turtle. “Seals, turtles, salmon, and so on;\nthen, when you’ve cleared all the jelly-fish out of the way—”\n\n“That generally takes some time,” interrupted the Gryphon.\n\n“—you advance twice—”\n\n“Each with a lobster as a partner!” cried the Gryphon.\n\n“Of course,” the Mock Turtle said: “advance twice, set to partners—”\n\n“—change lobsters, and retire in same order,” continued the Gryphon.\n\n“Then, you know,” the Mock Turtle went on, “you throw the—”",
+        "score": 0.630258118557456,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        }
+      },
+      {
+        "chunk_id": "dc5f14c8fae9050f11489df1d4e0020d",
+        "text": "“How the creatures order one about, and make one repeat lessons!”\nthought Alice; “I might as well be at school at once.” However, she got\nup, and began to repeat it, but her head was so full of the Lobster\nQuadrille, that she hardly knew what she was saying, and the words came\nvery queer indeed:—",
+        "score": 0.628561861529384,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1559,
+          "chapter_char_start": 6446,
+          "chapter_char_end": 8005,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 67
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "a54a000bc04a9f0d9180047f241e57a8",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "a283c2b07d3872d617c41a9e9043cdfe",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "dc5f14c8fae9050f11489df1d4e0020d",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1559,
+          "chapter_char_start": 6446,
+          "chapter_char_end": 8005,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 67
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1559,
+          "chapter_char_start": 6446,
+          "chapter_char_end": 8005,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 1,
+    "reason": "Chapter X filter retains the same three incomplete dance-related chunks; unit 64 with the final step is absent.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q18",
+    "strategy": "A",
+    "hits": [
+      {
+        "chunk_id": "a0727f8d297c8067c9ed59635592d153",
+        "text": "\n\n“I mean what I say,” the Mock Turtle replied in an offended tone. And\nthe Gryphon added “Come, let’s hear some of your adventures.”\n\n“I could tell you my adventures—beginning from this morning,” said\nAlice a little timidly: “but it’s no use going back to yesterday,\nbecause I was a different person then.”",
+        "score": 0.7828587674444409,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1657,
+          "chapter_char_start": 4787,
+          "chapter_char_end": 6444,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 66
+        }
+      },
+      {
+        "chunk_id": "e58876ffc0fc8142264b628ff9389e2a",
+        "text": "CHAPTER X.\nThe Lobster Quadrille\n\nThe Mock Turtle sighed deeply, and drew the back of one flapper across\nhis eyes. He looked at Alice, and tried to speak, but for a minute or\ntwo sobs choked his voice. “Same as if he had a bone in his throat,”\nsaid the Gryphon: and it set to work shaking him and punching him in\nthe back. At last the Mock Turtle recovered his voice, and, with tears\nrunning down his cheeks, he went on again:—\n\n“You may not have lived much under the sea—” (“I haven’t,” said\nAlice)—",
+        "score": 0.7733945752678244,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        }
+      },
+      {
+        "chunk_id": "2db5e82ebfd1d6d81825a02ef5ee754c",
+        "text": "“I’ll tell it her,” said the Mock Turtle in a deep, hollow tone: “sit\ndown, both of you, and don’t speak a word till I’ve finished.”\n\nSo they sat down, and nobody spoke for some minutes. Alice thought to\nherself, “I don’t see how he can ever finish, if he doesn’t begin.”\nBut she waited patiently.\n\n“Once,” said the Mock Turtle at last, with a deep sigh, “I was a real\nTurtle.”\n\nThese words were followed by a very long silence, broken only by an\noccasional exclamation of “Hjckrrh!” from the Gryphon",
+        "score": 0.7545454508779769,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 61
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "a0727f8d297c8067c9ed59635592d153",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1657,
+          "chapter_char_start": 4787,
+          "chapter_char_end": 6444,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 66
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1657,
+          "chapter_char_start": 4787,
+          "chapter_char_end": 6444,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "e58876ffc0fc8142264b628ff9389e2a",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "2db5e82ebfd1d6d81825a02ef5ee754c",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 61
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 3, unit 61, explicitly attributes I was a real Turtle to the Mock Turtle.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q18",
+    "strategy": "B",
+    "hits": [
+      {
+        "chunk_id": "379ab71f8a630e36811eac8f0b6655a3",
+        "text": "Alice said nothing; she had sat down with her face in her hands,\nwondering if anything would ever happen in a natural way again.\n\n“I should like to have it explained,” said the Mock Turtle.\n\n“She can’t explain it,” said the Gryphon hastily. “Go on with the next\nverse.”\n\n“But about his toes?” the Mock Turtle persisted. “How could he turn\nthem out with his nose, you know?”",
+        "score": 0.7842244860369163,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1545,
+          "chapter_char_start": 8007,
+          "chapter_char_end": 9552,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 68
+        }
+      },
+      {
+        "chunk_id": "65b6a962ade387ca216652ac941415f7",
+        "text": "“I’ll tell it her,” said the Mock Turtle in a deep, hollow tone: “sit\ndown, both of you, and don’t speak a word till I’ve finished.”\n\nSo they sat down, and nobody spoke for some minutes. Alice thought to\nherself, “I don’t see how he can ever finish, if he doesn’t begin.”\nBut she waited patiently.\n\n“Once,” said the Mock Turtle at last, with a deep sigh, “I was a real\nTurtle.”",
+        "score": 0.7837313082009325,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 61
+        }
+      },
+      {
+        "chunk_id": "7478640307dcd7428c9f21a5cb3028d5",
+        "text": "CHAPTER X.\nThe Lobster Quadrille\n\nThe Mock Turtle sighed deeply, and drew the back of one flapper across\nhis eyes. He looked at Alice, and tried to speak, but for a minute or\ntwo sobs choked his voice. “Same as if he had a bone in his throat,”\nsaid the Gryphon: and it set to work shaking him and punching him in\nthe back. At last the Mock Turtle recovered his voice, and, with tears\nrunning down his cheeks, he went on again:—",
+        "score": 0.7832341525329777,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "379ab71f8a630e36811eac8f0b6655a3",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1545,
+          "chapter_char_start": 8007,
+          "chapter_char_end": 9552,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 68
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1545,
+          "chapter_char_start": 8007,
+          "chapter_char_end": 9552,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "65b6a962ade387ca216652ac941415f7",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 61
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "7478640307dcd7428c9f21a5cb3028d5",
+        "retrieved": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 63
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1549,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1549,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 2, unit 61, identifies the Mock Turtle and states he had been a real Turtle.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q18",
+    "strategy": "C",
+    "hits": [
+      {
+        "chunk_id": "65b6a962ade387ca216652ac941415f7",
+        "text": "“I’ll tell it her,” said the Mock Turtle in a deep, hollow tone: “sit\ndown, both of you, and don’t speak a word till I’ve finished.”\n\nSo they sat down, and nobody spoke for some minutes. Alice thought to\nherself, “I don’t see how he can ever finish, if he doesn’t begin.”\nBut she waited patiently.\n\n“Once,” said the Mock Turtle at last, with a deep sigh, “I was a real\nTurtle.”",
+        "score": 0.7837313082009325,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 61
+        }
+      },
+      {
+        "chunk_id": "bc843653a37cd974c6e4206ed7a2054c",
+        "text": "“When we were little,” the Mock Turtle went on at last, more calmly,\nthough still sobbing a little now and then, “we went to school in the\nsea. The master was an old Turtle—we used to call him Tortoise—”\n\n“Why did you call him Tortoise, if he wasn’t one?” Alice asked.\n\n“We called him Tortoise because he taught us,” said the Mock Turtle\nangrily: “really you are very dull!”",
+        "score": 0.77867797957073,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 61
+        }
+      },
+      {
+        "chunk_id": "5cfed4ffa259370d658b32f548be81eb",
+        "text": "“You did,” said the Mock Turtle.\n\n“Hold your tongue!” added the Gryphon, before Alice could speak again.\nThe Mock Turtle went on.\n\n“We had the best of educations—in fact, we went to school every day—”\n\n“I’ve been to a day-school, too,” said Alice; “you needn’t be so\nproud as all that.”\n\n“With extras?” asked the Mock Turtle a little anxiously.\n\n“Yes,” said Alice, “we learned French and music.”\n\n“And washing?” said the Mock Turtle.\n\n“Certainly not!” said Alice indignantly.",
+        "score": 0.7629973285749158,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 3029,
+          "chapter_char_start": 9565,
+          "chapter_char_end": 12594,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 62
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "65b6a962ade387ca216652ac941415f7",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 61
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "bc843653a37cd974c6e4206ed7a2054c",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 61
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1542,
+          "chapter_char_start": 8021,
+          "chapter_char_end": 9563,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "5cfed4ffa259370d658b32f548be81eb",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 3029,
+          "chapter_char_start": 9565,
+          "chapter_char_end": 12594,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 62
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 3029,
+          "chapter_char_start": 9565,
+          "chapter_char_end": 12594,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 1, unit 61, supplies the complete past-identity statement; other hits concern the same school story.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q19",
+    "strategy": "A",
+    "hits": [
+      {
+        "chunk_id": "dbcab7bc8b4de399cbcf7bdc120c69b6",
+        "text": "CHAPTER XI.\nWho Stole the Tarts?\n\nThe King and Queen of Hearts were seated on their throne when they\narrived, with a great crowd assembled about them—all sorts of little\nbirds and beasts, as well as the whole pack of cards: the Knave was\nstanding before them, in chains, with a soldier on each side to guard\nhim; and near the King was the White Rabbit, with a trumpet in one\nhand, and a scroll of parchment in the other. In the very middle of the\ncourt was a table, with a large dish of tarts upon it",
+        "score": 0.7135288091019993,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        }
+      },
+      {
+        "chunk_id": "5b36f7fdcdadca9eb21968902a32494e",
+        "text": "“The Queen of Hearts, she made some tarts,\nAll on a summer day:\nThe Knave of Hearts, he stole those tarts,\nAnd took them quite away!”\n\n“Consider your verdict,” the King said to the jury.\n\n“Not yet, not yet!” the Rabbit hastily interrupted. “There’s a great\ndeal to come before that!”\n\n“Call the first witness,” said the King; and the White Rabbit blew\nthree blasts on the trumpet, and called out, “First witness!”\n\nThe first witness was the Hatter. He came in with a teacup in one hand\nand a piece of",
+        "score": 0.704394838662521,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        }
+      },
+      {
+        "chunk_id": "7aeab38dab0c9c5bffb3fdb6a66a0394",
+        "text": "The Knave shook his head sadly. “Do I look like it?” he said. (Which he\ncertainly did not, being made entirely of cardboard.)\n\n“All right, so far,” said the King, and he went on muttering over the\nverses to himself: “‘We know it to be true—’ that’s the jury, of\ncourse—‘I gave her one, they gave him two—’ why, that must be what he\ndid with the tarts, you know—”\n\n“But, it goes on ‘they all returned from him to you,’” said Alice.\n\n“Why, there they are!” said the King triumphantly, pointing to the\nt",
+        "score": 0.6374999321510997,
+        "metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1532,
+          "chapter_char_start": 6518,
+          "chapter_char_end": 8050,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 80
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "dbcab7bc8b4de399cbcf7bdc120c69b6",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "5b36f7fdcdadca9eb21968902a32494e",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "7aeab38dab0c9c5bffb3fdb6a66a0394",
+        "retrieved": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1532,
+          "chapter_char_start": 6518,
+          "chapter_char_end": 8050,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 80
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1532,
+          "chapter_char_start": 6518,
+          "chapter_char_end": 8050,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 2, unit 72, includes the accusation poem linking the Knave to the Queen's tarts; it does not establish actual guilt.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q19",
+    "strategy": "B",
+    "hits": [
+      {
+        "chunk_id": "7be7d19a19c152199d17cb788594a319",
+        "text": "CHAPTER XI.\nWho Stole the Tarts?",
+        "score": 0.7194406914553633,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        }
+      },
+      {
+        "chunk_id": "998fd7e42344ac9a65a9bbd9a2c59963",
+        "text": "“The Queen of Hearts, she made some tarts,\nAll on a summer day:\nThe Knave of Hearts, he stole those tarts,\nAnd took them quite away!”\n\n“Consider your verdict,” the King said to the jury.\n\n“Not yet, not yet!” the Rabbit hastily interrupted. “There’s a great\ndeal to come before that!”\n\n“Call the first witness,” said the King; and the White Rabbit blew\nthree blasts on the trumpet, and called out, “First witness!”",
+        "score": 0.6871382583309164,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        }
+      },
+      {
+        "chunk_id": "a22131f33038638c818fdf7788bcdeff",
+        "text": "The King and Queen of Hearts were seated on their throne when they\narrived, with a great crowd assembled about them—all sorts of little\nbirds and beasts, as well as the whole pack of cards: the Knave was\nstanding before them, in chains, with a soldier on each side to guard\nhim; and near the King was the White Rabbit, with a trumpet in one\nhand, and a scroll of parchment in the other. In the very middle of the\ncourt was a table, with a large dish of tarts upon it: they looked so\ngood, that it mad",
+        "score": 0.6365025387496366,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "7be7d19a19c152199d17cb788594a319",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "998fd7e42344ac9a65a9bbd9a2c59963",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "a22131f33038638c818fdf7788bcdeff",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 2, unit 72, supplies the full accusation; heading-only rank 1 cannot establish the answer on its own.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q19",
+    "strategy": "C",
+    "hits": [
+      {
+        "chunk_id": "7be7d19a19c152199d17cb788594a319",
+        "text": "CHAPTER XI.\nWho Stole the Tarts?",
+        "score": 0.7194406914553633,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        }
+      },
+      {
+        "chunk_id": "998fd7e42344ac9a65a9bbd9a2c59963",
+        "text": "“The Queen of Hearts, she made some tarts,\nAll on a summer day:\nThe Knave of Hearts, he stole those tarts,\nAnd took them quite away!”\n\n“Consider your verdict,” the King said to the jury.\n\n“Not yet, not yet!” the Rabbit hastily interrupted. “There’s a great\ndeal to come before that!”\n\n“Call the first witness,” said the King; and the White Rabbit blew\nthree blasts on the trumpet, and called out, “First witness!”",
+        "score": 0.6871382583309164,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        }
+      },
+      {
+        "chunk_id": "a22131f33038638c818fdf7788bcdeff",
+        "text": "The King and Queen of Hearts were seated on their throne when they\narrived, with a great crowd assembled about them—all sorts of little\nbirds and beasts, as well as the whole pack of cards: the Knave was\nstanding before them, in chains, with a soldier on each side to guard\nhim; and near the King was the White Rabbit, with a trumpet in one\nhand, and a scroll of parchment in the other. In the very middle of the\ncourt was a table, with a large dish of tarts upon it: they looked so\ngood, that it mad",
+        "score": 0.6365025387496366,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "7be7d19a19c152199d17cb788594a319",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "998fd7e42344ac9a65a9bbd9a2c59963",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "a22131f33038638c818fdf7788bcdeff",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 2, unit 72, contains the full accusation poem; all returned hits are within chapter XI.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q20",
+    "strategy": "A",
+    "hits": [
+      {
+        "chunk_id": "c82b359f4457a43b0b04305529757853",
+        "text": "“I’m glad I’ve seen that done,” thought Alice. “I’ve so often read in\nthe newspapers, at the end of trials, “There was some attempts at\napplause, which was immediately suppressed by the officers of the\ncourt,” and I never understood what it meant till now.”\n\n“If that’s all you know about it, you may stand down,” continued the\nKing.\n\n“I can’t go no lower,” said the Hatter: “I’m on the floor, as it is.”\n\n“Then you may sit down,” the King replied.\n\nHere the other guinea-pig cheered, and was suppres",
+        "score": 0.7543181290829469,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 75
+        }
+      },
+      {
+        "chunk_id": "44e22354bb560abab5b069ad73001009",
+        "text": "ce.\n\n“Come on, then,” said the Queen, “and he shall tell you his history.”\n\nAs they walked off together, Alice heard the King say in a low voice,\nto the company generally, “You are all pardoned.” “Come, that’s a\ngood thing!” she said to herself, for she had felt quite unhappy at the\nnumber of executions the Queen had ordered.",
+        "score": 0.7490048635735874,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 59
+        }
+      },
+      {
+        "chunk_id": "c79f2454f4a19fac112a7cdf5b3eefb6",
+        "text": "as trickling down his face, as long\nas it lasted.)\n\n“Then the words don’t fit you,” said the King, looking round the\ncourt with a smile. There was a dead silence.\n\n“It’s a pun!” the King added in an offended tone, and everybody\nlaughed, “Let the jury consider their verdict,” the King said, for\nabout the twentieth time that day.\n\n“No, no!” said the Queen. “Sentence first—verdict afterwards.”\n\n“Stuff and nonsense!” said Alice loudly. “The idea of having the\nsentence first!”\n\n“Hold your tongue!” sa",
+        "score": 0.7398540919287953,
+        "metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1532,
+          "chapter_char_start": 6518,
+          "chapter_char_end": 8050,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 80
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "c82b359f4457a43b0b04305529757853",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 75
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "44e22354bb560abab5b069ad73001009",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 59
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "c79f2454f4a19fac112a7cdf5b3eefb6",
+        "retrieved": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1532,
+          "chapter_char_start": 6518,
+          "chapter_char_end": 8050,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 80
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1532,
+          "chapter_char_start": 6518,
+          "chapter_char_end": 8050,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 3, unit 80, preserves both the Queen's sentence-first demand and Alice's direct objection with speaker attribution.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q20",
+    "strategy": "B",
+    "hits": [
+      {
+        "chunk_id": "d7eedf481d907f8e98469c8b262d31ce",
+        "text": "As they walked off together, Alice heard the King say in a low voice,\nto the company generally, “You are all pardoned.” “Come, that’s a\ngood thing!” she said to herself, for she had felt quite unhappy at the\nnumber of executions the Queen had ordered.",
+        "score": 0.753485439600804,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 59
+        }
+      },
+      {
+        "chunk_id": "7af93b53578d4febf16d146b1f601e63",
+        "text": "“Now, I give you fair warning,” shouted the Queen, stamping on the\nground as she spoke; “either you or your head must be off, and that in\nabout half no time! Take your choice!”\n\nThe Duchess took her choice, and was gone in a moment.\n\n“Let’s go on with the game,” the Queen said to Alice; and Alice was too\nmuch frightened to say a word, but slowly followed her back to the\ncroquet-ground.",
+        "score": 0.750348082998523,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 59
+        }
+      },
+      {
+        "chunk_id": "78f039383299008a270e90578d98ce27",
+        "text": "“I’m glad I’ve seen that done,” thought Alice. “I’ve so often read in\nthe newspapers, at the end of trials, “There was some attempts at\napplause, which was immediately suppressed by the officers of the\ncourt,” and I never understood what it meant till now.”\n\n“If that’s all you know about it, you may stand down,” continued the\nKing.\n\n“I can’t go no lower,” said the Hatter: “I’m on the floor, as it is.”\n\n“Then you may sit down,” the King replied.",
+        "score": 0.7485709670028176,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 75
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "d7eedf481d907f8e98469c8b262d31ce",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 59
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "7af93b53578d4febf16d146b1f601e63",
+        "retrieved": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 59
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "78f039383299008a270e90578d98ce27",
+        "retrieved": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 75
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 0,
+    "reason": "Returned material concerns pardons, croquet threats and Hatter testimony; none gives the Queen's sentence-before-verdict demand or Alice's reaction.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  },
+  {
+    "id": "q20",
+    "strategy": "C",
+    "hits": [
+      {
+        "chunk_id": "e2ea9d1bfff8afe089ba7809270839d5",
+        "text": "“It’s a pun!” the King added in an offended tone, and everybody\nlaughed, “Let the jury consider their verdict,” the King said, for\nabout the twentieth time that day.\n\n“No, no!” said the Queen. “Sentence first—verdict afterwards.”\n\n“Stuff and nonsense!” said Alice loudly. “The idea of having the\nsentence first!”\n\n“Hold your tongue!” said the Queen, turning purple.\n\n“I won’t!” said Alice.\n\n“Off with her head!” the Queen shouted at the top of her voice. Nobody\nmoved.",
+        "score": 0.7411779203153576,
+        "metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1532,
+          "chapter_char_start": 6518,
+          "chapter_char_end": 8050,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 80
+        }
+      },
+      {
+        "chunk_id": "8a63104a812f029ca2de4f8ad2a019c8",
+        "text": "“Unimportant, of course, I meant,” the King hastily said, and went on\nto himself in an undertone,\n\n“important—unimportant—unimportant—important—” as if he were trying\nwhich word sounded best.\n\nSome of the jury wrote it down “important,” and some “unimportant.”\nAlice could see this, as she was near enough to look over their slates;\n“but it doesn’t matter a bit,” she thought to herself.",
+        "score": 0.6899921266920348,
+        "metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1520,
+          "chapter_char_start": 1666,
+          "chapter_char_end": 3186,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 77
+        }
+      },
+      {
+        "chunk_id": "2ef40c46c35dbdd6dae9ac15e878f75f",
+        "text": "“It’s the oldest rule in the book,” said the King.\n\n“Then it ought to be Number One,” said Alice.\n\nThe King turned pale, and shut his note-book hastily. “Consider your\nverdict,” he said to the jury, in a low, trembling voice.",
+        "score": 0.6854787206193298,
+        "metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1520,
+          "chapter_char_start": 1666,
+          "chapter_char_end": 3186,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 77
+        }
+      }
+    ],
+    "metadata_checks": [
+      {
+        "chunk_id": "e2ea9d1bfff8afe089ba7809270839d5",
+        "retrieved": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1532,
+          "chapter_char_start": 6518,
+          "chapter_char_end": 8050,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 80
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1532,
+          "chapter_char_start": 6518,
+          "chapter_char_end": 8050,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "8a63104a812f029ca2de4f8ad2a019c8",
+        "retrieved": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1520,
+          "chapter_char_start": 1666,
+          "chapter_char_end": 3186,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 77
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1520,
+          "chapter_char_start": 1666,
+          "chapter_char_end": 3186,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      },
+      {
+        "chunk_id": "2ef40c46c35dbdd6dae9ac15e878f75f",
+        "retrieved": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1520,
+          "chapter_char_start": 1666,
+          "chapter_char_end": 3186,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 77
+        },
+        "source_unit_exists": true,
+        "expected_metadata": {
+          "chapter_roman": "XII",
+          "language": "en",
+          "unit_chars": 1520,
+          "chapter_char_start": 1666,
+          "chapter_char_end": 3186,
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+        },
+        "complete_and_correct": null,
+        "reason": ""
+      }
+    ],
+    "grounding_score": 2,
+    "reason": "Rank 1, unit 80, gives both speakers and the complete demand/objection exchange in chapter XII.",
+    "reviewer": "Codex (AI reviewer)",
+    "status": "ai-proposal; pending-human-review",
+    "human_reviewed": false
+  }
+]

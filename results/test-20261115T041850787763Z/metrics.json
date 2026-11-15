@@ -1,0 +1,50 @@
+{
+  "A/test": {
+    "hit_at_1": {
+      "correct": 1,
+      "total": 5,
+      "rate": 0.2
+    },
+    "hit_at_3": {
+      "correct": 5,
+      "total": 5,
+      "rate": 1.0
+    },
+    "filter_compliance": {
+      "correct": 1,
+      "total": 5
+    }
+  },
+  "B/test": {
+    "hit_at_1": {
+      "correct": 0,
+      "total": 5,
+      "rate": 0.0
+    },
+    "hit_at_3": {
+      "correct": 3,
+      "total": 5,
+      "rate": 0.6
+    },
+    "filter_compliance": {
+      "correct": 2,
+      "total": 5
+    }
+  },
+  "C/test": {
+    "hit_at_1": {
+      "correct": 3,
+      "total": 5,
+      "rate": 0.6
+    },
+    "hit_at_3": {
+      "correct": 4,
+      "total": 5,
+      "rate": 0.8
+    },
+    "filter_compliance": {
+      "correct": 5,
+      "total": 5
+    }
+  }
+}

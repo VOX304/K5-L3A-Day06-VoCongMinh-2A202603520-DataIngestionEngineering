@@ -1,3 +1,5 @@
+> Lab06 đã chạy bằng model thật + Qdrant local trên 82 đơn vị nguồn, benchmark 15 dev / 5 test. [Kết quả và báo cáo](report/individual/2A202603520_VoCongMinh.md) | [Cách chạy](docs/RUN_LAB06.md) | [Ticket](docs/implementation-status.md). Audit của người chấm còn chờ xác nhận; nhãn AI được lưu riêng.
+
 # Day 06 · Data Ingestion Engineering
 
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**

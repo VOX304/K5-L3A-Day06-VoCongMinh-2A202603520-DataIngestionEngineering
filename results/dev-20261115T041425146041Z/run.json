@@ -1,0 +1,62 @@
+{
+  "status": "completed-retrieval; human audit pending",
+  "split": "dev",
+  "config": {
+    "model": "BAAI/bge-small-en-v1.5",
+    "store": "qdrant-local",
+    "metric": "cosine-exact",
+    "corpus": "data/corpus.jsonl",
+    "benchmark": "benchmark/questions.json",
+    "store_path": "starter/.cache/qdrant",
+    "model_cache": "starter/.cache/fastembed",
+    "strategies": {
+      "A": {
+        "chunking": "fixed",
+        "size": 500,
+        "overlap": 50,
+        "filter": false
+      },
+      "B": {
+        "chunking": "paragraph",
+        "size": 500,
+        "filter": false
+      },
+      "C": {
+        "chunking": "paragraph",
+        "size": 500,
+        "filter": true
+      }
+    },
+    "selection_rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer indexed chunks; ties A, B, C. Test is not used to tune.",
+    "manual_review_required": true
+  },
+  "fingerprints": {
+    "config": "057c080cedafba2eb55e37adbbe9a2fa7c6548355e652abec16990de6519fc0b",
+    "corpus": "032bada10c8cd0bf3582d287bc8e46c61b75b0cc7619af51713071ea8bd1c710",
+    "benchmark": "d391e14b3b7d6e75a60d202a7fa490537107ff7a573721ee435bc713462354e7",
+    "code/chunking.py": "136233360866b52d56807c3b2c4bf5726ca18a75262c5b30f83558b388121497",
+    "code/embeddings.py": "8b573cfb82fbbf7100433f3c38995f1bd451d6797321189a55d10807f12b8f3f",
+    "code/evaluation.py": "cb521a4529cb123167cc7468efc051bd155b62ab748440ba4932c01f1066d2c1",
+    "code/ingestion.py": "46d6402e36bf6cda850226a991fe2d9bff911e87542eb3265b808a0343aa0fec",
+    "code/models.py": "9f26a14cd6139c7b608df067894274308ae7b5c2c2ccd10566079c345fae1710",
+    "code/run.py": "35bd5b4c61803d0db08a04afcefa3eb5fedea0f855e611028782bd3b0c4b9d80",
+    "code/store.py": "b78b383e19be1f4469865e399e3863e855b87ed839ce7b2e0a00ecff4ef1ee4a",
+    "code/__init__.py": "9d51e4a4713565f1b69bb8f3a0d8ac2c6c8730961e738a65f7a7a4ebd2a593a8"
+  },
+  "versions": {
+    "fastembed": "0.9.1",
+    "qdrant-client": "1.20.0",
+    "numpy": "2.5.4",
+    "onnxruntime": "1.32.0",
+    "tokenizers": "0.23.3",
+    "huggingface-hub": "1.33.0"
+  },
+  "python": "3.12.2",
+  "elapsed_seconds": 57.042157699999734,
+  "api_cost_usd": 0,
+  "cost_note": "Local CPU inference; electricity/hardware not priced",
+  "model": "BAAI/bge-small-en-v1.5",
+  "dimensions": 384,
+  "embedding_method": "FastEmbed embed(documents) and query_embed(question); no additional text prefix; CPUExecutionProvider",
+  "timestamp_utc": "2026-11-15T04:15:22.189037+00:00"
+}

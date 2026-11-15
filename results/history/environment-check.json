@@ -1,0 +1,32 @@
+{
+  "timestamp_utc": "2026-11-15T03:57:57.280173+00:00",
+  "python": "3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]",
+  "checks": {
+    "module/fastembed": false,
+    "module/qdrant_client": false,
+    "module/pypdf": false,
+    "module/pytest": true,
+    "module/mypy": false,
+    "dns/pypi.org": {
+      "ok": false,
+      "error": "[Errno 11001] getaddrinfo failed"
+    },
+    "dns/www.gutenberg.org": {
+      "ok": false,
+      "error": "[Errno 11001] getaddrinfo failed"
+    },
+    "dns/huggingface.co": {
+      "ok": false,
+      "error": "[Errno 11001] getaddrinfo failed"
+    },
+    "file/data/corpus.jsonl": false,
+    "file/data/manifest.json": false,
+    "file/benchmark/questions.json": false,
+    "candidate_questions": {
+      "dev": 15,
+      "test": 5,
+      "status": "unverified; not benchmark results"
+    }
+  },
+  "benchmark_executed": false
+}

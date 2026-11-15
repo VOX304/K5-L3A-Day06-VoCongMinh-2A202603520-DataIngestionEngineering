@@ -1,0 +1,16 @@
+{
+  "model": "BAAI/bge-small-en-v1.5",
+  "store": "qdrant-local",
+  "metric": "cosine-exact",
+  "corpus": "data/corpus.jsonl",
+  "benchmark": "benchmark/questions.json",
+  "store_path": "starter/.cache/qdrant",
+  "model_cache": "starter/.cache/fastembed",
+  "strategies": {
+    "A": {"chunking": "fixed", "size": 500, "overlap": 50, "filter": false},
+    "B": {"chunking": "paragraph", "size": 500, "filter": false},
+    "C": {"chunking": "paragraph", "size": 500, "filter": true}
+  },
+  "selection_rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer indexed chunks; ties A, B, C. Test is not used to tune.",
+  "manual_review_required": true
+}

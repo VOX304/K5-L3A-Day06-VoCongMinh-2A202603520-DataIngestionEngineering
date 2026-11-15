@@ -1,0 +1,215 @@
+{
+  "status": "Source-corrected before retrieval; exact containment in validation.json; answer review in source_review.json (AI-assisted, human sign-off pending)",
+  "source_candidate": {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "project_gutenberg_ebook": 11,
+    "language": "English",
+    "proposed_filter_field": "chapter_roman",
+    "gold_page": null,
+    "gold_page_note": "Source-unit IDs are assigned by prepare_corpus.py from actual quote containment; these are not physical PDF pages.",
+    "filter_context": "For each question, the reader supplies the listed chapter as context before retrieval. The chapter is not inferred from gold evidence. All 20 questions have this explicit contextual input."
+  },
+  "questions": [
+    {
+      "id": "q01",
+      "split": "dev",
+      "question": "Where was Alice sitting before she followed the White Rabbit?",
+      "expected_answer": "She was sitting by her sister on the bank and had nothing to do.",
+      "evidence_quote": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do",
+      "filter": {
+        "chapter_roman": "I"
+      }
+    },
+    {
+      "id": "q02",
+      "split": "dev",
+      "question": "What did the White Rabbit take out of his waistcoat-pocket?",
+      "expected_answer": "A watch.",
+      "evidence_quote": "the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on",
+      "filter": {
+        "chapter_roman": "I"
+      }
+    },
+    {
+      "id": "q03",
+      "split": "dev",
+      "question": "What was printed on the bottle Alice found?",
+      "expected_answer": "'DRINK ME'",
+      "evidence_quote": "the words “DRINK ME,” beautifully printed on it in large letters.",
+      "filter": {
+        "chapter_roman": "I"
+      }
+    },
+    {
+      "id": "q04",
+      "split": "dev",
+      "question": "What words were marked in currants on the little cake?",
+      "expected_answer": "“EAT ME”.",
+      "evidence_quote": "on which the words “EAT ME” were beautifully marked in currants.",
+      "filter": {
+        "chapter_roman": "I"
+      }
+    },
+    {
+      "id": "q05",
+      "split": "dev",
+      "question": "Which animal did Alice meet after falling into the pool of tears?",
+      "expected_answer": "A Mouse.",
+      "evidence_quote": "she soon made out that it was only a mouse that had slipped in like herself.",
+      "filter": {
+        "chapter_roman": "II"
+      }
+    },
+    {
+      "id": "q06",
+      "split": "dev",
+      "question": "What did the Mouse call the driest thing it knew?",
+      "expected_answer": "A passage about William the Conqueror.",
+      "evidence_quote": "This is the driest thing I know. Silence all round, if you please! ‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English",
+      "filter": {
+        "chapter_roman": "III"
+      }
+    },
+    {
+      "id": "q07",
+      "split": "dev",
+      "question": "What did the Dodo propose when the Mouse's recitation failed to dry the animals?",
+      "expected_answer": "A Caucus-race.",
+      "evidence_quote": "“What I was going to say,” said the Dodo in an offended tone, “was, that the best thing to get us dry would be a Caucus-race.”",
+      "filter": {
+        "chapter_roman": "III"
+      }
+    },
+    {
+      "id": "q08",
+      "split": "dev",
+      "question": "What did Alice use to fan herself in the hot hall?",
+      "expected_answer": "The fan the White Rabbit dropped.",
+      "evidence_quote": "The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go. Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself",
+      "filter": {
+        "chapter_roman": "II"
+      }
+    },
+    {
+      "id": "q09",
+      "split": "dev",
+      "question": "What did the Caterpillar ask Alice to explain?",
+      "expected_answer": "Who she was.",
+      "evidence_quote": "“Who are you?” said the Caterpillar.",
+      "filter": {
+        "chapter_roman": "V"
+      }
+    },
+    {
+      "id": "q10",
+      "split": "dev",
+      "question": "What two changes did Alice report when the Caterpillar asked whether she had changed?",
+      "expected_answer": "She could not remember things as she used to, and was not the same size for ten minutes together.",
+      "evidence_quote": "“I’m afraid I am, sir,” said Alice; “I can’t remember things as I used—and I don’t keep the same size for ten minutes together!”",
+      "filter": {
+        "chapter_roman": "V"
+      }
+    },
+    {
+      "id": "q11",
+      "split": "dev",
+      "question": "Which creatures did the Pigeon say she had to watch for night and day while hatching her eggs?",
+      "expected_answer": "Serpents.",
+      "evidence_quote": "“As if it wasn’t trouble enough hatching the eggs,” said the Pigeon; “but I must be on the look-out for serpents night and day!",
+      "filter": {
+        "chapter_roman": "V"
+      }
+    },
+    {
+      "id": "q12",
+      "split": "dev",
+      "question": "What was the Queen inviting the Duchess to do?",
+      "expected_answer": "Play croquet.",
+      "evidence_quote": "For the Duchess. An invitation from the Queen to play croquet.",
+      "filter": {
+        "chapter_roman": "VI"
+      }
+    },
+    {
+      "id": "q13",
+      "split": "dev",
+      "question": "What did Alice think pepper might make people?",
+      "expected_answer": "Hot-tempered.",
+      "evidence_quote": "Maybe it’s always pepper that makes people hot-tempered",
+      "filter": {
+        "chapter_roman": "IX"
+      }
+    },
+    {
+      "id": "q14",
+      "split": "dev",
+      "question": "What did the Cheshire Cat say about the people in that place?",
+      "expected_answer": "They were all mad.",
+      "evidence_quote": "we’re all mad here. I’m mad. You’re mad.",
+      "filter": {
+        "chapter_roman": "VI"
+      }
+    },
+    {
+      "id": "q15",
+      "split": "dev",
+      "question": "What did the King tell the Hatter to take off?",
+      "expected_answer": "His hat.",
+      "evidence_quote": "“Take off your hat,” the King said to the Hatter.",
+      "filter": {
+        "chapter_roman": "XI"
+      }
+    },
+    {
+      "id": "q16",
+      "split": "test",
+      "question": "According to the Duchess, what makes the world go round?",
+      "expected_answer": "Love.",
+      "evidence_quote": "“’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love, ’tis love, that makes the world go round!’”",
+      "filter": {
+        "chapter_roman": "IX"
+      }
+    },
+    {
+      "id": "q17",
+      "split": "test",
+      "question": "What was the final action in the first figure of the Lobster Quadrille?",
+      "expected_answer": "They returned to land.",
+      "evidence_quote": "Back to land again, and that’s all the first figure",
+      "filter": {
+        "chapter_roman": "X"
+      }
+    },
+    {
+      "id": "q18",
+      "split": "test",
+      "question": "What did the Mock Turtle say he had been?",
+      "expected_answer": "A real Turtle.",
+      "evidence_quote": "“Once,” said the Mock Turtle at last, with a deep sigh, “I was a real Turtle.”",
+      "filter": {
+        "chapter_roman": "IX"
+      }
+    },
+    {
+      "id": "q19",
+      "split": "test",
+      "question": "What did the Knave of Hearts allegedly steal?",
+      "expected_answer": "The Queen's tarts.",
+      "evidence_quote": "The Queen of Hearts, she made some tarts, All on a summer day: The Knave of Hearts, he stole those tarts, And took them quite away!",
+      "filter": {
+        "chapter_roman": "XI"
+      }
+    },
+    {
+      "id": "q20",
+      "split": "test",
+      "question": "How did Alice react to the Queen's demand for a sentence before the verdict?",
+      "expected_answer": "She rejected it as stuff and nonsense, objecting to having the sentence first.",
+      "evidence_quote": "“No, no!” said the Queen. “Sentence first—verdict afterwards.” “Stuff and nonsense!” said Alice loudly. “The idea of having the sentence first!”",
+      "filter": {
+        "chapter_roman": "XII"
+      }
+    }
+  ]
+}

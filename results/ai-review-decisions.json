@@ -1,0 +1,48 @@
+{
+  "reviewer": "Codex (AI reviewer)",
+  "human_reviewed": false,
+  "method": "Read all 20 distinct sampled A/B chunks and all 15 test top-3 traces in full. B and C coherence samples are identical and their IDs/text are checked equal. Apply GUIDE 0/1/2 rubrics to content, with per-case reasons. Source/metadata assertions are automated separately. Review is unblinded after viewing retrieval scores and may be biased; these are AI proposals, not required human labels.",
+  "coherence": {
+    "A": [
+      {"score":1,"reason":"Opening Alice paragraph is understandable, but the next daisy-chain sentence is cut mid-word at the end."},
+      {"score":1,"reason":"The well/cupboards scene is recognizable; Alice is only referred to as she and the jar description ends mid-word."},
+      {"score":1,"reason":"The falling-through-earth speculation is partly understandable, but speaker context is missing and the curtsey aside is truncated."},
+      {"score":1,"reason":"Alice chasing the Rabbit is clear; the destination sentence is cut after herself."},
+      {"score":1,"reason":"The bottle-label description is complete; a new Alice decision sentence is cut mid-word."},
+      {"score":1,"reason":"Ten-inch height and fear of disappearing are clear, but the candle comparison ends mid-word and depends on prior transformation context."},
+      {"score":1,"reason":"The chapter heading and Alice's growth are clear, but her discussion of feet ends mid-word."},
+      {"score":1,"reason":"The Rabbit returns with gloves and fan; the new interaction with Alice is cut mid-word."},
+      {"score":1,"reason":"The crocodile poem is complete, but Alice's reaction is truncated while listing lessons and needs preceding recitation context."},
+      {"score":1,"reason":"Alice's failed garden attempt is understandable; a new event begins and stops mid-word."}
+    ],
+    "B": [
+      {"score":2,"reason":"Chapter heading and complete opening paragraph identify Alice, her sister, place and boredom."},
+      {"score":1,"reason":"Oversized source paragraph is hard-split just as in A; the jar description is cut mid-word and she lacks identification."},
+      {"score":1,"reason":"Oversized paragraph ends mid-curtsey aside; the speech and falling context are only partly self-contained."},
+      {"score":1,"reason":"Oversized chase paragraph is hard-split after herself; preceding chase is understandable."},
+      {"score":2,"reason":"Complete paragraph identifies Alice finding a bottle and the DRINK ME label, preserving that event."},
+      {"score":1,"reason":"Oversized shrinking paragraph is hard-split mid-candle comparison, with prior transformation context omitted."},
+      {"score":1,"reason":"Heading-only chunk supplies chapter scope but no narrative event or supporting statement."},
+      {"score":1,"reason":"Oversized Rabbit-return paragraph is hard-split in the interaction with Alice."},
+      {"score":2,"reason":"Both complete crocodile-poem stanzas are retained together; the imagery can be understood as a self-contained poem."},
+      {"score":2,"reason":"Complete paragraph states Alice's current small size, closed garden door and inaccessible key without adding a dangling next paragraph."}
+    ]
+  },
+  "grounding": [
+    {"id":"q16","strategy":"A","score":2,"reason":"Rank 1, unit 57, attributes the love moral directly to the Duchess; source and chapter are traceable."},
+    {"id":"q16","strategy":"B","score":2,"reason":"Rank 2, unit 57, includes the Duchess's explicit love moral despite a distracting chapter VI rank 1."},
+    {"id":"q16","strategy":"C","score":2,"reason":"Rank 1, unit 57, contains the complete Duchess attribution and love moral within chapter IX."},
+    {"id":"q17","strategy":"A","score":2,"reason":"Rank 2, unit 64, explicitly ends the first figure with returning to land; the Mock Turtle is identified."},
+    {"id":"q17","strategy":"B","score":1,"reason":"Ranks 1 and 2 describe the dance opening and early steps, but none of the top-3 contains the final return-to-land step."},
+    {"id":"q17","strategy":"C","score":1,"reason":"Chapter X filter retains the same three incomplete dance-related chunks; unit 64 with the final step is absent."},
+    {"id":"q18","strategy":"A","score":2,"reason":"Rank 3, unit 61, explicitly attributes I was a real Turtle to the Mock Turtle."},
+    {"id":"q18","strategy":"B","score":2,"reason":"Rank 2, unit 61, identifies the Mock Turtle and states he had been a real Turtle."},
+    {"id":"q18","strategy":"C","score":2,"reason":"Rank 1, unit 61, supplies the complete past-identity statement; other hits concern the same school story."},
+    {"id":"q19","strategy":"A","score":2,"reason":"Rank 2, unit 72, includes the accusation poem linking the Knave to the Queen's tarts; it does not establish actual guilt."},
+    {"id":"q19","strategy":"B","score":2,"reason":"Rank 2, unit 72, supplies the full accusation; heading-only rank 1 cannot establish the answer on its own."},
+    {"id":"q19","strategy":"C","score":2,"reason":"Rank 2, unit 72, contains the full accusation poem; all returned hits are within chapter XI."},
+    {"id":"q20","strategy":"A","score":2,"reason":"Rank 3, unit 80, preserves both the Queen's sentence-first demand and Alice's direct objection with speaker attribution."},
+    {"id":"q20","strategy":"B","score":0,"reason":"Returned material concerns pardons, croquet threats and Hatter testimony; none gives the Queen's sentence-before-verdict demand or Alice's reaction."},
+    {"id":"q20","strategy":"C","score":2,"reason":"Rank 1, unit 80, gives both speakers and the complete demand/objection exchange in chapter XII."}
+  ]
+}

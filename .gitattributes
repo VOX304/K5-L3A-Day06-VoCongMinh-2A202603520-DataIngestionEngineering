@@ -1,0 +1,8 @@
+# Preserve bytes used by frozen benchmark/source hashes across checkouts.
+starter/src/*.py -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+starter/config.json -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+data/corpus.jsonl -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+# Unmodified upstream notices intentionally retain their original whitespace.
+data/raw/alice.txt -text -whitespace
+data/LICENSE.gutenberg.txt -text -whitespace
+benchmark/*.json -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

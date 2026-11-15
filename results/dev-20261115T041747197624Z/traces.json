@@ -1,0 +1,3332 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Where was Alice sitting before she followed the White Rabbit?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "71aa37fa352067720fdaedc2f477b76a",
+        "text": "After a time she heard a little pattering of feet in the distance, and\nshe hastily dried her eyes to see what was coming. It was the White\nRabbit returning, splendidly dressed, with a pair of white kid gloves\nin one hand and a large fan in the other: he came trotting along in a\ngreat hurry, muttering to himself as he came, “Oh! the Duchess, the\nDuchess! Oh! won’t she be savage if I’ve kept her waiting!” Alice felt\nso desperate that she was ready to ask help of any one; so, when the\nRabbit came n",
+        "score": 0.7250661924369931,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 2253,
+          "chapter_char_start": 1766,
+          "chapter_char_end": 4019,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 8
+        }
+      },
+      {
+        "chunk_id": "11d055fca5e7cac1ab292b844f28ce7e",
+        "text": "Alice was not a bit hurt, and she jumped up on to her feet in a moment:\nshe looked up, but it was all dark overhead; before her was another\nlong passage, and the White Rabbit was still in sight, hurrying down\nit. There was not a moment to be lost: away went Alice like the wind,\nand was just in time to hear it say, as it turned a corner, “Oh my ears\nand whiskers, how late it’s getting!” She was close behind it when she\nturned the corner, but the Rabbit was no longer to be seen: she found\nherself ",
+        "score": 0.7021503416143109,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2089,
+          "chapter_char_start": 5039,
+          "chapter_char_end": 7128,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 4
+        }
+      },
+      {
+        "chunk_id": "5a99fb8bc35f1ee2d21103dca815ced1",
+        "text": " White Rabbit as he fumbled over the list, feeling\nvery curious to see what the next witness would be like, “—for they\nhaven’t got much evidence yet,” she said to herself. Imagine her\nsurprise, when the White Rabbit read out, at the top of his shrill\nlittle voice, the name “Alice!”",
+        "score": 0.7005486563466494,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 75
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 1,
+        "quote": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0069922000002407
+  },
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Where was Alice sitting before she followed the White Rabbit?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "03086c0e00def0c0208a88299d96d839",
+        "text": "After a time she heard a little pattering of feet in the distance, and\nshe hastily dried her eyes to see what was coming. It was the White\nRabbit returning, splendidly dressed, with a pair of white kid gloves\nin one hand and a large fan in the other: he came trotting along in a\ngreat hurry, muttering to himself as he came, “Oh! the Duchess, the\nDuchess! Oh! won’t she be savage if I’ve kept her waiting!” Alice felt\nso desperate that she was ready to ask help of any one; so, when the\nRabbit came n",
+        "score": 0.7250661924369931,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 2253,
+          "chapter_char_start": 1766,
+          "chapter_char_end": 4019,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 8
+        }
+      },
+      {
+        "chunk_id": "c51daef8a1714997a7b3028d615fc2c1",
+        "text": "Alice watched the White Rabbit as he fumbled over the list, feeling\nvery curious to see what the next witness would be like, “—for they\nhaven’t got much evidence yet,” she said to herself. Imagine her\nsurprise, when the White Rabbit read out, at the top of his shrill\nlittle voice, the name “Alice!”",
+        "score": 0.7107641133056147,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 75
+        }
+      },
+      {
+        "chunk_id": "79b554f4671d85b530d3e35523d9ab82",
+        "text": "Alice was not a bit hurt, and she jumped up on to her feet in a moment:\nshe looked up, but it was all dark overhead; before her was another\nlong passage, and the White Rabbit was still in sight, hurrying down\nit. There was not a moment to be lost: away went Alice like the wind,\nand was just in time to hear it say, as it turned a corner, “Oh my ears\nand whiskers, how late it’s getting!” She was close behind it when she\nturned the corner, but the Rabbit was no longer to be seen: she found\nherself ",
+        "score": 0.7021503416143109,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2089,
+          "chapter_char_start": 5039,
+          "chapter_char_end": 7128,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 4
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 1,
+        "quote": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.005598400000053516
+  },
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Where was Alice sitting before she followed the White Rabbit?",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "79b554f4671d85b530d3e35523d9ab82",
+        "text": "Alice was not a bit hurt, and she jumped up on to her feet in a moment:\nshe looked up, but it was all dark overhead; before her was another\nlong passage, and the White Rabbit was still in sight, hurrying down\nit. There was not a moment to be lost: away went Alice like the wind,\nand was just in time to hear it say, as it turned a corner, “Oh my ears\nand whiskers, how late it’s getting!” She was close behind it when she\nturned the corner, but the Rabbit was no longer to be seen: she found\nherself ",
+        "score": 0.7021503416143109,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2089,
+          "chapter_char_start": 5039,
+          "chapter_char_end": 7128,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 4
+        }
+      },
+      {
+        "chunk_id": "303faf1838a18396045dab113dcae5fc",
+        "text": "CHAPTER I.\nDown the Rabbit-Hole\n\nAlice was beginning to get very tired of sitting by her sister on the\nbank, and of having nothing to do: once or twice she had peeped into\nthe book her sister was reading, but it had no pictures or\nconversations in it, “and what is the use of a book,” thought Alice\n“without pictures or conversations?”",
+        "score": 0.6722107747851938,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1693,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1693,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 1
+        }
+      },
+      {
+        "chunk_id": "ad751fe4d052f496a0f6d770429dddae",
+        "text": "There was nothing so very remarkable in that; nor did Alice think it\nso very much out of the way to hear the Rabbit say to itself, “Oh\ndear! Oh dear! I shall be late!” (when she thought it over afterwards,\nit occurred to her that she ought to have wondered at this, but at the\ntime it all seemed quite natural); but when the Rabbit actually took a\nwatch out of its waistcoat-pocket, and looked at it, and then hurried\non, Alice started to her feet, for it flashed across her mind that she\nhad never b",
+        "score": 0.6444875702783416,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1693,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1693,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 1
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 1,
+        "quote": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.022463100000095437
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What did the White Rabbit take out of his waistcoat-pocket?",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "e40861c7176bec357ede3732ad859d70",
+        "text": "CHAPTER IV.\nThe Rabbit Sends in a Little Bill\n\nIt was the White Rabbit, trotting slowly back again, and looking\nanxiously about as it went, as if it had lost something; and she heard\nit muttering to itself “The Duchess! The Duchess! Oh my dear paws! Oh\nmy fur and whiskers! She’ll get me executed, as sure as ferrets are\nferrets! Where can I have dropped them, I wonder?” Alice guessed in a\nmoment that it was looking for the fan and the pair of white kid\ngloves, and she very good-naturedly began hu",
+        "score": 0.6786032762282659,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1581,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1581,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 18
+        }
+      },
+      {
+        "chunk_id": "6a4aecae54a01b697fddfb01fa404400",
+        "text": " the\ntime it all seemed quite natural); but when the Rabbit actually took a\nwatch out of its waistcoat-pocket, and looked at it, and then hurried\non, Alice started to her feet, for it flashed across her mind that she\nhad never before seen a rabbit with either a waistcoat-pocket, or a\nwatch to take out of it, and burning with curiosity, she ran across the\nfield after it, and fortunately was just in time to see it pop down a\nlarge rabbit-hole under the hedge.\n\nIn another moment down went Alice aft",
+        "score": 0.6751228286304062,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1693,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1693,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 1
+        }
+      },
+      {
+        "chunk_id": "71aa37fa352067720fdaedc2f477b76a",
+        "text": "After a time she heard a little pattering of feet in the distance, and\nshe hastily dried her eyes to see what was coming. It was the White\nRabbit returning, splendidly dressed, with a pair of white kid gloves\nin one hand and a large fan in the other: he came trotting along in a\ngreat hurry, muttering to himself as he came, “Oh! the Duchess, the\nDuchess! Oh! won’t she be savage if I’ve kept her waiting!” Alice felt\nso desperate that she was ready to ask help of any one; so, when the\nRabbit came n",
+        "score": 0.6475329342159277,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 2253,
+          "chapter_char_start": 1766,
+          "chapter_char_end": 4019,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 8
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 1,
+        "quote": "the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0022304999993139063
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What did the White Rabbit take out of his waistcoat-pocket?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "115fffe9df1d7f36ed25ebac4737f482",
+        "text": "efore seen a rabbit with either a waistcoat-pocket, or a\nwatch to take out of it, and burning with curiosity, she ran across the\nfield after it, and fortunately was just in time to see it pop down a\nlarge rabbit-hole under the hedge.",
+        "score": 0.6857858464016637,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1693,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1693,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 1
+        }
+      },
+      {
+        "chunk_id": "3128dea6d901c2c29a40f75c6b135416",
+        "text": "It was the White Rabbit, trotting slowly back again, and looking\nanxiously about as it went, as if it had lost something; and she heard\nit muttering to itself “The Duchess! The Duchess! Oh my dear paws! Oh\nmy fur and whiskers! She’ll get me executed, as sure as ferrets are\nferrets! Where can I have dropped them, I wonder?” Alice guessed in a\nmoment that it was looking for the fan and the pair of white kid\ngloves, and she very good-naturedly began hunting about for them, but\nthey were nowhere to ",
+        "score": 0.6783774766459694,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1581,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1581,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 18
+        }
+      },
+      {
+        "chunk_id": "7e3b38d9f0419b5079cf2d3f10c3f89a",
+        "text": "CHAPTER IV.\nThe Rabbit Sends in a Little Bill",
+        "score": 0.6659383089862887,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1581,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1581,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 18
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 1,
+        "quote": "the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.002509200000531564
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What did the White Rabbit take out of his waistcoat-pocket?",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "115fffe9df1d7f36ed25ebac4737f482",
+        "text": "efore seen a rabbit with either a waistcoat-pocket, or a\nwatch to take out of it, and burning with curiosity, she ran across the\nfield after it, and fortunately was just in time to see it pop down a\nlarge rabbit-hole under the hedge.",
+        "score": 0.6857858464016637,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1693,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1693,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 1
+        }
+      },
+      {
+        "chunk_id": "ad751fe4d052f496a0f6d770429dddae",
+        "text": "There was nothing so very remarkable in that; nor did Alice think it\nso very much out of the way to hear the Rabbit say to itself, “Oh\ndear! Oh dear! I shall be late!” (when she thought it over afterwards,\nit occurred to her that she ought to have wondered at this, but at the\ntime it all seemed quite natural); but when the Rabbit actually took a\nwatch out of its waistcoat-pocket, and looked at it, and then hurried\non, Alice started to her feet, for it flashed across her mind that she\nhad never b",
+        "score": 0.6642647319048542,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1693,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1693,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 1
+        }
+      },
+      {
+        "chunk_id": "79b554f4671d85b530d3e35523d9ab82",
+        "text": "Alice was not a bit hurt, and she jumped up on to her feet in a moment:\nshe looked up, but it was all dark overhead; before her was another\nlong passage, and the White Rabbit was still in sight, hurrying down\nit. There was not a moment to be lost: away went Alice like the wind,\nand was just in time to hear it say, as it turned a corner, “Oh my ears\nand whiskers, how late it’s getting!” She was close behind it when she\nturned the corner, but the Rabbit was no longer to be seen: she found\nherself ",
+        "score": 0.5678978851435087,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2089,
+          "chapter_char_start": 5039,
+          "chapter_char_end": 7128,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 4
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 1,
+        "quote": "the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.017553800000314368
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What was printed on the bottle Alice found?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "35c496ae5c4cfd500fc3977792b99f98",
+        "text": "There seemed to be no use in waiting by the little door, so she went\nback to the table, half hoping she might find another key on it, or at\nany rate a book of rules for shutting people up like telescopes: this\ntime she found a little bottle on it, (“which certainly was not here\nbefore,” said Alice,) and round the neck of the bottle was a paper\nlabel, with the words “DRINK ME,” beautifully printed on it in large\nletters.\n\nIt was all very well to say “Drink me,” but the wise little Alice was\nnot g",
+        "score": 0.7812777225949077,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1503,
+          "chapter_char_start": 7130,
+          "chapter_char_end": 8633,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 5
+        }
+      },
+      {
+        "chunk_id": "5ad5898abd5ed9c2a91e70bcefb9f1d4",
+        "text": "nd that if you cut your finger very deeply with a knife, it usually\nbleeds; and she had never forgotten that, if you drink much from a\nbottle marked “poison,” it is almost certain to disagree with you,\nsooner or later.\n\nHowever, this bottle was not marked “poison,” so Alice ventured to\ntaste it, and finding it very nice, (it had, in fact, a sort of mixed\nflavour of cherry-tart, custard, pine-apple, roast turkey, toffee, and\nhot buttered toast,) she very soon finished it off.\n\n* * * * * * *\n\n* * ",
+        "score": 0.7170931401763456,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1503,
+          "chapter_char_start": 7130,
+          "chapter_char_end": 8633,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 5
+        }
+      },
+      {
+        "chunk_id": "27deccb6766db60d2533f7e5bd53bea0",
+        "text": "oves and\na fan! Quick, now!” And Alice was so much frightened that she ran off\nat once in the direction it pointed to, without trying to explain the\nmistake it had made.\n\n“He took me for his housemaid,” she said to herself as she ran. “How\nsurprised he’ll be when he finds out who I am! But I’d better take him\nhis fan and gloves—that is, if I can find them.” As she said this, she\ncame upon a neat little house, on the door of which was a bright brass\nplate with the name “W. RABBIT,” engraved upon ",
+        "score": 0.6822731890765256,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1581,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1581,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 18
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 5,
+        "quote": "the words “DRINK ME,” beautifully printed on it in large letters."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.002756799999588111
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What was printed on the bottle Alice found?",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "80d91e8b3248bf3bd9fd8e50f02b89c4",
+        "text": "However, this bottle was not marked “poison,” so Alice ventured to\ntaste it, and finding it very nice, (it had, in fact, a sort of mixed\nflavour of cherry-tart, custard, pine-apple, roast turkey, toffee, and\nhot buttered toast,) she very soon finished it off.\n\n* * * * * * *\n\n* * * * * *\n\n* * * * * * *\n\n“What a curious feeling!” said Alice; “I must be shutting up like a\ntelescope.”",
+        "score": 0.7525311060206195,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1503,
+          "chapter_char_start": 7130,
+          "chapter_char_end": 8633,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 5
+        }
+      },
+      {
+        "chunk_id": "6c653da7e400cb671a15e02444d9b951",
+        "text": "There seemed to be no use in waiting by the little door, so she went\nback to the table, half hoping she might find another key on it, or at\nany rate a book of rules for shutting people up like telescopes: this\ntime she found a little bottle on it, (“which certainly was not here\nbefore,” said Alice,) and round the neck of the bottle was a paper\nlabel, with the words “DRINK ME,” beautifully printed on it in large\nletters.",
+        "score": 0.731240195246039,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1503,
+          "chapter_char_start": 7130,
+          "chapter_char_end": 8633,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 5
+        }
+      },
+      {
+        "chunk_id": "24d344b7e034180ccae29ec2edc1953a",
+        "text": "By this time she had found her way into a tidy little room with a table\nin the window, and on it (as she had hoped) a fan and two or three\npairs of tiny white kid gloves: she took up the fan and a pair of the\ngloves, and was just going to leave the room, when her eye fell upon a\nlittle bottle that stood near the looking-glass. There was no label\nthis time with the words “DRINK ME,” but nevertheless she uncorked it\nand put it to her lips. “I know something interesting is sure to\nhappen,” she said",
+        "score": 0.6911962167655028,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1533,
+          "chapter_char_start": 1583,
+          "chapter_char_end": 3116,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 19
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 5,
+        "quote": "the words “DRINK ME,” beautifully printed on it in large letters."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0026791999998749816
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What was printed on the bottle Alice found?",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "80d91e8b3248bf3bd9fd8e50f02b89c4",
+        "text": "However, this bottle was not marked “poison,” so Alice ventured to\ntaste it, and finding it very nice, (it had, in fact, a sort of mixed\nflavour of cherry-tart, custard, pine-apple, roast turkey, toffee, and\nhot buttered toast,) she very soon finished it off.\n\n* * * * * * *\n\n* * * * * *\n\n* * * * * * *\n\n“What a curious feeling!” said Alice; “I must be shutting up like a\ntelescope.”",
+        "score": 0.7525311060206195,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1503,
+          "chapter_char_start": 7130,
+          "chapter_char_end": 8633,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 5
+        }
+      },
+      {
+        "chunk_id": "6c653da7e400cb671a15e02444d9b951",
+        "text": "There seemed to be no use in waiting by the little door, so she went\nback to the table, half hoping she might find another key on it, or at\nany rate a book of rules for shutting people up like telescopes: this\ntime she found a little bottle on it, (“which certainly was not here\nbefore,” said Alice,) and round the neck of the bottle was a paper\nlabel, with the words “DRINK ME,” beautifully printed on it in large\nletters.",
+        "score": 0.731240195246039,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1503,
+          "chapter_char_start": 7130,
+          "chapter_char_end": 8633,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 5
+        }
+      },
+      {
+        "chunk_id": "3a5b13cf27ebac4130a6de39661f2fac",
+        "text": "Suddenly she came upon a little three-legged table, all made of solid\nglass; there was nothing on it except a tiny golden key, and Alice’s\nfirst thought was that it might belong to one of the doors of the hall;\nbut, alas! either the locks were too large, or the key was too small,\nbut at any rate it would not open any of them. However, on the second\ntime round, she came upon a low curtain she had not noticed before, and\nbehind it was a little door about fifteen inches high: she tried the\nlittle g",
+        "score": 0.6814417887832889,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2089,
+          "chapter_char_start": 5039,
+          "chapter_char_end": 7128,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 4
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 5,
+        "quote": "the words “DRINK ME,” beautifully printed on it in large letters."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.03026419999969221
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What words were marked in currants on the little cake?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "36d7aa7f23c4a638b8d6c2446d7eefa8",
+        "text": " lying under the table:\nshe opened it, and found in it a very small cake, on which the words\n“EAT ME” were beautifully marked in currants. “Well, I’ll eat it,” said\nAlice, “and if it makes me grow larger, I can reach the key; and if it\nmakes me grow smaller, I can creep under the door; so either way I’ll\nget into the garden, and I don’t care which happens!”\n\nShe ate a little bit, and said anxiously to herself, “Which way? Which\nway?”, holding her hand on the top of her head to feel which way it ",
+        "score": 0.6877014488015919,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2708,
+          "chapter_char_start": 8635,
+          "chapter_char_end": 11343,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 6
+        }
+      },
+      {
+        "chunk_id": "b1bc1abd3b0dbbdf56b6c7374360ac0e",
+        "text": "“A barrowful of what?” thought Alice; but she had not long to doubt,\nfor the next moment a shower of little pebbles came rattling in at the\nwindow, and some of them hit her in the face. “I’ll put a stop to\nthis,” she said to herself, and shouted out, “You’d better not do that\nagain!” which produced another dead silence.\n\nAlice noticed with some surprise that the pebbles were all turning into\nlittle cakes as they lay on the floor, and a bright idea came into her\nhead. “If I eat one of these cakes",
+        "score": 0.6430950498712185,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1674,
+          "chapter_char_start": 9500,
+          "chapter_char_end": 11174,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 24
+        }
+      },
+      {
+        "chunk_id": "2adb35358e03a45a82eb1e8d9dd3d58c",
+        "text": "a came into her\nhead. “If I eat one of these cakes,” she thought, “it’s sure to make\nsome change in my size; and as it can’t possibly make me larger, it\nmust make me smaller, I suppose.”\n\nSo she swallowed one of the cakes, and was delighted to find that she\nbegan shrinking directly. As soon as she was small enough to get\nthrough the door, she ran out of the house, and found quite a crowd of\nlittle animals and birds waiting outside. The poor little Lizard, Bill,\nwas in the middle, being held up b",
+        "score": 0.6337052707807331,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1674,
+          "chapter_char_start": 9500,
+          "chapter_char_end": 11174,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 24
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 6,
+        "quote": "on which the words “EAT ME” were beautifully marked in currants."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.002530799999476585
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What words were marked in currants on the little cake?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "3fb9972ec3259d005c1c736d6ac7e75d",
+        "text": "Soon her eye fell on a little glass box that was lying under the table:\nshe opened it, and found in it a very small cake, on which the words\n“EAT ME” were beautifully marked in currants. “Well, I’ll eat it,” said\nAlice, “and if it makes me grow larger, I can reach the key; and if it\nmakes me grow smaller, I can creep under the door; so either way I’ll\nget into the garden, and I don’t care which happens!”",
+        "score": 0.6556054279926294,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2708,
+          "chapter_char_start": 8635,
+          "chapter_char_end": 11343,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 6
+        }
+      },
+      {
+        "chunk_id": "fcc06cfc29792a32aee1889b61c9dca0",
+        "text": "“Beautiful Soup, so rich and green,\nWaiting in a hot tureen!\nWho for such dainties would not stoop?\nSoup of the evening, beautiful Soup!\nSoup of the evening, beautiful Soup!\nBeau—ootiful Soo—oop!\nBeau—ootiful Soo—oop!\nSoo—oop of the e—e—evening,\nBeautiful, beautiful Soup!",
+        "score": 0.6157381912011017,
+        "metadata": {
+          "chapter_roman": "X",
+          "language": "en",
+          "unit_chars": 1786,
+          "chapter_char_start": 9554,
+          "chapter_char_end": 11340,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 69
+        }
+      },
+      {
+        "chunk_id": "1d29bf63f6a05454c53de5c1f52a419f",
+        "text": "Alice noticed with some surprise that the pebbles were all turning into\nlittle cakes as they lay on the floor, and a bright idea came into her\nhead. “If I eat one of these cakes,” she thought, “it’s sure to make\nsome change in my size; and as it can’t possibly make me larger, it\nmust make me smaller, I suppose.”",
+        "score": 0.6127988310984445,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1674,
+          "chapter_char_start": 9500,
+          "chapter_char_end": 11174,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 24
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 6,
+        "quote": "on which the words “EAT ME” were beautifully marked in currants."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0025892000003295834
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What words were marked in currants on the little cake?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "3fb9972ec3259d005c1c736d6ac7e75d",
+        "text": "Soon her eye fell on a little glass box that was lying under the table:\nshe opened it, and found in it a very small cake, on which the words\n“EAT ME” were beautifully marked in currants. “Well, I’ll eat it,” said\nAlice, “and if it makes me grow larger, I can reach the key; and if it\nmakes me grow smaller, I can creep under the door; so either way I’ll\nget into the garden, and I don’t care which happens!”",
+        "score": 0.6556054279926294,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2708,
+          "chapter_char_start": 8635,
+          "chapter_char_end": 11343,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 6
+        }
+      },
+      {
+        "chunk_id": "b6efb136992641fd20a98a12e661bdee",
+        "text": "It was all very well to say “Drink me,” but the wise little Alice was\nnot going to do that in a hurry. “No, I’ll look first,” she said,\n“and see whether it’s marked ‘poison’ or not”; for she had read\nseveral nice little histories about children who had got burnt, and\neaten up by wild beasts and other unpleasant things, all because they\nwould not remember the simple rules their friends had taught them:\nsuch as, that a red-hot poker will burn you if you hold it too long;\nand that if you cut your f",
+        "score": 0.6003195560838773,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1503,
+          "chapter_char_start": 7130,
+          "chapter_char_end": 8633,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 5
+        }
+      },
+      {
+        "chunk_id": "54f9edfaf15e93e5f3d90b956e03b0f9",
+        "text": "Down, down, down. There was nothing else to do, so Alice soon began\ntalking again. “Dinah’ll miss me very much to-night, I should think!”\n(Dinah was the cat.) “I hope they’ll remember her saucer of milk at\ntea-time. Dinah my dear! I wish you were down here with me! There are\nno mice in the air, I’m afraid, but you might catch a bat, and that’s\nvery like a mouse, you know. But do cats eat bats, I wonder?” And here\nAlice began to get rather sleepy, and went on saying to herself, in a\ndreamy sort o",
+        "score": 0.5797570041719953,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 1660,
+          "chapter_char_start": 3377,
+          "chapter_char_end": 5037,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 3
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 6,
+        "quote": "on which the words “EAT ME” were beautifully marked in currants."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "I"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.01815179999994143
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Which animal did Alice meet after falling into the pool of tears?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ad5c1343a0ebe9e615c7cf7961a188ea",
+        "text": "CHAPTER II.\nThe Pool of Tears\n\n“Curiouser and curiouser!” cried Alice (she was so much surprised, that\nfor the moment she quite forgot how to speak good English); “now I’m\nopening out like the largest telescope that ever was! Good-bye, feet!”\n(for when she looked down at her feet, they seemed to be almost out of\nsight, they were getting so far off). “Oh, my poor little feet, I\nwonder who will put on your shoes and stockings for you now, dears? I’m\nsure I shan’t be able! I shall be a great deal t",
+        "score": 0.7228562589780579,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1764,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1764,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 7
+        }
+      },
+      {
+        "chunk_id": "03676338a5d7c0512b0f13da62429458",
+        "text": "ne eye; but to get through was more\nhopeless than ever: she sat down and began to cry again.\n\n“You ought to be ashamed of yourself,” said Alice, “a great girl like\nyou,” (she might well say this), “to go on crying in this way! Stop\nthis moment, I tell you!” But she went on all the same, shedding\ngallons of tears, until there was a large pool all round her, about\nfour inches deep and reaching half down the hall.",
+        "score": 0.7028158325238234,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1764,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1764,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 7
+        }
+      },
+      {
+        "chunk_id": "40fe1277034285fc36fb8bd0cf681b5c",
+        "text": "No, there were no tears. “If you’re going to turn into a pig, my dear,”\nsaid Alice, seriously, “I’ll have nothing more to do with you. Mind\nnow!” The poor little thing sobbed again (or grunted, it was impossible\nto say which), and they went on for some while in silence.\n\nAlice was just beginning to think to herself, “Now, what am I to do\nwith this creature when I get it home?” when it grunted again, so\nviolently, that she looked down into its face in some alarm. This time\nthere could be no mista",
+        "score": 0.6917663542390622,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1589,
+          "chapter_char_start": 8783,
+          "chapter_char_end": 10372,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 38
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 10,
+        "quote": "she soon made out that it was only a mouse that had slipped in like herself."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "II"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0025660000001153094
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Which animal did Alice meet after falling into the pool of tears?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ce1ed220688b919fbfe7c1060e279a97",
+        "text": "“I wish I hadn’t cried so much!” said Alice, as she swam about, trying\nto find her way out. “I shall be punished for it now, I suppose, by\nbeing drowned in my own tears! That will be a queer thing, to be\nsure! However, everything is queer to-day.”",
+        "score": 0.7121301844698151,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1678,
+          "chapter_char_start": 5556,
+          "chapter_char_end": 7234,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 10
+        }
+      },
+      {
+        "chunk_id": "63c7e46648e064a20fa62fc2f3fb4b5e",
+        "text": "CHAPTER II.\nThe Pool of Tears",
+        "score": 0.7023049366806302,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1764,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1764,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 7
+        }
+      },
+      {
+        "chunk_id": "5db87406d805033b44c141fc7651f0f4",
+        "text": "It was high time to go, for the pool was getting quite crowded with the\nbirds and animals that had fallen into it: there were a Duck and a\nDodo, a Lory and an Eaglet, and several other curious creatures. Alice\nled the way, and the whole party swam to the shore.",
+        "score": 0.6949325216558915,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1678,
+          "chapter_char_start": 9215,
+          "chapter_char_end": 10893,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 12
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 10,
+        "quote": "she soon made out that it was only a mouse that had slipped in like herself."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "II"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0025693999996292405
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Which animal did Alice meet after falling into the pool of tears?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ce1ed220688b919fbfe7c1060e279a97",
+        "text": "“I wish I hadn’t cried so much!” said Alice, as she swam about, trying\nto find her way out. “I shall be punished for it now, I suppose, by\nbeing drowned in my own tears! That will be a queer thing, to be\nsure! However, everything is queer to-day.”",
+        "score": 0.7121301844698151,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1678,
+          "chapter_char_start": 5556,
+          "chapter_char_end": 7234,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 10
+        }
+      },
+      {
+        "chunk_id": "63c7e46648e064a20fa62fc2f3fb4b5e",
+        "text": "CHAPTER II.\nThe Pool of Tears",
+        "score": 0.7023049366806302,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1764,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1764,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 7
+        }
+      },
+      {
+        "chunk_id": "5db87406d805033b44c141fc7651f0f4",
+        "text": "It was high time to go, for the pool was getting quite crowded with the\nbirds and animals that had fallen into it: there were a Duck and a\nDodo, a Lory and an Eaglet, and several other curious creatures. Alice\nled the way, and the whole party swam to the shore.",
+        "score": 0.6949325216558915,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1678,
+          "chapter_char_start": 9215,
+          "chapter_char_end": 10893,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 12
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 10,
+        "quote": "she soon made out that it was only a mouse that had slipped in like herself."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "II"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.016302099999847997
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "What did the Mouse call the driest thing it knew?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "8f296c776888fa27b32509016905e923",
+        "text": "n make\nyou dry enough!” They all sat down at once, in a large ring, with the\nMouse in the middle. Alice kept her eyes anxiously fixed on it, for she\nfelt sure she would catch a bad cold if she did not get dry very soon.\n\n“Ahem!” said the Mouse with an important air, “are you all ready? This\nis the driest thing I know. Silence all round, if you please! ‘William\nthe Conqueror, whose cause was favoured by the pope, was soon submitted\nto by the English, who wanted leaders, and had been of late much\n",
+        "score": 0.7035189460163173,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1533,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1533,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 13
+        }
+      },
+      {
+        "chunk_id": "726684d0e97358d4eace2e556d0ee8df",
+        "text": "Alice was silent.\n\nThe Dormouse had closed its eyes by this time, and was going off into a\ndoze; but, on being pinched by the Hatter, it woke up again with a\nlittle shriek, and went on: “—that begins with an M, such as\nmouse-traps, and the moon, and memory, and muchness—you know you say\nthings are “much of a muchness”—did you ever see such a thing as a\ndrawing of a muchness?”\n\n“Really, now you ask me,” said Alice, very much confused, “I don’t\nthink—”\n\n“Then you shouldn’t talk,” said the Hatter.\n",
+        "score": 0.6666973717335571,
+        "metadata": {
+          "chapter_roman": "VII",
+          "language": "en",
+          "unit_chars": 3092,
+          "chapter_char_start": 9546,
+          "chapter_char_end": 12638,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 47
+        }
+      },
+      {
+        "chunk_id": "2d1f76f5a1d52506787c69f4d659b9a4",
+        "text": "ad known them all her life. Indeed, she had quite a long argument\nwith the Lory, who at last turned sulky, and would only say, “I am\nolder than you, and must know better;” and this Alice would not allow\nwithout knowing how old it was, and, as the Lory positively refused to\ntell its age, there was no more to be said.\n\nAt last the Mouse, who seemed to be a person of authority among them,\ncalled out, “Sit down, all of you, and listen to me! I’ll soon make\nyou dry enough!” They all sat down at once,",
+        "score": 0.6626296309128935,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1533,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1533,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 13
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 13,
+        "quote": "This is the driest thing I know. Silence all round, if you please! ‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "III"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0016420000001744484
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "What did the Mouse call the driest thing it knew?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "3a58f7556b5b598a130f6d313a3d6ec9",
+        "text": "At last the Mouse, who seemed to be a person of authority among them,\ncalled out, “Sit down, all of you, and listen to me! I’ll soon make\nyou dry enough!” They all sat down at once, in a large ring, with the\nMouse in the middle. Alice kept her eyes anxiously fixed on it, for she\nfelt sure she would catch a bad cold if she did not get dry very soon.",
+        "score": 0.7179647164734295,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1533,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1533,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 13
+        }
+      },
+      {
+        "chunk_id": "7abba5049785987072735aba8e215e09",
+        "text": "“Mine is a long and a sad tale!” said the Mouse, turning to Alice, and\nsighing.\n\n“It is a long tail, certainly,” said Alice, looking down with wonder\nat the Mouse’s tail; “but why do you call it sad?” And she kept on\npuzzling about it while the Mouse was speaking, so that her idea of the\ntale was something like this:—",
+        "score": 0.697430375631706,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1896,
+          "chapter_char_start": 4737,
+          "chapter_char_end": 6633,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 16
+        }
+      },
+      {
+        "chunk_id": "1473de2226518be0baa016968fc3ca43",
+        "text": "So she called softly after it, “Mouse dear! Do come back again, and we\nwon’t talk about cats or dogs either, if you don’t like them!” When the\nMouse heard this, it turned round and swam slowly back to her: its face\nwas quite pale (with passion, Alice thought), and it said in a low\ntrembling voice, “Let us get to the shore, and then I’ll tell you my\nhistory, and you’ll understand why it is I hate cats and dogs.”",
+        "score": 0.6697948849202927,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1678,
+          "chapter_char_start": 9215,
+          "chapter_char_end": 10893,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 12
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 13,
+        "quote": "This is the driest thing I know. Silence all round, if you please! ‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "III"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.001584999999977299
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "What did the Mouse call the driest thing it knew?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "3a58f7556b5b598a130f6d313a3d6ec9",
+        "text": "At last the Mouse, who seemed to be a person of authority among them,\ncalled out, “Sit down, all of you, and listen to me! I’ll soon make\nyou dry enough!” They all sat down at once, in a large ring, with the\nMouse in the middle. Alice kept her eyes anxiously fixed on it, for she\nfelt sure she would catch a bad cold if she did not get dry very soon.",
+        "score": 0.7179647164734295,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1533,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1533,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 13
+        }
+      },
+      {
+        "chunk_id": "7abba5049785987072735aba8e215e09",
+        "text": "“Mine is a long and a sad tale!” said the Mouse, turning to Alice, and\nsighing.\n\n“It is a long tail, certainly,” said Alice, looking down with wonder\nat the Mouse’s tail; “but why do you call it sad?” And she kept on\npuzzling about it while the Mouse was speaking, so that her idea of the\ntale was something like this:—",
+        "score": 0.697430375631706,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1896,
+          "chapter_char_start": 4737,
+          "chapter_char_end": 6633,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 16
+        }
+      },
+      {
+        "chunk_id": "2f9f982c365d239916823897069f843d",
+        "text": "“I beg your pardon!” said the Mouse, frowning, but very politely: “Did\nyou speak?”\n\n“Not I!” said the Lory hastily.\n\n“I thought you did,” said the Mouse. “—I proceed. ‘Edwin and Morcar,\nthe earls of Mercia and Northumbria, declared for him: and even\nStigand, the patriotic archbishop of Canterbury, found it advisable—’”\n\n“Found what?” said the Duck.\n\n“Found it,” the Mouse replied rather crossly: “of course you know\nwhat ‘it’ means.”",
+        "score": 0.6434181158153727,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1500,
+          "chapter_char_start": 1535,
+          "chapter_char_end": 3035,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 14
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 13,
+        "quote": "This is the driest thing I know. Silence all round, if you please! ‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "III"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.015203100000690029
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What did the Dodo propose when the Mouse's recitation failed to dry the animals?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "8f296c776888fa27b32509016905e923",
+        "text": "n make\nyou dry enough!” They all sat down at once, in a large ring, with the\nMouse in the middle. Alice kept her eyes anxiously fixed on it, for she\nfelt sure she would catch a bad cold if she did not get dry very soon.\n\n“Ahem!” said the Mouse with an important air, “are you all ready? This\nis the driest thing I know. Silence all round, if you please! ‘William\nthe Conqueror, whose cause was favoured by the pope, was soon submitted\nto by the English, who wanted leaders, and had been of late much\n",
+        "score": 0.6865372129068155,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1533,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1533,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 13
+        }
+      },
+      {
+        "chunk_id": "b9889c79431cc869b05eefcf23faab7d",
+        "text": "ke.\n\n“As wet as ever,” said Alice in a melancholy tone: “it doesn’t seem to\ndry me at all.”\n\n“In that case,” said the Dodo solemnly, rising to its feet, “I move\nthat the meeting adjourn, for the immediate adoption of more energetic\nremedies—”\n\n“Speak English!” said the Eaglet. “I don’t know the meaning of half\nthose long words, and, what’s more, I don’t believe you do either!” And\nthe Eaglet bent down its head to hide a smile: some of the other birds\ntittered audibly.\n\n“What I was going to say,”",
+        "score": 0.6726503704321098,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1500,
+          "chapter_char_start": 1535,
+          "chapter_char_end": 3035,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 14
+        }
+      },
+      {
+        "chunk_id": "c2167a6f3b3d61ecb7d9fe1f08a7cb59",
+        "text": "“I beg your pardon!” said the Mouse, frowning, but very politely: “Did\nyou speak?”\n\n“Not I!” said the Lory hastily.\n\n“I thought you did,” said the Mouse. “—I proceed. ‘Edwin and Morcar,\nthe earls of Mercia and Northumbria, declared for him: and even\nStigand, the patriotic archbishop of Canterbury, found it advisable—’”\n\n“Found what?” said the Duck.\n\n“Found it,” the Mouse replied rather crossly: “of course you know\nwhat ‘it’ means.”\n\n“I know what ‘it’ means well enough, when I find a thing,” said",
+        "score": 0.67175033465108,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1500,
+          "chapter_char_start": 1535,
+          "chapter_char_end": 3035,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 14
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 14,
+        "quote": "“What I was going to say,” said the Dodo in an offended tone, “was, that the best thing to get us dry would be a Caucus-race.”"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "III"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.002199300000029325
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What did the Dodo propose when the Mouse's recitation failed to dry the animals?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "2f9f982c365d239916823897069f843d",
+        "text": "“I beg your pardon!” said the Mouse, frowning, but very politely: “Did\nyou speak?”\n\n“Not I!” said the Lory hastily.\n\n“I thought you did,” said the Mouse. “—I proceed. ‘Edwin and Morcar,\nthe earls of Mercia and Northumbria, declared for him: and even\nStigand, the patriotic archbishop of Canterbury, found it advisable—’”\n\n“Found what?” said the Duck.\n\n“Found it,” the Mouse replied rather crossly: “of course you know\nwhat ‘it’ means.”",
+        "score": 0.689323435302301,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1500,
+          "chapter_char_start": 1535,
+          "chapter_char_end": 3035,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 14
+        }
+      },
+      {
+        "chunk_id": "80d42b8296e9143727ae48891dba16d3",
+        "text": "“Perhaps it doesn’t understand English,” thought Alice; “I daresay it’s\na French mouse, come over with William the Conqueror.” (For, with all\nher knowledge of history, Alice had no very clear notion how long ago\nanything had happened.) So she began again: “Où est ma chatte?” which\nwas the first sentence in her French lesson-book. The Mouse gave a\nsudden leap out of the water, and seemed to quiver all over with\nfright. “Oh, I beg your pardon!” cried Alice hastily, afraid that she\nhad hurt the poo",
+        "score": 0.6750628085836896,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1977,
+          "chapter_char_start": 7236,
+          "chapter_char_end": 9213,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 11
+        }
+      },
+      {
+        "chunk_id": "1473de2226518be0baa016968fc3ca43",
+        "text": "So she called softly after it, “Mouse dear! Do come back again, and we\nwon’t talk about cats or dogs either, if you don’t like them!” When the\nMouse heard this, it turned round and swam slowly back to her: its face\nwas quite pale (with passion, Alice thought), and it said in a low\ntrembling voice, “Let us get to the shore, and then I’ll tell you my\nhistory, and you’ll understand why it is I hate cats and dogs.”",
+        "score": 0.6709435663448343,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1678,
+          "chapter_char_start": 9215,
+          "chapter_char_end": 10893,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 12
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 14,
+        "quote": "“What I was going to say,” said the Dodo in an offended tone, “was, that the best thing to get us dry would be a Caucus-race.”"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "III"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.002156499999728112
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What did the Dodo propose when the Mouse's recitation failed to dry the animals?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "2f9f982c365d239916823897069f843d",
+        "text": "“I beg your pardon!” said the Mouse, frowning, but very politely: “Did\nyou speak?”\n\n“Not I!” said the Lory hastily.\n\n“I thought you did,” said the Mouse. “—I proceed. ‘Edwin and Morcar,\nthe earls of Mercia and Northumbria, declared for him: and even\nStigand, the patriotic archbishop of Canterbury, found it advisable—’”\n\n“Found what?” said the Duck.\n\n“Found it,” the Mouse replied rather crossly: “of course you know\nwhat ‘it’ means.”",
+        "score": 0.689323435302301,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1500,
+          "chapter_char_start": 1535,
+          "chapter_char_end": 3035,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 14
+        }
+      },
+      {
+        "chunk_id": "581aa57f659694edf0982fcb5fa666ee",
+        "text": "“As wet as ever,” said Alice in a melancholy tone: “it doesn’t seem to\ndry me at all.”\n\n“In that case,” said the Dodo solemnly, rising to its feet, “I move\nthat the meeting adjourn, for the immediate adoption of more energetic\nremedies—”\n\n“Speak English!” said the Eaglet. “I don’t know the meaning of half\nthose long words, and, what’s more, I don’t believe you do either!” And\nthe Eaglet bent down its head to hide a smile: some of the other birds\ntittered audibly.",
+        "score": 0.6698603164426079,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1500,
+          "chapter_char_start": 1535,
+          "chapter_char_end": 3035,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 14
+        }
+      },
+      {
+        "chunk_id": "3a58f7556b5b598a130f6d313a3d6ec9",
+        "text": "At last the Mouse, who seemed to be a person of authority among them,\ncalled out, “Sit down, all of you, and listen to me! I’ll soon make\nyou dry enough!” They all sat down at once, in a large ring, with the\nMouse in the middle. Alice kept her eyes anxiously fixed on it, for she\nfelt sure she would catch a bad cold if she did not get dry very soon.",
+        "score": 0.6665053674898458,
+        "metadata": {
+          "chapter_roman": "III",
+          "language": "en",
+          "unit_chars": 1533,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1533,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 13
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 14,
+        "quote": "“What I was going to say,” said the Dodo in an offended tone, “was, that the best thing to get us dry would be a Caucus-race.”"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "III"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.014276900000368187
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What did Alice use to fan herself in the hot hall?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "771a25bb64a63cfb579eba36b4fb6a37",
+        "text": "to ask help of any one; so, when the\nRabbit came near her, she began, in a low, timid voice, “If you please,\nsir—” The Rabbit started violently, dropped the white kid gloves and\nthe fan, and skurried away into the darkness as hard as he could go.\n\nAlice took up the fan and gloves, and, as the hall was very hot, she\nkept fanning herself all the time she went on talking: “Dear, dear! How\nqueer everything is to-day! And yesterday things went on just as usual.\nI wonder if I’ve been changed in the ni",
+        "score": 0.731169605920015,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 2253,
+          "chapter_char_start": 1766,
+          "chapter_char_end": 4019,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 8
+        }
+      },
+      {
+        "chunk_id": "95f603a9f6f58de87dd98263cca595fe",
+        "text": "“Oh! So Bill’s got to come down the chimney, has he?” said Alice to\nherself. “Shy, they seem to put everything upon Bill! I wouldn’t be in\nBill’s place for a good deal: this fireplace is narrow, to be sure; but\nI think I can kick a little!”\n\nShe drew her foot as far down the chimney as she could, and waited till\nshe heard a little animal (she couldn’t guess of what sort it was)\nscratching and scrambling about in the chimney close above her: then,\nsaying to herself “This is Bill,” she gave one sh",
+        "score": 0.7096432921427529,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1570,
+          "chapter_char_start": 7928,
+          "chapter_char_end": 9498,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 23
+        }
+      },
+      {
+        "chunk_id": "ef5231de25abce52c410c77496a0c010",
+        "text": "in!” said Alice as she picked her\nway through the wood. “It’s the stupidest tea-party I ever was at in\nall my life!”\n\nJust as she said this, she noticed that one of the trees had a door\nleading right into it. “That’s very curious!” she thought. “But\neverything’s curious today. I think I may as well go in at once.” And\nin she went.\n\nOnce more she found herself in the long hall, and close to the little\nglass table. “Now, I’ll manage better this time,” she said to herself,\nand began by taking the l",
+        "score": 0.6788304494823767,
+        "metadata": {
+          "chapter_roman": "VII",
+          "language": "en",
+          "unit_chars": 3092,
+          "chapter_char_start": 9546,
+          "chapter_char_end": 12638,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 47
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 8,
+        "quote": "The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go. Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "II"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.002501200000551762
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What did Alice use to fan herself in the hot hall?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "cc1411ed079962bf71b5869e476a3fe7",
+        "text": "Alice took up the fan and gloves, and, as the hall was very hot, she\nkept fanning herself all the time she went on talking: “Dear, dear! How\nqueer everything is to-day! And yesterday things went on just as usual.\nI wonder if I’ve been changed in the night? Let me think: was I the\nsame when I got up this morning? I almost think I can remember feeling\na little different. But if I’m not the same, the next question is, Who\nin the world am I? Ah, that’s the great puzzle!” And she began\nthinking over ",
+        "score": 0.7451664812779257,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 2253,
+          "chapter_char_start": 1766,
+          "chapter_char_end": 4019,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 8
+        }
+      },
+      {
+        "chunk_id": "5a08127580f1b3f446accfe878f8bf04",
+        "text": "“He took me for his housemaid,” she said to herself as she ran. “How\nsurprised he’ll be when he finds out who I am! But I’d better take him\nhis fan and gloves—that is, if I can find them.” As she said this, she\ncame upon a neat little house, on the door of which was a bright brass\nplate with the name “W. RABBIT,” engraved upon it. She went in without\nknocking, and hurried upstairs, in great fear lest she should meet the\nreal Mary Ann, and be turned out of the house before she had found the\nfan a",
+        "score": 0.6764181782893288,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1581,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1581,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 18
+        }
+      },
+      {
+        "chunk_id": "2f6b536cade0778744ae42cdde981a89",
+        "text": "Alice waited till the eyes appeared, and then nodded. “It’s no use\nspeaking to it,” she thought, “till its ears have come, or at least one\nof them.” In another minute the whole head appeared, and then Alice put\ndown her flamingo, and began an account of the game, feeling very glad\nshe had someone to listen to her. The Cat seemed to think that there\nwas enough of it now in sight, and no more of it appeared.",
+        "score": 0.6707898126348799,
+        "metadata": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1517,
+          "chapter_char_start": 8767,
+          "chapter_char_end": 10284,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 53
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 8,
+        "quote": "The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go. Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "II"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0024240000002464512
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What did Alice use to fan herself in the hot hall?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "cc1411ed079962bf71b5869e476a3fe7",
+        "text": "Alice took up the fan and gloves, and, as the hall was very hot, she\nkept fanning herself all the time she went on talking: “Dear, dear! How\nqueer everything is to-day! And yesterday things went on just as usual.\nI wonder if I’ve been changed in the night? Let me think: was I the\nsame when I got up this morning? I almost think I can remember feeling\na little different. But if I’m not the same, the next question is, Who\nin the world am I? Ah, that’s the great puzzle!” And she began\nthinking over ",
+        "score": 0.7451664812779257,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 2253,
+          "chapter_char_start": 1766,
+          "chapter_char_end": 4019,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 8
+        }
+      },
+      {
+        "chunk_id": "a0e1cb9b22402eb7ff847d1ad3fdde8d",
+        "text": "“You ought to be ashamed of yourself,” said Alice, “a great girl like\nyou,” (she might well say this), “to go on crying in this way! Stop\nthis moment, I tell you!” But she went on all the same, shedding\ngallons of tears, until there was a large pool all round her, about\nfour inches deep and reaching half down the hall.",
+        "score": 0.6622621699511559,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1764,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1764,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 7
+        }
+      },
+      {
+        "chunk_id": "4e8895dfc94e27190b3d00db7f28ada5",
+        "text": "“Well, perhaps not,” said Alice in a soothing tone: “don’t be angry\nabout it. And yet I wish I could show you our cat Dinah: I think you’d\ntake a fancy to cats if you could only see her. She is such a dear\nquiet thing,” Alice went on, half to herself, as she swam lazily about\nin the pool, “and she sits purring so nicely by the fire, licking her\npaws and washing her face—and she is such a nice soft thing to\nnurse—and she’s such a capital one for catching mice—oh, I beg your\npardon!” cried Alice a",
+        "score": 0.6522794544841012,
+        "metadata": {
+          "chapter_roman": "II",
+          "language": "en",
+          "unit_chars": 1977,
+          "chapter_char_start": 7236,
+          "chapter_char_end": 9213,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 11
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 8,
+        "quote": "The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go. Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "II"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.013543300000492309
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What did the Caterpillar ask Alice to explain?",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "5f6dd80898f088884df46a83d2831812",
+        "text": "“Why?” said the Caterpillar.\n\nHere was another puzzling question; and as Alice could not think of any\ngood reason, and as the Caterpillar seemed to be in a very unpleasant\nstate of mind, she turned away.\n\n“Come back!” the Caterpillar called after her. “I’ve something\nimportant to say!”\n\nThis sounded promising, certainly: Alice turned and came back again.\n\n“Keep your temper,” said the Caterpillar.\n\n“Is that all?” said Alice, swallowing down her anger as well as she\ncould.\n\n“No,” said the Caterpil",
+        "score": 0.8096064366079626,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1564,
+          "chapter_char_start": 1608,
+          "chapter_char_end": 3172,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 27
+        }
+      },
+      {
+        "chunk_id": "a9b074000f794cc4b86b900244a3f9ef",
+        "text": "CHAPTER V.\nAdvice from a Caterpillar\n\nThe Caterpillar and Alice looked at each other for some time in\nsilence: at last the Caterpillar took the hookah out of its mouth, and\naddressed her in a languid, sleepy voice.\n\n“Who are you?” said the Caterpillar.\n\nThis was not an encouraging opening for a conversation. Alice replied,\nrather shyly, “I—I hardly know, sir, just at present—at least I know\nwho I was when I got up this morning, but I think I must have been\nchanged several times since then.”\n\n“Wh",
+        "score": 0.8068726338081663,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1606,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 26
+        }
+      },
+      {
+        "chunk_id": "ac2832004846f9464a55006760fddc7e",
+        "text": " have been\nchanged several times since then.”\n\n“What do you mean by that?” said the Caterpillar sternly. “Explain\nyourself!”\n\n“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m\nnot myself, you see.”\n\n“I don’t see,” said the Caterpillar.\n\n“I’m afraid I can’t put it more clearly,” Alice replied very politely,\n“for I can’t understand it myself to begin with; and being so many\ndifferent sizes in a day is very confusing.”\n\n“It isn’t,” said the Caterpillar.\n\n“Well, perhaps you haven’t",
+        "score": 0.7825826697241774,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1606,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 26
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 26,
+        "quote": "“Who are you?” said the Caterpillar."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "V"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0029064000000289525
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What did the Caterpillar ask Alice to explain?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "2ed7a6908b9baf3e206e72213ff99a5c",
+        "text": "CHAPTER V.\nAdvice from a Caterpillar\n\nThe Caterpillar and Alice looked at each other for some time in\nsilence: at last the Caterpillar took the hookah out of its mouth, and\naddressed her in a languid, sleepy voice.\n\n“Who are you?” said the Caterpillar.\n\nThis was not an encouraging opening for a conversation. Alice replied,\nrather shyly, “I—I hardly know, sir, just at present—at least I know\nwho I was when I got up this morning, but I think I must have been\nchanged several times since then.”",
+        "score": 0.8177434506545265,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1606,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 26
+        }
+      },
+      {
+        "chunk_id": "e1ecca76507c73af9bbce61064df6571",
+        "text": "“What do you mean by that?” said the Caterpillar sternly. “Explain\nyourself!”\n\n“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m\nnot myself, you see.”\n\n“I don’t see,” said the Caterpillar.\n\n“I’m afraid I can’t put it more clearly,” Alice replied very politely,\n“for I can’t understand it myself to begin with; and being so many\ndifferent sizes in a day is very confusing.”\n\n“It isn’t,” said the Caterpillar.",
+        "score": 0.8169624785240341,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1606,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 26
+        }
+      },
+      {
+        "chunk_id": "2095b183dd916f640461f590d1126ef1",
+        "text": "“Why?” said the Caterpillar.\n\nHere was another puzzling question; and as Alice could not think of any\ngood reason, and as the Caterpillar seemed to be in a very unpleasant\nstate of mind, she turned away.\n\n“Come back!” the Caterpillar called after her. “I’ve something\nimportant to say!”\n\nThis sounded promising, certainly: Alice turned and came back again.\n\n“Keep your temper,” said the Caterpillar.\n\n“Is that all?” said Alice, swallowing down her anger as well as she\ncould.",
+        "score": 0.8129512402408022,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1564,
+          "chapter_char_start": 1608,
+          "chapter_char_end": 3172,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 27
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 26,
+        "quote": "“Who are you?” said the Caterpillar."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "V"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0026826999992408673
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What did the Caterpillar ask Alice to explain?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "2ed7a6908b9baf3e206e72213ff99a5c",
+        "text": "CHAPTER V.\nAdvice from a Caterpillar\n\nThe Caterpillar and Alice looked at each other for some time in\nsilence: at last the Caterpillar took the hookah out of its mouth, and\naddressed her in a languid, sleepy voice.\n\n“Who are you?” said the Caterpillar.\n\nThis was not an encouraging opening for a conversation. Alice replied,\nrather shyly, “I—I hardly know, sir, just at present—at least I know\nwho I was when I got up this morning, but I think I must have been\nchanged several times since then.”",
+        "score": 0.8177434506545265,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1606,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 26
+        }
+      },
+      {
+        "chunk_id": "e1ecca76507c73af9bbce61064df6571",
+        "text": "“What do you mean by that?” said the Caterpillar sternly. “Explain\nyourself!”\n\n“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m\nnot myself, you see.”\n\n“I don’t see,” said the Caterpillar.\n\n“I’m afraid I can’t put it more clearly,” Alice replied very politely,\n“for I can’t understand it myself to begin with; and being so many\ndifferent sizes in a day is very confusing.”\n\n“It isn’t,” said the Caterpillar.",
+        "score": 0.8169624785240341,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1606,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 26
+        }
+      },
+      {
+        "chunk_id": "2095b183dd916f640461f590d1126ef1",
+        "text": "“Why?” said the Caterpillar.\n\nHere was another puzzling question; and as Alice could not think of any\ngood reason, and as the Caterpillar seemed to be in a very unpleasant\nstate of mind, she turned away.\n\n“Come back!” the Caterpillar called after her. “I’ve something\nimportant to say!”\n\nThis sounded promising, certainly: Alice turned and came back again.\n\n“Keep your temper,” said the Caterpillar.\n\n“Is that all?” said Alice, swallowing down her anger as well as she\ncould.",
+        "score": 0.8129512402408022,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1564,
+          "chapter_char_start": 1608,
+          "chapter_char_end": 3172,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 27
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 26,
+        "quote": "“Who are you?” said the Caterpillar."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "V"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.02952519999962533
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What two changes did Alice report when the Caterpillar asked whether she had changed?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ac2832004846f9464a55006760fddc7e",
+        "text": " have been\nchanged several times since then.”\n\n“What do you mean by that?” said the Caterpillar sternly. “Explain\nyourself!”\n\n“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m\nnot myself, you see.”\n\n“I don’t see,” said the Caterpillar.\n\n“I’m afraid I can’t put it more clearly,” Alice replied very politely,\n“for I can’t understand it myself to begin with; and being so many\ndifferent sizes in a day is very confusing.”\n\n“It isn’t,” said the Caterpillar.\n\n“Well, perhaps you haven’t",
+        "score": 0.7920227568631143,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1606,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 26
+        }
+      },
+      {
+        "chunk_id": "5f6dd80898f088884df46a83d2831812",
+        "text": "“Why?” said the Caterpillar.\n\nHere was another puzzling question; and as Alice could not think of any\ngood reason, and as the Caterpillar seemed to be in a very unpleasant\nstate of mind, she turned away.\n\n“Come back!” the Caterpillar called after her. “I’ve something\nimportant to say!”\n\nThis sounded promising, certainly: Alice turned and came back again.\n\n“Keep your temper,” said the Caterpillar.\n\n“Is that all?” said Alice, swallowing down her anger as well as she\ncould.\n\n“No,” said the Caterpil",
+        "score": 0.7869297404458298,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1564,
+          "chapter_char_start": 1608,
+          "chapter_char_end": 3172,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 27
+        }
+      },
+      {
+        "chunk_id": "a9b074000f794cc4b86b900244a3f9ef",
+        "text": "CHAPTER V.\nAdvice from a Caterpillar\n\nThe Caterpillar and Alice looked at each other for some time in\nsilence: at last the Caterpillar took the hookah out of its mouth, and\naddressed her in a languid, sleepy voice.\n\n“Who are you?” said the Caterpillar.\n\nThis was not an encouraging opening for a conversation. Alice replied,\nrather shyly, “I—I hardly know, sir, just at present—at least I know\nwho I was when I got up this morning, but I think I must have been\nchanged several times since then.”\n\n“Wh",
+        "score": 0.7809930440558908,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1606,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 26
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 27,
+        "quote": "“I’m afraid I am, sir,” said Alice; “I can’t remember things as I used—and I don’t keep the same size for ten minutes together!”"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "V"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0025637999997343286
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What two changes did Alice report when the Caterpillar asked whether she had changed?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ae84833130ed1415a86cabda76b87f37",
+        "text": "“No,” said the Caterpillar.\n\nAlice thought she might as well wait, as she had nothing else to do,\nand perhaps after all it might tell her something worth hearing. For\nsome minutes it puffed away without speaking, but at last it unfolded\nits arms, took the hookah out of its mouth again, and said, “So you\nthink you’re changed, do you?”\n\n“I’m afraid I am, sir,” said Alice; “I can’t remember things as I\nused—and I don’t keep the same size for ten minutes together!”",
+        "score": 0.8314047727143667,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1564,
+          "chapter_char_start": 1608,
+          "chapter_char_end": 3172,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 27
+        }
+      },
+      {
+        "chunk_id": "6578005764823b872dc1fb6410e38c26",
+        "text": "“Not quite right, I’m afraid,” said Alice, timidly; “some of the\nwords have got altered.”\n\n“It is wrong from beginning to end,” said the Caterpillar decidedly,\nand there was silence for some minutes.\n\nThe Caterpillar was the first to speak.\n\n“What size do you want to be?” it asked.\n\n“Oh, I’m not particular as to size,” Alice hastily replied; “only one\ndoesn’t like changing so often, you know.”",
+        "score": 0.8040037108187492,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1519,
+          "chapter_char_start": 3174,
+          "chapter_char_end": 4693,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 28
+        }
+      },
+      {
+        "chunk_id": "2095b183dd916f640461f590d1126ef1",
+        "text": "“Why?” said the Caterpillar.\n\nHere was another puzzling question; and as Alice could not think of any\ngood reason, and as the Caterpillar seemed to be in a very unpleasant\nstate of mind, she turned away.\n\n“Come back!” the Caterpillar called after her. “I’ve something\nimportant to say!”\n\nThis sounded promising, certainly: Alice turned and came back again.\n\n“Keep your temper,” said the Caterpillar.\n\n“Is that all?” said Alice, swallowing down her anger as well as she\ncould.",
+        "score": 0.7932158650923967,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1564,
+          "chapter_char_start": 1608,
+          "chapter_char_end": 3172,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 27
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 27,
+        "quote": "“I’m afraid I am, sir,” said Alice; “I can’t remember things as I used—and I don’t keep the same size for ten minutes together!”"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "V"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0024730999994062586
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What two changes did Alice report when the Caterpillar asked whether she had changed?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "ae84833130ed1415a86cabda76b87f37",
+        "text": "“No,” said the Caterpillar.\n\nAlice thought she might as well wait, as she had nothing else to do,\nand perhaps after all it might tell her something worth hearing. For\nsome minutes it puffed away without speaking, but at last it unfolded\nits arms, took the hookah out of its mouth again, and said, “So you\nthink you’re changed, do you?”\n\n“I’m afraid I am, sir,” said Alice; “I can’t remember things as I\nused—and I don’t keep the same size for ten minutes together!”",
+        "score": 0.8314047727143667,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1564,
+          "chapter_char_start": 1608,
+          "chapter_char_end": 3172,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 27
+        }
+      },
+      {
+        "chunk_id": "6578005764823b872dc1fb6410e38c26",
+        "text": "“Not quite right, I’m afraid,” said Alice, timidly; “some of the\nwords have got altered.”\n\n“It is wrong from beginning to end,” said the Caterpillar decidedly,\nand there was silence for some minutes.\n\nThe Caterpillar was the first to speak.\n\n“What size do you want to be?” it asked.\n\n“Oh, I’m not particular as to size,” Alice hastily replied; “only one\ndoesn’t like changing so often, you know.”",
+        "score": 0.8040037108187492,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1519,
+          "chapter_char_start": 3174,
+          "chapter_char_end": 4693,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 28
+        }
+      },
+      {
+        "chunk_id": "2095b183dd916f640461f590d1126ef1",
+        "text": "“Why?” said the Caterpillar.\n\nHere was another puzzling question; and as Alice could not think of any\ngood reason, and as the Caterpillar seemed to be in a very unpleasant\nstate of mind, she turned away.\n\n“Come back!” the Caterpillar called after her. “I’ve something\nimportant to say!”\n\nThis sounded promising, certainly: Alice turned and came back again.\n\n“Keep your temper,” said the Caterpillar.\n\n“Is that all?” said Alice, swallowing down her anger as well as she\ncould.",
+        "score": 0.7932158650923967,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1564,
+          "chapter_char_start": 1608,
+          "chapter_char_end": 3172,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 27
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 27,
+        "quote": "“I’m afraid I am, sir,” said Alice; “I can’t remember things as I used—and I don’t keep the same size for ten minutes together!”"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "V"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.017067300000235264
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Which creatures did the Pigeon say she had to watch for night and day while hatching her eggs?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "d64db2854a05f39964d9c23f921e758f",
+        "text": "“I have tasted eggs, certainly,” said Alice, who was a very truthful\nchild; “but little girls eat eggs quite as much as serpents do, you\nknow.”\n\n“I don’t believe it,” said the Pigeon; “but if they do, why then\nthey’re a kind of serpent, that’s all I can say.”\n\nThis was such a new idea to Alice, that she was quite silent for a\nminute or two, which gave the Pigeon the opportunity of adding, “You’re\nlooking for eggs, I know that well enough; and what does it matter to\nme whether you’re a little gir",
+        "score": 0.7244357624173442,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 2063,
+          "chapter_char_start": 9738,
+          "chapter_char_end": 11801,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 32
+        }
+      },
+      {
+        "chunk_id": "afc792fe3febf05d25d28fd4d8bc4530",
+        "text": "s I’d taken the highest tree in the wood,” continued the\nPigeon, raising its voice to a shriek, “and just as I was thinking I\nshould be free of them at last, they must needs come wriggling down\nfrom the sky! Ugh, Serpent!”\n\n“But I’m not a serpent, I tell you!” said Alice. “I’m a—I’m a—”\n\n“Well! What are you?” said the Pigeon. “I can see you’re trying to\ninvent something!”\n\n“I—I’m a little girl,” said Alice, rather doubtfully, as she remembered\nthe number of changes she had gone through that day.",
+        "score": 0.6908051764851121,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1689,
+          "chapter_char_start": 8047,
+          "chapter_char_end": 9736,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 31
+        }
+      },
+      {
+        "chunk_id": "b6c81266545c55cb5740ef5e55ee94b7",
+        "text": "e number of changes she had gone through that day.\n\n“A likely story indeed!” said the Pigeon in a tone of the deepest\ncontempt. “I’ve seen a good many little girls in my time, but never\none with such a neck as that! No, no! You’re a serpent; and there’s\nno use denying it. I suppose you’ll be telling me next that you never\ntasted an egg!”",
+        "score": 0.6818247611957182,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1689,
+          "chapter_char_start": 8047,
+          "chapter_char_end": 9736,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 31
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 31,
+        "quote": "“As if it wasn’t trouble enough hatching the eggs,” said the Pigeon; “but I must be on the look-out for serpents night and day!"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "V"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0030261000001701177
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Which creatures did the Pigeon say she had to watch for night and day while hatching her eggs?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "a2a2841db0efdc5f545541b3106d22d7",
+        "text": "Alice was more and more puzzled, but she thought there was no use in\nsaying anything more till the Pigeon had finished.\n\n“As if it wasn’t trouble enough hatching the eggs,” said the Pigeon;\n“but I must be on the look-out for serpents night and day! Why, I\nhaven’t had a wink of sleep these three weeks!”\n\n“I’m very sorry you’ve been annoyed,” said Alice, who was beginning to\nsee its meaning.",
+        "score": 0.7151425237625301,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1689,
+          "chapter_char_start": 8047,
+          "chapter_char_end": 9736,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 31
+        }
+      },
+      {
+        "chunk_id": "d6e938cdea1c59c14e6410c0782b4437",
+        "text": "“I have tasted eggs, certainly,” said Alice, who was a very truthful\nchild; “but little girls eat eggs quite as much as serpents do, you\nknow.”\n\n“I don’t believe it,” said the Pigeon; “but if they do, why then\nthey’re a kind of serpent, that’s all I can say.”",
+        "score": 0.7064596188311526,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 2063,
+          "chapter_char_start": 9738,
+          "chapter_char_end": 11801,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 32
+        }
+      },
+      {
+        "chunk_id": "6d64731c63cdd2a0e3f0e1ee53fec749",
+        "text": "“And just as I’d taken the highest tree in the wood,” continued the\nPigeon, raising its voice to a shriek, “and just as I was thinking I\nshould be free of them at last, they must needs come wriggling down\nfrom the sky! Ugh, Serpent!”\n\n“But I’m not a serpent, I tell you!” said Alice. “I’m a—I’m a—”\n\n“Well! What are you?” said the Pigeon. “I can see you’re trying to\ninvent something!”",
+        "score": 0.6984063160229438,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1689,
+          "chapter_char_start": 8047,
+          "chapter_char_end": 9736,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 31
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 31,
+        "quote": "“As if it wasn’t trouble enough hatching the eggs,” said the Pigeon; “but I must be on the look-out for serpents night and day!"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "V"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0025716000000102213
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Which creatures did the Pigeon say she had to watch for night and day while hatching her eggs?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "a2a2841db0efdc5f545541b3106d22d7",
+        "text": "Alice was more and more puzzled, but she thought there was no use in\nsaying anything more till the Pigeon had finished.\n\n“As if it wasn’t trouble enough hatching the eggs,” said the Pigeon;\n“but I must be on the look-out for serpents night and day! Why, I\nhaven’t had a wink of sleep these three weeks!”\n\n“I’m very sorry you’ve been annoyed,” said Alice, who was beginning to\nsee its meaning.",
+        "score": 0.7151425237625301,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1689,
+          "chapter_char_start": 8047,
+          "chapter_char_end": 9736,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 31
+        }
+      },
+      {
+        "chunk_id": "d6e938cdea1c59c14e6410c0782b4437",
+        "text": "“I have tasted eggs, certainly,” said Alice, who was a very truthful\nchild; “but little girls eat eggs quite as much as serpents do, you\nknow.”\n\n“I don’t believe it,” said the Pigeon; “but if they do, why then\nthey’re a kind of serpent, that’s all I can say.”",
+        "score": 0.7064596188311526,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 2063,
+          "chapter_char_start": 9738,
+          "chapter_char_end": 11801,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 32
+        }
+      },
+      {
+        "chunk_id": "6d64731c63cdd2a0e3f0e1ee53fec749",
+        "text": "“And just as I’d taken the highest tree in the wood,” continued the\nPigeon, raising its voice to a shriek, “and just as I was thinking I\nshould be free of them at last, they must needs come wriggling down\nfrom the sky! Ugh, Serpent!”\n\n“But I’m not a serpent, I tell you!” said Alice. “I’m a—I’m a—”\n\n“Well! What are you?” said the Pigeon. “I can see you’re trying to\ninvent something!”",
+        "score": 0.6984063160229438,
+        "metadata": {
+          "chapter_roman": "V",
+          "language": "en",
+          "unit_chars": 1689,
+          "chapter_char_start": 8047,
+          "chapter_char_end": 9736,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 31
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 31,
+        "quote": "“As if it wasn’t trouble enough hatching the eggs,” said the Pigeon; “but I must be on the look-out for serpents night and day!"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "V"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.03283290000035777
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What was the Queen inviting the Duchess to do?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "5327eb4af200c6acd4208c572c7c6778",
+        "text": "as the question was\nevidently meant for her.\n\n“Yes!” shouted Alice.\n\n“Come on, then!” roared the Queen, and Alice joined the procession,\nwondering very much what would happen next.\n\n“It’s—it’s a very fine day!” said a timid voice at her side. She was\nwalking by the White Rabbit, who was peeping anxiously into her face.\n\n“Very,” said Alice: “—where’s the Duchess?”\n\n“Hush! Hush!” said the Rabbit in a low, hurried tone. He looked\nanxiously over his shoulder as he spoke, and then raised himself upon",
+        "score": 0.718297306414595,
+        "metadata": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1908,
+          "chapter_char_start": 5021,
+          "chapter_char_end": 6929,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 51
+        }
+      },
+      {
+        "chunk_id": "5fd380786e0a394630ee99376a5d39c7",
+        "text": "“Now, I give you fair warning,” shouted the Queen, stamping on the\nground as she spoke; “either you or your head must be off, and that in\nabout half no time! Take your choice!”\n\nThe Duchess took her choice, and was gone in a moment.\n\n“Let’s go on with the game,” the Queen said to Alice; and Alice was too\nmuch frightened to say a word, but slowly followed her back to the\ncroquet-ground.\n\nThe other guests had taken advantage of the Queen’s absence, and were\nresting in the shade: however, the momen",
+        "score": 0.7072583723745879,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 59
+        }
+      },
+      {
+        "chunk_id": "06f90bc76d0f5f7b484bef744798d167",
+        "text": "“The game’s going on rather better now,” she said, by way of keeping up\nthe conversation a little.\n\n“’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love,\n’tis love, that makes the world go round!’”\n\n“Somebody said,” Alice whispered, “that it’s done by everybody minding\ntheir own business!”\n\n“Ah, well! It means much the same thing,” said the Duchess, digging her\nsharp little chin into Alice’s shoulder as she added, “and the moral of\nthat is—‘Take care of the sense, and the sounds",
+        "score": 0.6905423104292177,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 33,
+        "quote": "For the Duchess. An invitation from the Queen to play croquet."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "VI"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0024546999993617646
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What was the Queen inviting the Duchess to do?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "7af93b53578d4febf16d146b1f601e63",
+        "text": "“Now, I give you fair warning,” shouted the Queen, stamping on the\nground as she spoke; “either you or your head must be off, and that in\nabout half no time! Take your choice!”\n\nThe Duchess took her choice, and was gone in a moment.\n\n“Let’s go on with the game,” the Queen said to Alice; and Alice was too\nmuch frightened to say a word, but slowly followed her back to the\ncroquet-ground.",
+        "score": 0.6945922546573693,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1677,
+          "chapter_char_start": 4764,
+          "chapter_char_end": 6441,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 59
+        }
+      },
+      {
+        "chunk_id": "cfc9ae14a9fde199186ecbf955a6f669",
+        "text": "“—and just take his head off outside,” the Queen added to one of the\nofficers: but the Hatter was out of sight before the officer could get\nto the door.\n\n“Call the next witness!” said the King.\n\nThe next witness was the Duchess’s cook. She carried the pepper-box in\nher hand, and Alice guessed who it was, even before she got into the\ncourt, by the way the people near the door began sneezing all at once.\n\n“Give your evidence,” said the King.\n\n“Shan’t,” said the cook.",
+        "score": 0.6772562957184304,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 75
+        }
+      },
+      {
+        "chunk_id": "bbb72abfab617e8e58a7af63d42fdbfb",
+        "text": "“The game’s going on rather better now,” she said, by way of keeping up\nthe conversation a little.\n\n“’Tis so,” said the Duchess: “and the moral of that is—‘Oh, ’tis love,\n’tis love, that makes the world go round!’”\n\n“Somebody said,” Alice whispered, “that it’s done by everybody minding\ntheir own business!”",
+        "score": 0.6750249959659537,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 33,
+        "quote": "For the Duchess. An invitation from the Queen to play croquet."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "VI"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0024438000000372995
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What was the Queen inviting the Duchess to do?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "1d6ae65df12f0696694b5f4008ad1a35",
+        "text": "CHORUS.\n\n“Wow! wow! wow!”\n\n“Here! you may nurse it a bit, if you like!” the Duchess said to Alice,\nflinging the baby at her as she spoke. “I must go and get ready to play\ncroquet with the Queen,” and she hurried out of the room. The cook\nthrew a frying-pan after her as she went out, but it just missed her.",
+        "score": 0.6695294284986582,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1726,
+          "chapter_char_start": 7055,
+          "chapter_char_end": 8781,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 37
+        }
+      },
+      {
+        "chunk_id": "948e5bc6dafd13a00d9ab1982d9e310c",
+        "text": "“I don’t know of any that do,” Alice said very politely, feeling quite\npleased to have got into a conversation.\n\n“You don’t know much,” said the Duchess; “and that’s a fact.”",
+        "score": 0.6392115034422007,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 2017,
+          "chapter_char_start": 3428,
+          "chapter_char_end": 5445,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 35
+        }
+      },
+      {
+        "chunk_id": "3fdba07e3c18c0c445c3111032e8cd21",
+        "text": "“Oh, please mind what you’re doing!” cried Alice, jumping up and down\nin an agony of terror. “Oh, there goes his precious nose!” as an\nunusually large saucepan flew close by it, and very nearly carried it\noff.\n\n“If everybody minded their own business,” the Duchess said in a hoarse\ngrowl, “the world would go round a deal faster than it does.”",
+        "score": 0.6263457918264363,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1606,
+          "chapter_char_start": 5447,
+          "chapter_char_end": 7053,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 36
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 33,
+        "quote": "For the Duchess. An invitation from the Queen to play croquet."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "VI"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.013451900000291062
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "What did Alice think pepper might make people?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "723fbd893cf3f46224c94d2c797efed0",
+        "text": " hand on the top of her head to feel which way it was\ngrowing, and she was quite surprised to find that she remained the same\nsize: to be sure, this generally happens when one eats cake, but Alice\nhad got so much into the way of expecting nothing but out-of-the-way\nthings to happen, that it seemed quite dull and stupid for life to go\non in the common way.\n\nSo she set to work, and very soon finished off the cake.\n\n* * * * * * *\n\n* * * * * *\n\n* * * * * * *",
+        "score": 0.6795473544118205,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2708,
+          "chapter_char_start": 8635,
+          "chapter_char_end": 11343,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 6
+        }
+      },
+      {
+        "chunk_id": "11fcfedfa37bd623b1d628d09ba40f20",
+        "text": "“How queer it seems,” Alice said to herself, “to be going messages for\na rabbit! I suppose Dinah’ll be sending me on messages next!” And she\nbegan fancying the sort of thing that would happen: “‘Miss Alice! Come\nhere directly, and get ready for your walk!’ ‘Coming in a minute,\nnurse! But I’ve got to see that the mouse doesn’t get out.’ Only I\ndon’t think,” Alice went on, “that they’d let Dinah stop in the house\nif it began ordering people about like that!”\n\nBy this time she had found her way int",
+        "score": 0.6743635683765848,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1533,
+          "chapter_char_start": 1583,
+          "chapter_char_end": 3116,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 19
+        }
+      },
+      {
+        "chunk_id": "b3364bce16c33f1805e1bfbbb62a711f",
+        "text": "appens. What will become of me?”\n\nLuckily for Alice, the little magic bottle had now had its full effect,\nand she grew no larger: still it was very uncomfortable, and, as there\nseemed to be no sort of chance of her ever getting out of the room\nagain, no wonder she felt unhappy.\n\n“It was much pleasanter at home,” thought poor Alice, “when one wasn’t\nalways growing larger and smaller, and being ordered about by mice and\nrabbits. I almost wish I hadn’t gone down that rabbit-hole—and yet—and\nyet—it’",
+        "score": 0.665305155386115,
+        "metadata": {
+          "chapter_roman": "IV",
+          "language": "en",
+          "unit_chars": 1556,
+          "chapter_char_start": 3118,
+          "chapter_char_end": 4674,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 20
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 56,
+        "quote": "Maybe it’s always pepper that makes people hot-tempered"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "IX"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0024488999997629435
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "What did Alice think pepper might make people?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "7581e1c14786c98daee456f0bf7fc255",
+        "text": "She ate a little bit, and said anxiously to herself, “Which way? Which\nway?”, holding her hand on the top of her head to feel which way it was\ngrowing, and she was quite surprised to find that she remained the same\nsize: to be sure, this generally happens when one eats cake, but Alice\nhad got so much into the way of expecting nothing but out-of-the-way\nthings to happen, that it seemed quite dull and stupid for life to go\non in the common way.",
+        "score": 0.6942652942262144,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2708,
+          "chapter_char_start": 8635,
+          "chapter_char_end": 11343,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 6
+        }
+      },
+      {
+        "chunk_id": "a67ca2434c028b987ad78c8d5bdcbe57",
+        "text": "e Alice quite hungry to look at them—“I wish they’d\nget the trial done,” she thought, “and hand round the refreshments!”\nBut there seemed to be no chance of this, so she began looking at\neverything about her, to pass away the time.",
+        "score": 0.6932991771457739,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1666,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1666,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 70
+        }
+      },
+      {
+        "chunk_id": "e9055daefeac2d122330eb334cbb150f",
+        "text": "use now,” thought poor Alice, “to pretend to be two\npeople! Why, there’s hardly enough of me left to make one respectable\nperson!”",
+        "score": 0.6782541069858927,
+        "metadata": {
+          "chapter_roman": "I",
+          "language": "en",
+          "unit_chars": 2708,
+          "chapter_char_start": 8635,
+          "chapter_char_end": 11343,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 6
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 56,
+        "quote": "Maybe it’s always pepper that makes people hot-tempered"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "IX"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0035453999998935615
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "What did Alice think pepper might make people?",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "d68fcec9beaf8839d13147461dd0258c",
+        "text": "“Ah, well! It means much the same thing,” said the Duchess, digging her\nsharp little chin into Alice’s shoulder as she added, “and the moral of\nthat is—‘Take care of the sense, and the sounds will take care of\nthemselves.’”\n\n“How fond she is of finding morals in things!” Alice thought to\nherself.\n\n“I dare say you’re wondering why I don’t put my arm round your waist,”\nthe Duchess said after a pause: “the reason is, that I’m doubtful about\nthe temper of your flamingo. Shall I try the experiment?”",
+        "score": 0.6436952592004375,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1560,
+          "chapter_char_start": 1690,
+          "chapter_char_end": 3250,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 57
+        }
+      },
+      {
+        "chunk_id": "43015a817e363cbcfbf7dcb7d4bf1224",
+        "text": "“When I’m a Duchess,” she said to herself, (not in a very hopeful\ntone though), “I won’t have any pepper in my kitchen at all. Soup\ndoes very well without—Maybe it’s always pepper that makes people\nhot-tempered,” she went on, very much pleased at having found out a new\nkind of rule, “and vinegar that makes them sour—and camomile that makes\nthem bitter—and—and barley-sugar and such things that make children\nsweet-tempered. I only wish people knew that: then they wouldn’t be\nso stingy about it, yo",
+        "score": 0.6400769149136013,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1688,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1688,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 56
+        }
+      },
+      {
+        "chunk_id": "2fdd7c14d322375afc04b5efe2b7f68a",
+        "text": "CHAPTER IX.\nThe Mock Turtle’s Story\n\n“You can’t think how glad I am to see you again, you dear old thing!”\nsaid the Duchess, as she tucked her arm affectionately into Alice’s,\nand they walked off together.\n\nAlice was very glad to find her in such a pleasant temper, and thought\nto herself that perhaps it was only the pepper that had made her so\nsavage when they met in the kitchen.",
+        "score": 0.6317468770566989,
+        "metadata": {
+          "chapter_roman": "IX",
+          "language": "en",
+          "unit_chars": 1688,
+          "chapter_char_start": 0,
+          "chapter_char_end": 1688,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 56
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 56,
+        "quote": "Maybe it’s always pepper that makes people hot-tempered"
+      }
+    ],
+    "filter": {
+      "chapter_roman": "IX"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.015222799999719427
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What did the Cheshire Cat say about the people in that place?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "a6325df4d5765b9f2b0bd67f3123bf2f",
+        "text": " said the King, going up to Alice, and\nlooking at the Cat’s head with great curiosity.\n\n“It’s a friend of mine—a Cheshire Cat,” said Alice: “allow me to\nintroduce it.”",
+        "score": 0.708740085630197,
+        "metadata": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1517,
+          "chapter_char_start": 8767,
+          "chapter_char_end": 10284,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 53
+        }
+      },
+      {
+        "chunk_id": "5a98794c672c59be0b3be4e60617bd4f",
+        "text": "When she got back to the Cheshire Cat, she was surprised to find quite\na large crowd collected round it: there was a dispute going on between\nthe executioner, the King, and the Queen, who were all talking at once,\nwhile all the rest were quite silent, and looked very uncomfortable.\n\nThe moment Alice appeared, she was appealed to by all three to settle\nthe question, and they repeated their arguments to her, though, as they\nall spoke at once, she found it very hard indeed to make out exactly\nwhat ",
+        "score": 0.6759253920870634,
+        "metadata": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1529,
+          "chapter_char_start": 12114,
+          "chapter_char_end": 13643,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 55
+        }
+      },
+      {
+        "chunk_id": "3b9bf2455ecd958489bdf2d2cc32587d",
+        "text": "he, “what would become of me? They’re dreadfully\nfond of beheading people here; the great wonder is, that there’s any\none left alive!”\n\nShe was looking about for some way of escape, and wondering whether she\ncould get away without being seen, when she noticed a curious\nappearance in the air: it puzzled her very much at first, but, after\nwatching it a minute or two, she made it out to be a grin, and she said\nto herself “It’s the Cheshire Cat: now I shall have somebody to talk\nto.”",
+        "score": 0.674883676247158,
+        "metadata": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1834,
+          "chapter_char_start": 6931,
+          "chapter_char_end": 8765,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 52
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 39,
+        "quote": "we’re all mad here. I’m mad. You’re mad."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "VI"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.0022754000001441455
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What did the Cheshire Cat say about the people in that place?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "c24360ca454e8c64dd9a8d032588a0f9",
+        "text": "“How do you like the Queen?” said the Cat in a low voice.\n\n“Not at all,” said Alice: “she’s so extremely—” Just then she noticed\nthat the Queen was close behind her, listening: so she went on,\n“—likely to win, that it’s hardly worth while finishing the game.”\n\nThe Queen smiled and passed on.\n\n“Who are you talking to?” said the King, going up to Alice, and\nlooking at the Cat’s head with great curiosity.\n\n“It’s a friend of mine—a Cheshire Cat,” said Alice: “allow me to\nintroduce it.”",
+        "score": 0.712917517495004,
+        "metadata": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1517,
+          "chapter_char_start": 8767,
+          "chapter_char_end": 10284,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 53
+        }
+      },
+      {
+        "chunk_id": "2500fa4317a18300c08f3f473d7a596b",
+        "text": "“It’s a Cheshire cat,” said the Duchess, “and that’s why. Pig!”\n\nShe said the last word with such sudden violence that Alice quite\njumped; but she saw in another moment that it was addressed to the\nbaby, and not to her, so she took courage, and went on again:—\n\n“I didn’t know that Cheshire cats always grinned; in fact, I didn’t\nknow that cats could grin.”\n\n“They all can,” said the Duchess; “and most of ’em do.”",
+        "score": 0.7037416203596261,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 2017,
+          "chapter_char_start": 3428,
+          "chapter_char_end": 5445,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 35
+        }
+      },
+      {
+        "chunk_id": "09abde21dbfa2f1afa8a1758997d8a69",
+        "text": "The Cat only grinned when it saw Alice. It looked good-natured, she\nthought: still it had very long claws and a great many teeth, so she\nfelt that it ought to be treated with respect.\n\n“Cheshire Puss,” she began, rather timidly, as she did not at all know\nwhether it would like the name: however, it only grinned a little\nwider. “Come, it’s pleased so far,” thought Alice, and she went on.\n“Would you tell me, please, which way I ought to go from here?”",
+        "score": 0.6693513340011311,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1589,
+          "chapter_char_start": 8783,
+          "chapter_char_end": 10372,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 38
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 39,
+        "quote": "we’re all mad here. I’m mad. You’re mad."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "VI"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.002271399999699497
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What did the Cheshire Cat say about the people in that place?",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "2500fa4317a18300c08f3f473d7a596b",
+        "text": "“It’s a Cheshire cat,” said the Duchess, “and that’s why. Pig!”\n\nShe said the last word with such sudden violence that Alice quite\njumped; but she saw in another moment that it was addressed to the\nbaby, and not to her, so she took courage, and went on again:—\n\n“I didn’t know that Cheshire cats always grinned; in fact, I didn’t\nknow that cats could grin.”\n\n“They all can,” said the Duchess; “and most of ’em do.”",
+        "score": 0.7037416203596261,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 2017,
+          "chapter_char_start": 3428,
+          "chapter_char_end": 5445,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 35
+        }
+      },
+      {
+        "chunk_id": "09abde21dbfa2f1afa8a1758997d8a69",
+        "text": "The Cat only grinned when it saw Alice. It looked good-natured, she\nthought: still it had very long claws and a great many teeth, so she\nfelt that it ought to be treated with respect.\n\n“Cheshire Puss,” she began, rather timidly, as she did not at all know\nwhether it would like the name: however, it only grinned a little\nwider. “Come, it’s pleased so far,” thought Alice, and she went on.\n“Would you tell me, please, which way I ought to go from here?”",
+        "score": 0.6693513340011311,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1589,
+          "chapter_char_start": 8783,
+          "chapter_char_end": 10372,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 38
+        }
+      },
+      {
+        "chunk_id": "f6feb72d6589db3dc7f24b6d6a3d4701",
+        "text": "“That depends a good deal on where you want to get to,” said the Cat.\n\n“I don’t much care where—” said Alice.\n\n“Then it doesn’t matter which way you go,” said the Cat.\n\n“—so long as I get somewhere,” Alice added as an explanation.\n\n“Oh, you’re sure to do that,” said the Cat, “if you only walk long\nenough.”\n\nAlice felt that this could not be denied, so she tried another\nquestion. “What sort of people live about here?”",
+        "score": 0.6579065946343996,
+        "metadata": {
+          "chapter_roman": "VI",
+          "language": "en",
+          "unit_chars": 1511,
+          "chapter_char_start": 10374,
+          "chapter_char_end": 11885,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 39
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 39,
+        "quote": "we’re all mad here. I’m mad. You’re mad."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "VI"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.014278300000114541
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What did the King tell the Hatter to take off?",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "38fc032040856051c0e5c81b9329cba5",
+        "text": "“I’m a poor man, your Majesty,” the Hatter began, in a trembling voice,\n“—and I hadn’t begun my tea—not above a week or so—and what with the\nbread-and-butter getting so thin—and the twinkling of the tea—”\n\n“The twinkling of the what?” said the King.\n\n“It began with the tea,” the Hatter replied.\n\n“Of course twinkling begins with a T!” said the King sharply. “Do you\ntake me for a dunce? Go on!”\n\n“I’m a poor man,” the Hatter went on, “and most things twinkled after\nthat—only the March Hare said—”\n\n",
+        "score": 0.7502768434316964,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1584,
+          "chapter_char_start": 6231,
+          "chapter_char_end": 7815,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 74
+        }
+      },
+      {
+        "chunk_id": "80b1a74efd170e4cb9ce777816c0aff6",
+        "text": "ch Hare.\n\n“Sixteenth,” added the Dormouse.\n\n“Write that down,” the King said to the jury, and the jury eagerly\nwrote down all three dates on their slates, and then added them up, and\nreduced the answer to shillings and pence.\n\n“Take off your hat,” the King said to the Hatter.\n\n“It isn’t mine,” said the Hatter.\n\n“Stolen!” the King exclaimed, turning to the jury, who instantly made\na memorandum of the fact.\n\n“I keep them to sell,” the Hatter added as an explanation; “I’ve none\nof my own. I’m a hat",
+        "score": 0.706772892720693,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        }
+      },
+      {
+        "chunk_id": "ef5b3a52c75c4e741c8996ca7f6d1b2c",
+        "text": "Here the other guinea-pig cheered, and was suppressed.\n\n“Come, that finished the guinea-pigs!” thought Alice. “Now we shall get\non better.”\n\n“I’d rather finish my tea,” said the Hatter, with an anxious look at\nthe Queen, who was reading the list of singers.\n\n“You may go,” said the King, and the Hatter hurriedly left the court,\nwithout even waiting to put his shoes on.\n\n“—and just take his head off outside,” the Queen added to one of the\nofficers: but the Hatter was out of sight before the office",
+        "score": 0.7066467014175425,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 2532,
+          "chapter_char_start": 7817,
+          "chapter_char_end": 10349,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 75
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 72,
+        "quote": "“Take off your hat,” the King said to the Hatter."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "XI"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "A",
+    "filter_applied": false,
+    "retrieval_seconds": 0.002613500000734348
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What did the King tell the Hatter to take off?",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "evidence_matches": [
+      false,
+      true,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "8a2cada614d495c6fe64664f7fb1c7e7",
+        "text": "“Well, it must be removed,” said the King very decidedly, and he called\nthe Queen, who was passing at the moment, “My dear! I wish you would\nhave this cat removed!”\n\nThe Queen had only one way of settling all difficulties, great or\nsmall. “Off with his head!” she said, without even looking round.\n\n“I’ll fetch the executioner myself,” said the King eagerly, and he\nhurried off.",
+        "score": 0.7792620079960118,
+        "metadata": {
+          "chapter_roman": "VIII",
+          "language": "en",
+          "unit_chars": 1826,
+          "chapter_char_start": 10286,
+          "chapter_char_end": 12112,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 54
+        }
+      },
+      {
+        "chunk_id": "e22f34903413718641841a9360263257",
+        "text": "“Sixteenth,” added the Dormouse.\n\n“Write that down,” the King said to the jury, and the jury eagerly\nwrote down all three dates on their slates, and then added them up, and\nreduced the answer to shillings and pence.\n\n“Take off your hat,” the King said to the Hatter.\n\n“It isn’t mine,” said the Hatter.\n\n“Stolen!” the King exclaimed, turning to the jury, who instantly made\na memorandum of the fact.\n\n“I keep them to sell,” the Hatter added as an explanation; “I’ve none\nof my own. I’m a hatter.”",
+        "score": 0.7761866614966012,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        }
+      },
+      {
+        "chunk_id": "f7d0bdfae3f045f2429a82e1ecb8cf63",
+        "text": "“I’m a poor man, your Majesty,” the Hatter began, in a trembling voice,\n“—and I hadn’t begun my tea—not above a week or so—and what with the\nbread-and-butter getting so thin—and the twinkling of the tea—”\n\n“The twinkling of the what?” said the King.\n\n“It began with the tea,” the Hatter replied.\n\n“Of course twinkling begins with a T!” said the King sharply. “Do you\ntake me for a dunce? Go on!”\n\n“I’m a poor man,” the Hatter went on, “and most things twinkled after\nthat—only the March Hare said—”",
+        "score": 0.7502768434316964,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1584,
+          "chapter_char_start": 6231,
+          "chapter_char_end": 7815,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 74
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 72,
+        "quote": "“Take off your hat,” the King said to the Hatter."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "XI"
+    },
+    "filter_compliant": false,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "B",
+    "filter_applied": false,
+    "retrieval_seconds": 0.002566600000136532
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What did the King tell the Hatter to take off?",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hits": [
+      {
+        "chunk_id": "e22f34903413718641841a9360263257",
+        "text": "“Sixteenth,” added the Dormouse.\n\n“Write that down,” the King said to the jury, and the jury eagerly\nwrote down all three dates on their slates, and then added them up, and\nreduced the answer to shillings and pence.\n\n“Take off your hat,” the King said to the Hatter.\n\n“It isn’t mine,” said the Hatter.\n\n“Stolen!” the King exclaimed, turning to the jury, who instantly made\na memorandum of the fact.\n\n“I keep them to sell,” the Hatter added as an explanation; “I’ve none\nof my own. I’m a hatter.”",
+        "score": 0.7761866614966012,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        }
+      },
+      {
+        "chunk_id": "f7d0bdfae3f045f2429a82e1ecb8cf63",
+        "text": "“I’m a poor man, your Majesty,” the Hatter began, in a trembling voice,\n“—and I hadn’t begun my tea—not above a week or so—and what with the\nbread-and-butter getting so thin—and the twinkling of the tea—”\n\n“The twinkling of the what?” said the King.\n\n“It began with the tea,” the Hatter replied.\n\n“Of course twinkling begins with a T!” said the King sharply. “Do you\ntake me for a dunce? Go on!”\n\n“I’m a poor man,” the Hatter went on, “and most things twinkled after\nthat—only the March Hare said—”",
+        "score": 0.7502768434316964,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1584,
+          "chapter_char_start": 6231,
+          "chapter_char_end": 7815,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 74
+        }
+      },
+      {
+        "chunk_id": "296f69e4a766f3fe428699279d0c61cd",
+        "text": "The first witness was the Hatter. He came in with a teacup in one hand\nand a piece of bread-and-butter in the other. “I beg pardon, your\nMajesty,” he began, “for bringing these in: but I hadn’t quite finished\nmy tea when I was sent for.”\n\n“You ought to have finished,” said the King. “When did you begin?”\n\nThe Hatter looked at the March Hare, who had followed him into the\ncourt, arm-in-arm with the Dormouse. “Fourteenth of March, I think it\nwas,” he said.\n\n“Fifteenth,” said the March Hare.",
+        "score": 0.744433063911877,
+        "metadata": {
+          "chapter_roman": "XI",
+          "language": "en",
+          "unit_chars": 1507,
+          "chapter_char_start": 3216,
+          "chapter_char_end": 4723,
+          "document_id": "gutenberg-11",
+          "source": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "page": 72
+        }
+      }
+    ],
+    "gold_evidence": [
+      {
+        "source_id": "gutenberg-11",
+        "page": 72,
+        "quote": "“Take off your hat,” the King said to the Hatter."
+      }
+    ],
+    "filter": {
+      "chapter_roman": "XI"
+    },
+    "filter_compliant": true,
+    "metric_method": "exact normalized evidence containment + source/unit; conservative proxy",
+    "strategy": "C",
+    "filter_applied": true,
+    "retrieval_seconds": 0.014602500000364671
+  }
+]

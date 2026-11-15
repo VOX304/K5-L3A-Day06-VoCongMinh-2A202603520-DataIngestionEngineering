@@ -1,4 +1,10 @@
-# Starter · PostgreSQL + pgvector
+# Lab06 implementation · FastEmbed + Qdrant local
+
+Pipeline trong repo đã được hiện thực bằng FastEmbed ONNX CPU và Qdrant local; không cần Docker hoặc API key. Làm theo [RUN_LAB06.md](../docs/RUN_LAB06.md) để cài dependency, chuẩn bị corpus và chạy dev trước test. Cấu hình thật ở [config.json](config.json); phiên bản đã chạy ở [requirements-lock.txt](requirements-lock.txt). Các phần PostgreSQL bên dưới là hướng dẫn starter gốc, không phải backend của bài làm hiện tại.
+
+---
+
+# Starter gốc · PostgreSQL + pgvector
 
 Bộ khởi động **tùy chọn** cho lab cá nhân. Docker Compose tạo PostgreSQL + pgvector local; các file trong `src/` là **khung pseudocode có TODO**, chưa đọc tài liệu, tạo embedding, lưu vector hay chạy benchmark. Bạn cần tự hiện thực. Vẫn có thể chọn Qdrant, Chroma hoặc vector store tương đương theo [GUIDE.md](../GUIDE.md).
 

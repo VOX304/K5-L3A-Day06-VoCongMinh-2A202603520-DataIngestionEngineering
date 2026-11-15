@@ -1,0 +1,133 @@
+{
+  "checked_at_utc": "2026-11-15T04:32:12.121054+00:00",
+  "status": "passed-technical-verification",
+  "source_units": 82,
+  "questions": 20,
+  "selected_strategy": "C",
+  "runs": {
+    "dev": {
+      "directory": "dev-20261115T041747197624Z",
+      "metrics": {
+        "A/dev": {
+          "hit_at_1": {
+            "correct": 4,
+            "total": 15,
+            "rate": 0.26666666666666666
+          },
+          "hit_at_3": {
+            "correct": 7,
+            "total": 15,
+            "rate": 0.4666666666666667
+          },
+          "filter_compliance": {
+            "correct": 5,
+            "total": 15
+          }
+        },
+        "B/dev": {
+          "hit_at_1": {
+            "correct": 4,
+            "total": 15,
+            "rate": 0.26666666666666666
+          },
+          "hit_at_3": {
+            "correct": 6,
+            "total": 15,
+            "rate": 0.4
+          },
+          "filter_compliance": {
+            "correct": 4,
+            "total": 15
+          }
+        },
+        "C/dev": {
+          "hit_at_1": {
+            "correct": 5,
+            "total": 15,
+            "rate": 0.3333333333333333
+          },
+          "hit_at_3": {
+            "correct": 9,
+            "total": 15,
+            "rate": 0.6
+          },
+          "filter_compliance": {
+            "correct": 15,
+            "total": 15
+          }
+        }
+      },
+      "trace_count": 45,
+      "elapsed_seconds": 57.146461700000145
+    },
+    "test": {
+      "directory": "test-20261115T041850787763Z",
+      "metrics": {
+        "A/test": {
+          "hit_at_1": {
+            "correct": 1,
+            "total": 5,
+            "rate": 0.2
+          },
+          "hit_at_3": {
+            "correct": 5,
+            "total": 5,
+            "rate": 1.0
+          },
+          "filter_compliance": {
+            "correct": 1,
+            "total": 5
+          }
+        },
+        "B/test": {
+          "hit_at_1": {
+            "correct": 0,
+            "total": 5,
+            "rate": 0.0
+          },
+          "hit_at_3": {
+            "correct": 3,
+            "total": 5,
+            "rate": 0.6
+          },
+          "filter_compliance": {
+            "correct": 2,
+            "total": 5
+          }
+        },
+        "C/test": {
+          "hit_at_1": {
+            "correct": 3,
+            "total": 5,
+            "rate": 0.6
+          },
+          "hit_at_3": {
+            "correct": 4,
+            "total": 5,
+            "rate": 0.8
+          },
+          "filter_compliance": {
+            "correct": 5,
+            "total": 5
+          }
+        }
+      },
+      "trace_count": 15,
+      "elapsed_seconds": 2.829411699999582
+    }
+  },
+  "index_fingerprints": {
+    "A": "2bbafab9e616f284c6429074ac83ca74922fa3198432433554af98d5fe34aabf",
+    "B": "21162d1368d04347a87bcd3b50921d6578ca6681b4748c9b7db6e5e93d9c067d",
+    "C": "5612009dee6e94b7a95895467e30252fa88587a00a7c9f2f448b22d5b082f41b"
+  },
+  "b_c_payloads_and_vectors_equal": true,
+  "metadata_automatic": {
+    "A": 15,
+    "B": 15,
+    "C": 15
+  },
+  "human_audit": "pending; AI proposals are not human labels",
+  "human_test_rows_complete": 0,
+  "human_coherence_rows_complete": 0
+}

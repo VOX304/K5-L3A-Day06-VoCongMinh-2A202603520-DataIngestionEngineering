@@ -1,0 +1,111 @@
+{
+  "reviewer": "Codex (AI-assisted source reading; not a human reviewer)",
+  "method": "Read normalized source units and surrounding passages, compare each question and expected answer to actual text; separately run exact quote containment. Review completed before any retrieval experiment. No automatic hit scores used as labels.",
+  "human_signoff": "pending",
+  "initial_validation": "First download check found 9 matching and 11 nonmatching draft quotes; additional answer/scope defects were found by reading source.",
+  "split_policy": "Original IDs q01-q15 dev and q16-q20 test retained. Source corrections were made before the first dev/test experiment. All questions receive chapter context explicitly before retrieval. Dev includes IX and XI, so test is a question holdout, not a disjoint chapter holdout.",
+  "questions": [
+    {
+      "id": "q01",
+      "answer_supported": true,
+      "reason": "Opening paragraph places Alice beside her sister on the bank with nothing to do; removed misleading 'just before' wording because the next paragraph describes considering daisies."
+    },
+    {
+      "id": "q02",
+      "answer_supported": true,
+      "reason": "Unit 1 states that the Rabbit took a watch out of its waistcoat-pocket; replaced nonexistent draft wording."
+    },
+    {
+      "id": "q03",
+      "answer_supported": true,
+      "reason": "Unit 5 explicitly describes the paper label on the bottle with DRINK ME in large letters."
+    },
+    {
+      "id": "q04",
+      "answer_supported": true,
+      "reason": "Unit 6 describes the small cake in a glass box, with EAT ME marked in currants."
+    },
+    {
+      "id": "q05",
+      "answer_supported": true,
+      "reason": "Unit 10 identifies the splashing animal as a mouse that slipped into the pool; the original sentence did not exist."
+    },
+    {
+      "id": "q06",
+      "answer_supported": true,
+      "reason": "Unit 13 has the Mouse introduce its driest thing and begin the William the Conqueror passage; corrected nested quotation punctuation."
+    },
+    {
+      "id": "q07",
+      "answer_supported": true,
+      "reason": "Unit 14 has Alice remain wet after the recitation and the Dodo propose a Caucus-race. Replaced ambiguous duplicate of q06 with that source-grounded event."
+    },
+    {
+      "id": "q08",
+      "answer_supported": true,
+      "reason": "Unit 8 shows the Rabbit dropping the fan and Alice picking it up to fan herself; expanded quote to support ownership as well as use."
+    },
+    {
+      "id": "q09",
+      "answer_supported": true,
+      "reason": "Unit 26 records the Caterpillar asking Who are you to Alice; used the actual punctuation."
+    },
+    {
+      "id": "q10",
+      "answer_supported": true,
+      "reason": "Unit 27 explicitly states both memory and repeated size changes; replaced unsupported draft evidence and made the question ask for both reported changes."
+    },
+    {
+      "id": "q11",
+      "answer_supported": true,
+      "reason": "Unit 31 says the Pigeon watches for serpents night and day while hatching eggs; corrected the misleading claim that she was searching for an animal."
+    },
+    {
+      "id": "q12",
+      "answer_supported": true,
+      "reason": "Unit 33 contains both footmen's versions of the Queen's invitation to the Duchess to play croquet."
+    },
+    {
+      "id": "q13",
+      "answer_supported": true,
+      "reason": "Unit 56 has Alice speculate that pepper makes people hot-tempered. This is a character's conjecture, not a factual medical claim."
+    },
+    {
+      "id": "q14",
+      "answer_supported": true,
+      "reason": "Unit 39 identifies the Cheshire Cat and its claim that everyone here is mad; corrected chapter VII to VI."
+    },
+    {
+      "id": "q15",
+      "answer_supported": true,
+      "reason": "Unit 72 records the King telling the Hatter to take off his hat; corrected chapter VII to XI and punctuation."
+    },
+    {
+      "id": "q16",
+      "answer_supported": true,
+      "reason": "Unit 57 attributes the love moral to the Duchess; corrected actual nested quotation punctuation without changing the test fact."
+    },
+    {
+      "id": "q17",
+      "answer_supported": true,
+      "reason": "Unit 64 explicitly ends the first dance figure with Back to land again. The earlier instruction sequence in chapter X corroborates that it is the final step."
+    },
+    {
+      "id": "q18",
+      "answer_supported": true,
+      "reason": "Unit 61 records the Mock Turtle saying he was once a real Turtle; corrected source punctuation without changing the test fact."
+    },
+    {
+      "id": "q19",
+      "answer_supported": true,
+      "reason": "Unit 72 contains the accusation poem: Queen made tarts and Knave stole those tarts. Allegedly is appropriate because this is an accusation at trial."
+    },
+    {
+      "id": "q20",
+      "answer_supported": true,
+      "reason": "Unit 80 attributes sentence first to the Queen and the objection to Alice. Rewrote the draft question/answer and expanded evidence so that the answer reflects Alice's actual words."
+    }
+  ],
+  "reviewed_at_utc": "2026-11-15T04:14:15.573173+00:00",
+  "benchmark_sha256": "d391e14b3b7d6e75a60d202a7fa490537107ff7a573721ee435bc713462354e7"
+}

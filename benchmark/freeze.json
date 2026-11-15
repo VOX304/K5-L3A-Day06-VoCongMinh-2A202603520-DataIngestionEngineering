@@ -1,0 +1,45 @@
+{
+  "frozen_at_utc": "2026-11-15T04:17:46.937367+00:00",
+  "stage": "before rerun dev after storage reload fix; no test query or test metric was executed",
+  "fingerprints": {
+    "config": "057c080cedafba2eb55e37adbbe9a2fa7c6548355e652abec16990de6519fc0b",
+    "corpus": "032bada10c8cd0bf3582d287bc8e46c61b75b0cc7619af51713071ea8bd1c710",
+    "benchmark": "d391e14b3b7d6e75a60d202a7fa490537107ff7a573721ee435bc713462354e7",
+    "code/chunking.py": "136233360866b52d56807c3b2c4bf5726ca18a75262c5b30f83558b388121497",
+    "code/embeddings.py": "8b573cfb82fbbf7100433f3c38995f1bd451d6797321189a55d10807f12b8f3f",
+    "code/evaluation.py": "cb521a4529cb123167cc7468efc051bd155b62ab748440ba4932c01f1066d2c1",
+    "code/ingestion.py": "46d6402e36bf6cda850226a991fe2d9bff911e87542eb3265b808a0343aa0fec",
+    "code/models.py": "9f26a14cd6139c7b608df067894274308ae7b5c2c2ccd10566079c345fae1710",
+    "code/run.py": "35bd5b4c61803d0db08a04afcefa3eb5fedea0f855e611028782bd3b0c4b9d80",
+    "code/store.py": "4ac4fb9a6f8b438b3209bb375c997dc0154fd4f0e047ddcd179a1927abd21540",
+    "code/__init__.py": "9d51e4a4713565f1b69bb8f3a0d8ac2c6c8730961e738a65f7a7a4ebd2a593a8"
+  },
+  "source_review_sha256": "f407a5e87477b241be3d33faab7ad7158be02deace0919323f89838d1b3d5d03",
+  "selection_rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer indexed chunks; ties A, B, C. Test is not used to tune.",
+  "dev_ids": [
+    "q01",
+    "q02",
+    "q03",
+    "q04",
+    "q05",
+    "q06",
+    "q07",
+    "q08",
+    "q09",
+    "q10",
+    "q11",
+    "q12",
+    "q13",
+    "q14",
+    "q15"
+  ],
+  "test_ids": [
+    "q16",
+    "q17",
+    "q18",
+    "q19",
+    "q20"
+  ],
+  "supersedes": "freeze-before-reload-fix.json",
+  "reason": "Qdrant local upsert vs reload vector representation changed fingerprint. Fix reads exact disk snapshot before hashing/search; corpus, model, questions and strategy parameters unchanged."
+}

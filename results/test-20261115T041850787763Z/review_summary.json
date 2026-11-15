@@ -1,0 +1,53 @@
+{
+  "provenance": "Read all 20 distinct sampled A/B chunks and all 15 test top-3 traces in full. B and C coherence samples are identical and their IDs/text are checked equal. Apply GUIDE 0/1/2 rubrics to content, with per-case reasons. Source/metadata assertions are automated separately. Review is unblinded after viewing retrieval scores and may be biased; these are AI proposals, not required human labels.",
+  "human_test_rows_complete": 0,
+  "human_test_rows_required": 15,
+  "human_coherence_rows_complete": 0,
+  "human_coherence_rows_required": 30,
+  "strategies": {
+    "A": {
+      "metadata_automatic_correct": 15,
+      "metadata_automatic_total": 15,
+      "ai_coherence_distribution": {
+        "1": 10
+      },
+      "ai_coherence_mean": 1.0,
+      "ai_grounding_distribution": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      },
+      "ai_grounding_mean": 2.0
+    },
+    "B": {
+      "metadata_automatic_correct": 15,
+      "metadata_automatic_total": 15,
+      "ai_coherence_distribution": {
+        "2": 4,
+        "1": 6
+      },
+      "ai_coherence_mean": 1.4,
+      "ai_grounding_distribution": {
+        "0": 1,
+        "1": 1,
+        "2": 3
+      },
+      "ai_grounding_mean": 1.4
+    },
+    "C": {
+      "metadata_automatic_correct": 15,
+      "metadata_automatic_total": 15,
+      "ai_coherence_distribution": {
+        "2": 4,
+        "1": 6
+      },
+      "ai_coherence_mean": 1.4,
+      "ai_grounding_distribution": {
+        "0": 0,
+        "1": 1,
+        "2": 4
+      },
+      "ai_grounding_mean": 1.8
+    }
+  }
+}

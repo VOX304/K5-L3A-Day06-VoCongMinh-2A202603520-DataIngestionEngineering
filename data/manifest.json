@@ -1,0 +1,676 @@
+{
+  "source_id": "gutenberg-11",
+  "title": "Alice's Adventures in Wonderland",
+  "source_path_or_url": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+  "raw_path": "data/raw/alice.txt",
+  "license_or_permission": "Original English literary work; author died 1898; public domain in USA per catalog. Vietnam life+50 basis and retained Gutenberg terms: see docs/corpus-choice.md and data/NOTICE.md.",
+  "license_path": "data/LICENSE.gutenberg.txt",
+  "accessed_at": "2026-11-15T04:09:05.706742+00:00",
+  "accessed_at_basis": "Local raw snapshot mtime at download/import; not an edition publication date",
+  "edition": "The Millennium Fulcrum Edition 3.0; Gutenberg update June 26, 2025 (raw header)",
+  "sha256": "01b38ea4c710a84bc18d0bd41271a5a1a92b94e97b2812f4dece97d4a694725e",
+  "unit_rule": "sequential chapter-local paragraph groups >=1500 NFC characters; short tails merged",
+  "normalization": "NFC; CRLF to LF; strip line edges/collapse horizontal whitespace; preserve paragraph breaks; remove underscore emphasis markers",
+  "physical_pages": null,
+  "content_units": 82,
+  "total_unit_characters": 142809,
+  "boundary_convention": "Chapter-local normalized character offsets [start,end); two newline separators between units are excluded",
+  "units": [
+    {
+      "page": 1,
+      "chapter_roman": "I",
+      "language": "en",
+      "unit_chars": 1693,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1693
+    },
+    {
+      "page": 2,
+      "chapter_roman": "I",
+      "language": "en",
+      "unit_chars": 1680,
+      "chapter_char_start": 1695,
+      "chapter_char_end": 3375
+    },
+    {
+      "page": 3,
+      "chapter_roman": "I",
+      "language": "en",
+      "unit_chars": 1660,
+      "chapter_char_start": 3377,
+      "chapter_char_end": 5037
+    },
+    {
+      "page": 4,
+      "chapter_roman": "I",
+      "language": "en",
+      "unit_chars": 2089,
+      "chapter_char_start": 5039,
+      "chapter_char_end": 7128
+    },
+    {
+      "page": 5,
+      "chapter_roman": "I",
+      "language": "en",
+      "unit_chars": 1503,
+      "chapter_char_start": 7130,
+      "chapter_char_end": 8633
+    },
+    {
+      "page": 6,
+      "chapter_roman": "I",
+      "language": "en",
+      "unit_chars": 2708,
+      "chapter_char_start": 8635,
+      "chapter_char_end": 11343
+    },
+    {
+      "page": 7,
+      "chapter_roman": "II",
+      "language": "en",
+      "unit_chars": 1764,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1764
+    },
+    {
+      "page": 8,
+      "chapter_roman": "II",
+      "language": "en",
+      "unit_chars": 2253,
+      "chapter_char_start": 1766,
+      "chapter_char_end": 4019
+    },
+    {
+      "page": 9,
+      "chapter_roman": "II",
+      "language": "en",
+      "unit_chars": 1533,
+      "chapter_char_start": 4021,
+      "chapter_char_end": 5554
+    },
+    {
+      "page": 10,
+      "chapter_roman": "II",
+      "language": "en",
+      "unit_chars": 1678,
+      "chapter_char_start": 5556,
+      "chapter_char_end": 7234
+    },
+    {
+      "page": 11,
+      "chapter_roman": "II",
+      "language": "en",
+      "unit_chars": 1977,
+      "chapter_char_start": 7236,
+      "chapter_char_end": 9213
+    },
+    {
+      "page": 12,
+      "chapter_roman": "II",
+      "language": "en",
+      "unit_chars": 1678,
+      "chapter_char_start": 9215,
+      "chapter_char_end": 10893
+    },
+    {
+      "page": 13,
+      "chapter_roman": "III",
+      "language": "en",
+      "unit_chars": 1533,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1533
+    },
+    {
+      "page": 14,
+      "chapter_roman": "III",
+      "language": "en",
+      "unit_chars": 1500,
+      "chapter_char_start": 1535,
+      "chapter_char_end": 3035
+    },
+    {
+      "page": 15,
+      "chapter_roman": "III",
+      "language": "en",
+      "unit_chars": 1698,
+      "chapter_char_start": 3037,
+      "chapter_char_end": 4735
+    },
+    {
+      "page": 16,
+      "chapter_roman": "III",
+      "language": "en",
+      "unit_chars": 1896,
+      "chapter_char_start": 4737,
+      "chapter_char_end": 6633
+    },
+    {
+      "page": 17,
+      "chapter_roman": "III",
+      "language": "en",
+      "unit_chars": 2536,
+      "chapter_char_start": 6635,
+      "chapter_char_end": 9171
+    },
+    {
+      "page": 18,
+      "chapter_roman": "IV",
+      "language": "en",
+      "unit_chars": 1581,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1581
+    },
+    {
+      "page": 19,
+      "chapter_roman": "IV",
+      "language": "en",
+      "unit_chars": 1533,
+      "chapter_char_start": 1583,
+      "chapter_char_end": 3116
+    },
+    {
+      "page": 20,
+      "chapter_roman": "IV",
+      "language": "en",
+      "unit_chars": 1556,
+      "chapter_char_start": 3118,
+      "chapter_char_end": 4674
+    },
+    {
+      "page": 21,
+      "chapter_roman": "IV",
+      "language": "en",
+      "unit_chars": 1624,
+      "chapter_char_start": 4676,
+      "chapter_char_end": 6300
+    },
+    {
+      "page": 22,
+      "chapter_roman": "IV",
+      "language": "en",
+      "unit_chars": 1624,
+      "chapter_char_start": 6302,
+      "chapter_char_end": 7926
+    },
+    {
+      "page": 23,
+      "chapter_roman": "IV",
+      "language": "en",
+      "unit_chars": 1570,
+      "chapter_char_start": 7928,
+      "chapter_char_end": 9498
+    },
+    {
+      "page": 24,
+      "chapter_roman": "IV",
+      "language": "en",
+      "unit_chars": 1674,
+      "chapter_char_start": 9500,
+      "chapter_char_end": 11174
+    },
+    {
+      "page": 25,
+      "chapter_roman": "IV",
+      "language": "en",
+      "unit_chars": 2663,
+      "chapter_char_start": 11176,
+      "chapter_char_end": 13839
+    },
+    {
+      "page": 26,
+      "chapter_roman": "V",
+      "language": "en",
+      "unit_chars": 1606,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1606
+    },
+    {
+      "page": 27,
+      "chapter_roman": "V",
+      "language": "en",
+      "unit_chars": 1564,
+      "chapter_char_start": 1608,
+      "chapter_char_end": 3172
+    },
+    {
+      "page": 28,
+      "chapter_roman": "V",
+      "language": "en",
+      "unit_chars": 1519,
+      "chapter_char_start": 3174,
+      "chapter_char_end": 4693
+    },
+    {
+      "page": 29,
+      "chapter_roman": "V",
+      "language": "en",
+      "unit_chars": 1606,
+      "chapter_char_start": 4695,
+      "chapter_char_end": 6301
+    },
+    {
+      "page": 30,
+      "chapter_roman": "V",
+      "language": "en",
+      "unit_chars": 1742,
+      "chapter_char_start": 6303,
+      "chapter_char_end": 8045
+    },
+    {
+      "page": 31,
+      "chapter_roman": "V",
+      "language": "en",
+      "unit_chars": 1689,
+      "chapter_char_start": 8047,
+      "chapter_char_end": 9736
+    },
+    {
+      "page": 32,
+      "chapter_roman": "V",
+      "language": "en",
+      "unit_chars": 2063,
+      "chapter_char_start": 9738,
+      "chapter_char_end": 11801
+    },
+    {
+      "page": 33,
+      "chapter_roman": "VI",
+      "language": "en",
+      "unit_chars": 1809,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1809
+    },
+    {
+      "page": 34,
+      "chapter_roman": "VI",
+      "language": "en",
+      "unit_chars": 1615,
+      "chapter_char_start": 1811,
+      "chapter_char_end": 3426
+    },
+    {
+      "page": 35,
+      "chapter_roman": "VI",
+      "language": "en",
+      "unit_chars": 2017,
+      "chapter_char_start": 3428,
+      "chapter_char_end": 5445
+    },
+    {
+      "page": 36,
+      "chapter_roman": "VI",
+      "language": "en",
+      "unit_chars": 1606,
+      "chapter_char_start": 5447,
+      "chapter_char_end": 7053
+    },
+    {
+      "page": 37,
+      "chapter_roman": "VI",
+      "language": "en",
+      "unit_chars": 1726,
+      "chapter_char_start": 7055,
+      "chapter_char_end": 8781
+    },
+    {
+      "page": 38,
+      "chapter_roman": "VI",
+      "language": "en",
+      "unit_chars": 1589,
+      "chapter_char_start": 8783,
+      "chapter_char_end": 10372
+    },
+    {
+      "page": 39,
+      "chapter_roman": "VI",
+      "language": "en",
+      "unit_chars": 1511,
+      "chapter_char_start": 10374,
+      "chapter_char_end": 11885
+    },
+    {
+      "page": 40,
+      "chapter_roman": "VI",
+      "language": "en",
+      "unit_chars": 1896,
+      "chapter_char_start": 11887,
+      "chapter_char_end": 13783
+    },
+    {
+      "page": 41,
+      "chapter_roman": "VII",
+      "language": "en",
+      "unit_chars": 1625,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1625
+    },
+    {
+      "page": 42,
+      "chapter_roman": "VII",
+      "language": "en",
+      "unit_chars": 1534,
+      "chapter_char_start": 1627,
+      "chapter_char_end": 3161
+    },
+    {
+      "page": 43,
+      "chapter_roman": "VII",
+      "language": "en",
+      "unit_chars": 1543,
+      "chapter_char_start": 3163,
+      "chapter_char_end": 4706
+    },
+    {
+      "page": 44,
+      "chapter_roman": "VII",
+      "language": "en",
+      "unit_chars": 1645,
+      "chapter_char_start": 4708,
+      "chapter_char_end": 6353
+    },
+    {
+      "page": 45,
+      "chapter_roman": "VII",
+      "language": "en",
+      "unit_chars": 1550,
+      "chapter_char_start": 6355,
+      "chapter_char_end": 7905
+    },
+    {
+      "page": 46,
+      "chapter_roman": "VII",
+      "language": "en",
+      "unit_chars": 1637,
+      "chapter_char_start": 7907,
+      "chapter_char_end": 9544
+    },
+    {
+      "page": 47,
+      "chapter_roman": "VII",
+      "language": "en",
+      "unit_chars": 3092,
+      "chapter_char_start": 9546,
+      "chapter_char_end": 12638
+    },
+    {
+      "page": 48,
+      "chapter_roman": "VIII",
+      "language": "en",
+      "unit_chars": 1820,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1820
+    },
+    {
+      "page": 49,
+      "chapter_roman": "VIII",
+      "language": "en",
+      "unit_chars": 1669,
+      "chapter_char_start": 1822,
+      "chapter_char_end": 3491
+    },
+    {
+      "page": 50,
+      "chapter_roman": "VIII",
+      "language": "en",
+      "unit_chars": 1526,
+      "chapter_char_start": 3493,
+      "chapter_char_end": 5019
+    },
+    {
+      "page": 51,
+      "chapter_roman": "VIII",
+      "language": "en",
+      "unit_chars": 1908,
+      "chapter_char_start": 5021,
+      "chapter_char_end": 6929
+    },
+    {
+      "page": 52,
+      "chapter_roman": "VIII",
+      "language": "en",
+      "unit_chars": 1834,
+      "chapter_char_start": 6931,
+      "chapter_char_end": 8765
+    },
+    {
+      "page": 53,
+      "chapter_roman": "VIII",
+      "language": "en",
+      "unit_chars": 1517,
+      "chapter_char_start": 8767,
+      "chapter_char_end": 10284
+    },
+    {
+      "page": 54,
+      "chapter_roman": "VIII",
+      "language": "en",
+      "unit_chars": 1826,
+      "chapter_char_start": 10286,
+      "chapter_char_end": 12112
+    },
+    {
+      "page": 55,
+      "chapter_roman": "VIII",
+      "language": "en",
+      "unit_chars": 1529,
+      "chapter_char_start": 12114,
+      "chapter_char_end": 13643
+    },
+    {
+      "page": 56,
+      "chapter_roman": "IX",
+      "language": "en",
+      "unit_chars": 1688,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1688
+    },
+    {
+      "page": 57,
+      "chapter_roman": "IX",
+      "language": "en",
+      "unit_chars": 1560,
+      "chapter_char_start": 1690,
+      "chapter_char_end": 3250
+    },
+    {
+      "page": 58,
+      "chapter_roman": "IX",
+      "language": "en",
+      "unit_chars": 1510,
+      "chapter_char_start": 3252,
+      "chapter_char_end": 4762
+    },
+    {
+      "page": 59,
+      "chapter_roman": "IX",
+      "language": "en",
+      "unit_chars": 1677,
+      "chapter_char_start": 4764,
+      "chapter_char_end": 6441
+    },
+    {
+      "page": 60,
+      "chapter_roman": "IX",
+      "language": "en",
+      "unit_chars": 1576,
+      "chapter_char_start": 6443,
+      "chapter_char_end": 8019
+    },
+    {
+      "page": 61,
+      "chapter_roman": "IX",
+      "language": "en",
+      "unit_chars": 1542,
+      "chapter_char_start": 8021,
+      "chapter_char_end": 9563
+    },
+    {
+      "page": 62,
+      "chapter_roman": "IX",
+      "language": "en",
+      "unit_chars": 3029,
+      "chapter_char_start": 9565,
+      "chapter_char_end": 12594
+    },
+    {
+      "page": 63,
+      "chapter_roman": "X",
+      "language": "en",
+      "unit_chars": 1549,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1549
+    },
+    {
+      "page": 64,
+      "chapter_roman": "X",
+      "language": "en",
+      "unit_chars": 1674,
+      "chapter_char_start": 1551,
+      "chapter_char_end": 3225
+    },
+    {
+      "page": 65,
+      "chapter_roman": "X",
+      "language": "en",
+      "unit_chars": 1558,
+      "chapter_char_start": 3227,
+      "chapter_char_end": 4785
+    },
+    {
+      "page": 66,
+      "chapter_roman": "X",
+      "language": "en",
+      "unit_chars": 1657,
+      "chapter_char_start": 4787,
+      "chapter_char_end": 6444
+    },
+    {
+      "page": 67,
+      "chapter_roman": "X",
+      "language": "en",
+      "unit_chars": 1559,
+      "chapter_char_start": 6446,
+      "chapter_char_end": 8005
+    },
+    {
+      "page": 68,
+      "chapter_roman": "X",
+      "language": "en",
+      "unit_chars": 1545,
+      "chapter_char_start": 8007,
+      "chapter_char_end": 9552
+    },
+    {
+      "page": 69,
+      "chapter_roman": "X",
+      "language": "en",
+      "unit_chars": 1786,
+      "chapter_char_start": 9554,
+      "chapter_char_end": 11340
+    },
+    {
+      "page": 70,
+      "chapter_roman": "XI",
+      "language": "en",
+      "unit_chars": 1666,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1666
+    },
+    {
+      "page": 71,
+      "chapter_roman": "XI",
+      "language": "en",
+      "unit_chars": 1546,
+      "chapter_char_start": 1668,
+      "chapter_char_end": 3214
+    },
+    {
+      "page": 72,
+      "chapter_roman": "XI",
+      "language": "en",
+      "unit_chars": 1507,
+      "chapter_char_start": 3216,
+      "chapter_char_end": 4723
+    },
+    {
+      "page": 73,
+      "chapter_roman": "XI",
+      "language": "en",
+      "unit_chars": 1504,
+      "chapter_char_start": 4725,
+      "chapter_char_end": 6229
+    },
+    {
+      "page": 74,
+      "chapter_roman": "XI",
+      "language": "en",
+      "unit_chars": 1584,
+      "chapter_char_start": 6231,
+      "chapter_char_end": 7815
+    },
+    {
+      "page": 75,
+      "chapter_roman": "XI",
+      "language": "en",
+      "unit_chars": 2532,
+      "chapter_char_start": 7817,
+      "chapter_char_end": 10349
+    },
+    {
+      "page": 76,
+      "chapter_roman": "XII",
+      "language": "en",
+      "unit_chars": 1664,
+      "chapter_char_start": 0,
+      "chapter_char_end": 1664
+    },
+    {
+      "page": 77,
+      "chapter_roman": "XII",
+      "language": "en",
+      "unit_chars": 1520,
+      "chapter_char_start": 1666,
+      "chapter_char_end": 3186
+    },
+    {
+      "page": 78,
+      "chapter_roman": "XII",
+      "language": "en",
+      "unit_chars": 1517,
+      "chapter_char_start": 3188,
+      "chapter_char_end": 4705
+    },
+    {
+      "page": 79,
+      "chapter_roman": "XII",
+      "language": "en",
+      "unit_chars": 1809,
+      "chapter_char_start": 4707,
+      "chapter_char_end": 6516
+    },
+    {
+      "page": 80,
+      "chapter_roman": "XII",
+      "language": "en",
+      "unit_chars": 1532,
+      "chapter_char_start": 6518,
+      "chapter_char_end": 8050
+    },
+    {
+      "page": 81,
+      "chapter_roman": "XII",
+      "language": "en",
+      "unit_chars": 1674,
+      "chapter_char_start": 8052,
+      "chapter_char_end": 9726
+    },
+    {
+      "page": 82,
+      "chapter_roman": "XII",
+      "language": "en",
+      "unit_chars": 1827,
+      "chapter_char_start": 9728,
+      "chapter_char_end": 11555
+    }
+  ]
+}

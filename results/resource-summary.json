@@ -1,0 +1,72 @@
+{
+  "dev": {
+    "A": {
+      "chunk_count": 350,
+      "characters": 156209,
+      "min_chars": 96,
+      "median_chars": 500,
+      "max_chars": 500,
+      "ingest_and_reingest_seconds": 23.0105666999998,
+      "index_reused": false,
+      "retrieval_seconds_mean": 0.00278050666662845,
+      "retrieval_seconds_total": 0.04170759999942675
+    },
+    "B": {
+      "chunk_count": 408,
+      "characters": 142267,
+      "min_chars": 4,
+      "median_chars": 392,
+      "max_chars": 500,
+      "ingest_and_reingest_seconds": 26.409430300000167,
+      "index_reused": false,
+      "retrieval_seconds_mean": 0.002711033333252999,
+      "retrieval_seconds_total": 0.040665499998794985
+    },
+    "C": {
+      "chunk_count": 408,
+      "characters": 142267,
+      "min_chars": 4,
+      "median_chars": 392,
+      "max_chars": 500,
+      "ingest_and_reingest_seconds": 5.115269700000681,
+      "index_reused": false,
+      "retrieval_seconds_mean": 0.01898261333347667,
+      "retrieval_seconds_total": 0.28473920000215003
+    }
+  },
+  "test": {
+    "A": {
+      "chunk_count": 350,
+      "characters": 156209,
+      "min_chars": 96,
+      "median_chars": 500,
+      "max_chars": 500,
+      "ingest_and_reingest_seconds": 0.15314829999988433,
+      "index_reused": true,
+      "retrieval_seconds_mean": 0.0019149000001561945,
+      "retrieval_seconds_total": 0.009574500000780972
+    },
+    "B": {
+      "chunk_count": 408,
+      "characters": 142267,
+      "min_chars": 4,
+      "median_chars": 392,
+      "max_chars": 500,
+      "ingest_and_reingest_seconds": 0.196205899999768,
+      "index_reused": true,
+      "retrieval_seconds_mean": 0.001836879999791563,
+      "retrieval_seconds_total": 0.009184399998957815
+    },
+    "C": {
+      "chunk_count": 408,
+      "characters": 142267,
+      "min_chars": 4,
+      "median_chars": 392,
+      "max_chars": 500,
+      "ingest_and_reingest_seconds": 0.18367899999975634,
+      "index_reused": true,
+      "retrieval_seconds_mean": 0.009209520000149496,
+      "retrieval_seconds_total": 0.04604760000074748
+    }
+  }
+}

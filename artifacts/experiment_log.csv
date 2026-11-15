@@ -1,4 +1,4 @@
-strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes,chunk_count,indexed_characters,dev_ingest_and_reingest_seconds,api_cost_usd,dev_run,test_run
+A,fixed,500,50,document_id/source/page/chapter_roman,none,BAAI/bge-small-en-v1.5,Baseline,4/15,7/15,1/5,5/5,EXECUTED; exact source+quote metric; C selected on dev before test; C reuses B document embeddings; local API charge 0; human audit pending,350,156209,23.0105666999998,0,dev-20261115T041747197624Z,test-20261115T041850787763Z
+B,paragraph,500,0,document_id/source/page/chapter_roman,none,BAAI/bge-small-en-v1.5,Paragraph boundaries may improve evidence coherence,4/15,6/15,0/5,3/5,EXECUTED; exact source+quote metric; C selected on dev before test; C reuses B document embeddings; local API charge 0; human audit pending,408,142267,26.409430300000167,0,dev-20261115T041747197624Z,test-20261115T041850787763Z
+C,paragraph,500,0,document_id/source/page/chapter_roman,chapter_roman when supplied,BAAI/bge-small-en-v1.5,Context filtering may improve relevant evidence,5/15,9/15,3/5,4/5,EXECUTED; exact source+quote metric; C selected on dev before test; C reuses B document embeddings; local API charge 0; human audit pending,408,142267,5.115269700000681,0,dev-20261115T041747197624Z,test-20261115T041850787763Z

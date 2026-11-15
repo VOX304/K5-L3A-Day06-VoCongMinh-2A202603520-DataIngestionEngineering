@@ -1,0 +1,29 @@
+{
+  "A": {
+    "chunk_count": 350,
+    "characters": 156209,
+    "min_chars": 96,
+    "median_chars": 500,
+    "max_chars": 500,
+    "ingest_and_reingest_seconds": 0.15314829999988433,
+    "index_reused": true
+  },
+  "B": {
+    "chunk_count": 408,
+    "characters": 142267,
+    "min_chars": 4,
+    "median_chars": 392,
+    "max_chars": 500,
+    "ingest_and_reingest_seconds": 0.196205899999768,
+    "index_reused": true
+  },
+  "C": {
+    "chunk_count": 408,
+    "characters": 142267,
+    "min_chars": 4,
+    "median_chars": 392,
+    "max_chars": 500,
+    "ingest_and_reingest_seconds": 0.18367899999975634,
+    "index_reused": true
+  }
+}

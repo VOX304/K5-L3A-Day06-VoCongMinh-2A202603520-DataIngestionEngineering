@@ -1,0 +1,50 @@
+{
+  "A/dev": {
+    "hit_at_1": {
+      "correct": 4,
+      "total": 15,
+      "rate": 0.26666666666666666
+    },
+    "hit_at_3": {
+      "correct": 7,
+      "total": 15,
+      "rate": 0.4666666666666667
+    },
+    "filter_compliance": {
+      "correct": 5,
+      "total": 15
+    }
+  },
+  "B/dev": {
+    "hit_at_1": {
+      "correct": 4,
+      "total": 15,
+      "rate": 0.26666666666666666
+    },
+    "hit_at_3": {
+      "correct": 6,
+      "total": 15,
+      "rate": 0.4
+    },
+    "filter_compliance": {
+      "correct": 4,
+      "total": 15
+    }
+  },
+  "C/dev": {
+    "hit_at_1": {
+      "correct": 5,
+      "total": 15,
+      "rate": 0.3333333333333333
+    },
+    "hit_at_3": {
+      "correct": 9,
+      "total": 15,
+      "rate": 0.6
+    },
+    "filter_compliance": {
+      "correct": 15,
+      "total": 15
+    }
+  }
+}

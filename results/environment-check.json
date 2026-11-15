@@ -1,0 +1,23 @@
+{
+  "timestamp_utc": "2026-11-15T04:14:17.063799+00:00",
+  "python": "3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]",
+  "checks": {
+    "module/fastembed": true,
+    "module/qdrant_client": true,
+    "module/pypdf": true,
+    "module/pytest": true,
+    "module/mypy": true,
+    "dns/pypi.org": true,
+    "dns/www.gutenberg.org": true,
+    "dns/huggingface.co": true,
+    "file/data/corpus.jsonl": true,
+    "file/data/manifest.json": true,
+    "file/benchmark/questions.json": true,
+    "candidate_questions": {
+      "dev": 15,
+      "test": 5,
+      "status": "seeds; quote checks in benchmark/validation.json; answer review in benchmark/source_review.json"
+    }
+  },
+  "check_type": "prerequisites only; retrieval execution is recorded in timestamped run directories"
+}

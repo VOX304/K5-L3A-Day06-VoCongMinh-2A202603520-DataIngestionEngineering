@@ -1,4 +1,7 @@
-# Core setup and PDF parsing. Choose and install an embedding SDK separately.
-psycopg[binary]==3.3.8
+# Local CPU ONNX embeddings and persistent Qdrant; no services or API keys.
+qdrant-client>=1.14,<2
+fastembed>=0.7,<1
 pypdf>=5,<7
 python-dotenv>=1,<2
+pytest>=8,<10
+mypy>=1,<2
